@@ -15,6 +15,7 @@
   "xml" : { "home" : "github", "auth" : "krunen" },
   "statistics-lite" : { "home" : "github", "auth" : "aff" },
   "json" : { "home" : "github", "auth" : "moritz" },
+  "Nonogram" : { "home" : "github", "auth" : "moritz" },
   "faz" : { "home" : "github", "auth" : "ruoso" },
   "http-daemon" : { "home" : "gitorious", "auth" : "mberends" },
   "yarn" : { "home" : "github", "auth" : "masak" },
