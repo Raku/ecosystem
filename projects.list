@@ -75,5 +75,7 @@
   "perl6-string-crc32" : { "home" : "github", "auth" : "cosimo" },
   "Digest-sum" : { "home" : "github", "auth" : "xenu" },
   "http-server-simple" : { "home" : "github", "auth" : "mberends" },
-  "List-Utils" : { "home" : "github", "auth" : "colomon" }
+  "List-Utils" : { "home" : "github", "auth" : "colomon" },
+  "perl6-Module-Tools" : { "home" : "github", "auth" : "tadzik" },
+  "neutro" : { "home" : "github", "auth" : "tadzik" }
 }
