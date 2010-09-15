@@ -78,4 +78,5 @@
   "List-Utils" : { "home" : "github", "auth" : "colomon" },
   "perl6-Module-Tools" : { "home" : "github", "auth" : "tadzik" },
   "neutro" : { "home" : "github", "auth" : "tadzik" }
+  "exemel" : { "home" : "github", "auth" : "supernovus" }
 }
