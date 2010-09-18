@@ -77,6 +77,9 @@
   "http-server-simple" : { "home" : "github", "auth" : "mberends" },
   "List-Utils" : { "home" : "github", "auth" : "colomon" },
   "perl6-Module-Tools" : { "home" : "github", "auth" : "tadzik" },
-  "neutro" : { "home" : "github", "auth" : "tadzik" }
-  "exemel" : { "home" : "github", "auth" : "supernovus" }
+  "neutro" : { "home" : "github", "auth" : "tadzik" },
+  "exemel" : { "home" : "github", "auth" : "supernovus" },
+  "perlite6" : { "home" : "github", "auth" : "supernovus" },
+  "ww6" : { "home" : "github", "auth" : "supernovus" },
+  "flower" : { "home" : "github", "auth" : "supernovus" },
 }
