@@ -1,85 +1,83 @@
-{
-  "proto" : { "home" : "github", "auth" : "masak" },
-  "november" : { "home" : "github", "auth" : "viklund" },
-  "html-template" : { "home" : "github", "auth" : "masak" },
-  "druid" : { "home" : "github", "auth" : "masak" },
-  "perl6-examples" : { "home" : "github", "auth" : "perl6" },
-  "uri" : { "home" : "github", "auth" : "ihrd" },
-  "web" : { "home" : "github", "auth" : "masak" },
-  "xml-writer" : { "home" : "github", "auth" : "masak" },
-  "svg-plot" : { "home" : "github", "auth" : "moritz" },
-  "maya" : { "home" : "github", "auth" : "ihrd" },
-  "form" : { "home" : "github", "auth" : "mathw" },
-  "pun" : { "home" : "github", "auth" : "masak" },
-  "io-prompt" : { "home" : "github", "auth" : "pnu" },
-  "xml" : { "home" : "github", "auth" : "krunen" },
-  "statistics-lite" : { "home" : "github", "auth" : "aff" },
-  "json" : { "home" : "github", "auth" : "moritz" },
-  "Nonogram" : { "home" : "github", "auth" : "moritz" },
-  "faz" : { "home" : "github", "auth" : "ruoso" },
-  "http-daemon" : { "home" : "gitorious", "auth" : "mberends" },
-  "yarn" : { "home" : "github", "auth" : "masak" },
-  "ppm" : { "home" : "github", "auth" : "dcarrera" },
-  "bioperl6" : { "home" : "github", "auth" : "cjfields" },
-  "SQL-Grammar" : { "home" : "github", "auth" : "arnsholt" },
-  "grampa" : { "home" : "github", "auth" : "masak" },
-  "perl6-lwp-simple" : { "home" : "github", "auth" : "cosimo" },
-  "benchmark" : { "home" : "github", "auth" : "perlpilot" },
-  "csv" : { "home" : "github", "auth" : "masak" },
-  "gamebase" : { "home" : "github", "auth" : "quietfanatic" },
-  "Vector" : { "home" : "github", "auth" : "LastOfTheCarelessMen" },
-  "perl6-literate" : { "home" : "github", "auth" : "masak" },
-  "perl6-sqlite" : { "home" : "github", "auth" : "tene" },
-  "Tree" : { "home" : "github", "auth" : "wayland" },
-  "mwbot" : { "home" : "github", "auth" : "carlins" },
-  "link-c" : { "home" : "github", "auth" : "quietfanatic" },
-  "rssbot" : { "home" : "github", "auth" : "carlins" },
-  "lolsql" : { "home" : "github", "auth" : "jnthn" },
-  "mubot" : { "home" : "github", "auth" : "carlins" },
-  "irc-client" : { "home" : "github", "auth" : "carlins" },
-  "http-client" : { "home" : "github", "auth" : "carlins" },
-  "Perl6-Term--ANSIColor" : { "home" : "github", "auth" : "illvilja" },
-  "ABC" : { "home" : "github", "auth" : "LastOfTheCarelessMen" },
-  "tardis" : { "home" : "github", "auth" : "masak" },
-  "yapsi" : { "home" : "github", "auth" : "masak" },
-  "mandelbrot" : { "home" : "github", "auth" : "colomon" },
-  "zavolaj" : { "home" : "github", "auth" : "jnthn" },
-  "MiniDBI" : { "home" : "github", "auth" : "mberends" },
-  "messagepack-pm6" : { "home" : "github", "auth" : "uasi" },
-  "gge" : { "home" : "github", "auth" : "masak" },
-  "ufo" : { "home" : "github", "auth" : "masak" },
-  "Math-RungeKutta" : { "home" : "github", "auth" : "moritz" },
-  "Math-Model" : { "home" : "github", "auth" : "moritz" },
-  "CGI-Application" : { "home" : "github", "auth" : "moritz" },
-  "perl6-Module-Starter" : { "home" : "github", "auth" : "moritz" },
-  "perl6-puppet-parser" : { "home" : "github", "auth" : "cosimo" },
-  "Algorithm-Viterbi" : { "home" : "github", "auth" : "arnsholt" },
-  "perl6-digest-md5" : { "home" : "github", "auth" : "cosimo" },
-  "XML-OPML" : { "home" : "github", "auth" : "radus" },
-  "test-mock" : { "home" : "github", "auth" : "jnthn" },
-  "testml-pm6" : { "home" : "github", "auth" : "ingydotnet" },
-  "Perl6-MIME-Base64" : { "home" : "github", "auth" : "snarkyboojum" },
-  "svg" : { "home" : "github", "auth" : "moritz" },
-  "Bennu" : { "home" : "github", "auth" : "ekiru" },
-  "yaml-pm6" : { "home" : "github", "auth" : "ingydotnet" },
-  "SCGI" : { "home" : "github", "auth" : "supernovus" },
-  "temporal-utils" : { "home" : "github", "auth" : "supernovus" },
-  "Math-Vector" : { "home" : "github", "auth" : "colomon" },
-  "Math-Polynomial" : { "home" : "github", "auth" : "colomon" },
-  "DBDI" : { "home" : "github", "auth" : "timbunce" },
-  "DateTime-Parse" : { "home" : "github", "auth" : "KodiB" },
-  "perl6-Config-INI" : { "home" : "github", "auth" : "tadzik" },
-  "perl6-File-Tools" : { "home" : "github", "auth" : "tadzik" },
-  "perl6-Term-ANSIColor" : { "home" : "github", "auth" : "tadzik" },
-  "perl6-Acme-Meow" : { "home" : "github", "auth" : "tadzik" },
-  "perl6-string-crc32" : { "home" : "github", "auth" : "cosimo" },
-  "Digest-sum" : { "home" : "github", "auth" : "xenu" },
-  "http-server-simple" : { "home" : "github", "auth" : "mberends" },
-  "List-Utils" : { "home" : "github", "auth" : "colomon" },
-  "perl6-Module-Tools" : { "home" : "github", "auth" : "tadzik" },
-  "neutro" : { "home" : "github", "auth" : "tadzik" },
-  "exemel" : { "home" : "github", "auth" : "supernovus" },
-  "perlite6" : { "home" : "github", "auth" : "supernovus" },
-  "ww6" : { "home" : "github", "auth" : "supernovus" },
-  "flower" : { "home" : "github", "auth" : "supernovus" },
-}
+ABC git://github.com/LastOfTheCarelessMen/ABC.git
+Algorithm-Viterbi git://github.com/arnsholt/Algorithm-Viterbi.git
+benchmark git://github.com/perlpilot/benchmark.git
+Bennu git://github.com/ekiru/Bennu.git
+bioperl6 git://github.com/cjfields/bioperl6.git
+CGI-Application git://github.com/moritz/CGI-Application.git
+csv git://github.com/masak/csv.git
+DateTime-Parse git://github.com/KodiB/DateTime-Parse.git
+DBDI git://github.com/timbunce/DBDI.git
+Digest-sum git://github.com/xenu/Digest-sum.git
+druid git://github.com/masak/druid.git
+exemel git://github.com/supernovus/exemel.git
+faz git://github.com/ruoso/faz.git
+flower git://github.com/supernovus/flower.git
+form git://github.com/mathw/form.git
+gamebase git://github.com/quietfanatic/gamebase.git
+gge git://github.com/masak/gge.git
+grampa git://github.com/masak/grampa.git
+html-template git://github.com/masak/html-template.git
+http-client git://github.com/carlins/http-client.git
+http-daemon git://github.com/mberends/http-daemon.git
+http-server-simple git://github.com/mberends/http-server-simple.git
+io-prompt git://github.com/pnu/io-prompt.git
+irc-client git://github.com/carlins/irc-client.git
+json git://github.com/moritz/json.git
+link-c git://github.com/quietfanatic/link-c.git
+List-Utils git://github.com/colomon/List-Utils.git
+lolsql git://github.com/jnthn/lolsql.git
+mandelbrot git://github.com/colomon/mandelbrot.git
+Math-Model git://github.com/moritz/Math-Model.git
+Math-Polynomial git://github.com/colomon/Math-Polynomial.git
+Math-RungeKutta git://github.com/moritz/Math-RungeKutta.git
+Math-Vector git://github.com/colomon/Math-Vector.git
+maya git://github.com/ihrd/maya.git
+messagepack-pm6 git://github.com/uasi/messagepack-pm6.git
+MiniDBI git://github.com/mberends/MiniDBI.git
+mubot git://github.com/carlins/mubot.git
+mwbot git://github.com/carlins/mwbot.git
+neutro git://github.com/tadzik/neutro.git
+Nonogram git://github.com/moritz/Nonogram.git
+november git://github.com/viklund/november.git
+perl6-Acme-Meow git://github.com/tadzik/perl6-Acme-Meow.git
+perl6-Config-INI git://github.com/tadzik/perl6-Config-INI.git
+perl6-digest-md5 git://github.com/cosimo/perl6-digest-md5.git
+perl6-examples git://github.com/perl6/perl6-examples.git
+perl6-File-Tools git://github.com/tadzik/perl6-File-Tools.git
+perl6-literate git://github.com/masak/perl6-literate.git
+perl6-lwp-simple git://github.com/cosimo/perl6-lwp-simple.git
+Perl6-MIME-Base64 git://github.com/snarkyboojum/Perl6-MIME-Base64.git
+perl6-Module-Starter git://github.com/moritz/perl6-Module-Starter.git
+perl6-Module-Tools git://github.com/tadzik/perl6-Module-Tools.git
+perl6-puppet-parser git://github.com/cosimo/perl6-puppet-parser.git
+perl6-sqlite git://github.com/tene/perl6-sqlite.git
+perl6-string-crc32 git://github.com/cosimo/perl6-string-crc32.git
+Perl6-Term--ANSIColor git://github.com/illvilja/Perl6-Term--ANSIColor.git
+perl6-Term-ANSIColor git://github.com/tadzik/perl6-Term-ANSIColor.git
+perlite6 git://github.com/supernovus/perlite6.git
+ppm git://github.com/dcarrera/ppm.git
+proto git://github.com/masak/proto.git
+pun git://github.com/masak/pun.git
+rssbot git://github.com/carlins/rssbot.git
+SCGI git://github.com/supernovus/SCGI.git
+SQL-Grammar git://github.com/arnsholt/SQL-Grammar.git
+statistics-lite git://github.com/aff/statistics-lite.git
+svg git://github.com/moritz/svg.git
+svg-plot git://github.com/moritz/svg-plot.git
+tardis git://github.com/masak/tardis.git
+temporal-utils git://github.com/supernovus/temporal-utils.git
+testml-pm6 git://github.com/ingydotnet/testml-pm6.git
+test-mock git://github.com/jnthn/test-mock.git
+Tree git://github.com/wayland/Tree.git
+ufo git://github.com/masak/ufo.git
+uri git://github.com/ihrd/uri.git
+Vector git://github.com/LastOfTheCarelessMen/Vector.git
+web git://github.com/masak/web.git
+ww6 git://github.com/supernovus/ww6.git
+xml git://github.com/krunen/xml.git
+XML-OPML git://github.com/radus/XML-OPML.git
+xml-writer git://github.com/masak/xml-writer.git
+yaml-pm6 git://github.com/ingydotnet/yaml-pm6.git
+yapsi git://github.com/masak/yapsi.git
+yarn git://github.com/masak/yarn.git
+zavolaj git://github.com/jnthn/zavolaj.git
