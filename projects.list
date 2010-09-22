@@ -19,11 +19,8 @@ grampa git://github.com/masak/grampa.git
 HashConfig git://github.com/supernovus/HashConfig.git
 hash-has git://github.com/supernovus/hash-has.git
 html-template git://github.com/masak/html-template.git
-http-client git://github.com/carlins/http-client.git
-http-daemon git://github.com/mberends/http-daemon.git
 http-server-simple git://github.com/mberends/http-server-simple.git
 io-prompt git://github.com/pnu/io-prompt.git
-irc-client git://github.com/carlins/irc-client.git
 json git://github.com/moritz/json.git
 link-c git://github.com/quietfanatic/link-c.git
 List-Utils git://github.com/colomon/List-Utils.git
@@ -33,11 +30,8 @@ Math-Model git://github.com/moritz/Math-Model.git
 Math-Polynomial git://github.com/colomon/Math-Polynomial.git
 Math-RungeKutta git://github.com/moritz/Math-RungeKutta.git
 Math-Vector git://github.com/colomon/Math-Vector.git
-maya git://github.com/ihrd/maya.git
 messagepack-pm6 git://github.com/uasi/messagepack-pm6.git
 MiniDBI git://github.com/mberends/MiniDBI.git
-mubot git://github.com/carlins/mubot.git
-mwbot git://github.com/carlins/mwbot.git
 neutro git://github.com/tadzik/neutro.git
 Nonogram git://github.com/moritz/Nonogram.git
 november git://github.com/viklund/november.git
@@ -60,7 +54,6 @@ perlite6 git://github.com/supernovus/perlite6.git
 ppm git://github.com/dcarrera/ppm.git
 proto git://github.com/masak/proto.git
 pun git://github.com/masak/pun.git
-rssbot git://github.com/carlins/rssbot.git
 SCGI git://github.com/supernovus/SCGI.git
 SQL-Grammar git://github.com/arnsholt/SQL-Grammar.git
 statistics-lite git://github.com/aff/statistics-lite.git
