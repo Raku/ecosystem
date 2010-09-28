@@ -73,6 +73,7 @@ WebRequest git://github.com/supernovus/WebRequest.git
 xml git://github.com/krunen/xml.git
 XML-OPML git://github.com/radus/XML-OPML.git
 xml-writer git://github.com/masak/xml-writer.git
+xxx-pm6 git://github.com/ingydotnet/xxx-pm6.git
 yaml-pm6 git://github.com/ingydotnet/yaml-pm6.git
 yapsi git://github.com/masak/yapsi.git
 yarn git://github.com/masak/yarn.git
