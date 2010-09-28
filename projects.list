@@ -37,6 +37,7 @@ Nonogram git://github.com/moritz/Nonogram.git
 november git://github.com/viklund/november.git
 perl6-Acme-Meow git://github.com/tadzik/perl6-Acme-Meow.git
 perl6-Config-INI git://github.com/tadzik/perl6-Config-INI.git
+perl6-cache-memcached git://github.com/cosimo/perl6-cache-memcached.git
 perl6-digest-md5 git://github.com/cosimo/perl6-digest-md5.git
 perl6-examples git://github.com/perl6/perl6-examples.git
 perl6-File-Tools git://github.com/tadzik/perl6-File-Tools.git
