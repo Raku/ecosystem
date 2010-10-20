@@ -1,4 +1,4 @@
-ABC git://github.com/LastOfTheCarelessMen/ABC.git
+ABC git://github.com/colomon/ABC.git
 Algorithm-Viterbi git://github.com/arnsholt/Algorithm-Viterbi.git
 benchmark git://github.com/perlpilot/benchmark.git
 Bennu git://github.com/ekiru/Bennu.git
@@ -28,6 +28,7 @@ lolsql git://github.com/jnthn/lolsql.git
 mandelbrot git://github.com/colomon/mandelbrot.git
 Math-Model git://github.com/moritz/Math-Model.git
 Math-Polynomial git://github.com/colomon/Math-Polynomial.git
+Math-Prime git://github.com/colomon/Math-Prime.git
 Math-RungeKutta git://github.com/moritz/Math-RungeKutta.git
 Math-Vector git://github.com/colomon/Math-Vector.git
 messagepack-pm6 git://github.com/uasi/messagepack-pm6.git
