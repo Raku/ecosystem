@@ -65,6 +65,7 @@ tardis git://github.com/masak/tardis.git
 temporal-utils git://github.com/supernovus/temporal-utils.git
 testml-pm6 git://github.com/ingydotnet/testml-pm6.git
 test-mock git://github.com/jnthn/test-mock.git
+Text-Tabs-Wrap git://github.com/Takadonet/Text-Tabs-Wrap.git
 Tree git://github.com/wayland/Tree.git
 ufo git://github.com/masak/ufo.git
 uri git://github.com/ihrd/uri.git
