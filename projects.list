@@ -44,6 +44,7 @@ perl6-examples git://github.com/perl6/perl6-examples.git
 perl6-File-Tools git://github.com/tadzik/perl6-File-Tools.git
 perl6-literate git://github.com/masak/perl6-literate.git
 perl6-lwp-simple git://github.com/cosimo/perl6-lwp-simple.git
+Perl6-Math-Quaternion git://github.com/Util/Perl6-Math-Quaternion.git
 Perl6-MIME-Base64 git://github.com/snarkyboojum/Perl6-MIME-Base64.git
 perl6-Module-Starter git://github.com/moritz/perl6-Module-Starter.git
 perl6-Module-Tools git://github.com/tadzik/perl6-Module-Tools.git
