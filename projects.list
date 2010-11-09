@@ -58,7 +58,7 @@ ppm git://github.com/dcarrera/ppm.git
 proto git://github.com/masak/proto.git
 pun git://github.com/masak/pun.git
 SCGI git://github.com/supernovus/SCGI.git
-Sort-Naturally git@github.com:thundergnat/Sort-Naturally.git
+Sort-Naturally git://github.com/thundergnat/Sort-Naturally.git
 SQL-Grammar git://github.com/arnsholt/SQL-Grammar.git
 statistics-lite git://github.com/aff/statistics-lite.git
 svg git://github.com/moritz/svg.git
