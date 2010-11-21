@@ -1,4 +1,5 @@
 ABC git://github.com/colomon/ABC.git
+Algorithm--Diff git://github.com/Takadonet/Algorithm--Diff.git
 Algorithm-Viterbi git://github.com/arnsholt/Algorithm-Viterbi.git
 benchmark git://github.com/perlpilot/benchmark.git
 Bennu git://github.com/ekiru/Bennu.git
@@ -37,10 +38,11 @@ neutro git://github.com/tadzik/neutro.git
 Nonogram git://github.com/moritz/Nonogram.git
 november git://github.com/viklund/november.git
 perl6-Acme-Meow git://github.com/tadzik/perl6-Acme-Meow.git
-perl6-Config-INI git://github.com/tadzik/perl6-Config-INI.git
 perl6-cache-memcached git://github.com/cosimo/perl6-cache-memcached.git
+perl6-Config-INI git://github.com/tadzik/perl6-Config-INI.git
 perl6-digest-md5 git://github.com/cosimo/perl6-digest-md5.git
 perl6-examples git://github.com/perl6/perl6-examples.git
+perl6-facter git://github.com/cosimo/perl6-facter.git
 perl6-File-Tools git://github.com/tadzik/perl6-File-Tools.git
 perl6-literate git://github.com/masak/perl6-literate.git
 perl6-lwp-simple git://github.com/cosimo/perl6-lwp-simple.git
@@ -83,4 +85,3 @@ yaml-pm6 git://github.com/ingydotnet/yaml-pm6.git
 yapsi git://github.com/masak/yapsi.git
 yarn git://github.com/masak/yarn.git
 zavolaj git://github.com/jnthn/zavolaj.git
-Algorithm--Diff git://github.com/Takadonet/Algorithm--Diff.git
