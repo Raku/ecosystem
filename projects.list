@@ -71,7 +71,7 @@ testml-pm6 git://github.com/ingydotnet/testml-pm6.git
 test-mock git://github.com/jnthn/test-mock.git
 Text-Tabs-Wrap git://github.com/Takadonet/Text-Tabs-Wrap.git
 Tree git://github.com/wayland/Tree.git
-Tree--Simple git://github.com/Takadonet/Text-Tabs-Wrap.git
+Tree--Simple git://github.com/Takadonet/Tree--Simple.git
 ufo git://github.com/masak/ufo.git
 uri git://github.com/ihrd/uri.git
 Vector git://github.com/LastOfTheCarelessMen/Vector.git
