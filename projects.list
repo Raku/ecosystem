@@ -55,7 +55,6 @@ perl6-sqlite git://github.com/tene/perl6-sqlite.git
 perl6-string-crc32 git://github.com/cosimo/perl6-string-crc32.git
 Perl6-Term--ANSIColor git://github.com/illvilja/Perl6-Term--ANSIColor.git
 perl6-Term-ANSIColor git://github.com/tadzik/perl6-Term-ANSIColor.git
-perlite6 git://github.com/supernovus/perlite6.git
 ppm git://github.com/dcarrera/ppm.git
 proto git://github.com/masak/proto.git
 pun git://github.com/masak/pun.git
