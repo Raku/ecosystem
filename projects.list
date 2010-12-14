@@ -34,7 +34,7 @@ Math-RungeKutta git://github.com/moritz/Math-RungeKutta.git
 Math-Vector git://github.com/colomon/Math-Vector.git
 messagepack-pm6 git://github.com/uasi/messagepack-pm6.git
 MiniDBI git://github.com/mberends/MiniDBI.git
-Net-IRC https://github.com/TiMBuS/Net--IRC
+Net-IRC git://github.com/TiMBuS/Net--IRC.git
 neutro git://github.com/tadzik/neutro.git
 Nonogram git://github.com/moritz/Nonogram.git
 november git://github.com/viklund/november.git
