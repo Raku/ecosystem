@@ -22,6 +22,7 @@ hash-has git://github.com/supernovus/hash-has.git
 html-template git://github.com/masak/html-template.git
 http-server-simple git://github.com/mberends/http-server-simple.git
 io-prompt git://github.com/pnu/io-prompt.git
+IO-Prompter git://github.com/colomon/io-prompter.git
 json git://github.com/moritz/json.git
 link-c git://github.com/quietfanatic/link-c.git
 List-Utils git://github.com/colomon/List-Utils.git
