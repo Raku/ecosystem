@@ -70,6 +70,7 @@ tardis git://github.com/masak/tardis.git
 temporal-utils git://github.com/supernovus/temporal-utils.git
 testml-pm6 git://github.com/ingydotnet/testml-pm6.git
 test-mock git://github.com/jnthn/test-mock.git
+Testing git://github.com/colomon/perl6-Testing.git
 Text-Levenshtein git://github.com/thundergnat/Text-Levenshtein.git
 Text-Tabs-Wrap git://github.com/Takadonet/Text-Tabs-Wrap.git
 Tree git://github.com/wayland/Tree.git
