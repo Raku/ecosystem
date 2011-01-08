@@ -19,3 +19,5 @@ given open('projects.json', :w) {
     .say(to-json @modules);
     .close;
 }
+
+$fh.close;
