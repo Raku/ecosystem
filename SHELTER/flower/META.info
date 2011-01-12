@@ -1,1 +1,1 @@
-{ "name" : "flower", "version" : "*", "description" : "[ORPHANED] Flower is an implementation of Petal (TAL & METAL) for Perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/supernovus/flower.git" }
+{ "name" : "flower", "version" : "*", "description" : "[old] Flower is an implementation of Petal (TAL & METAL) for Perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/supernovus/flower.git" }

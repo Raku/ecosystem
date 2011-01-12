@@ -1,1 +1,1 @@
-{ "name" : "Math-Prime", "version" : "*", "description" : "[ORPHANED] Perl 6 prime number tools", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/colomon/Math-Prime.git" }
+{ "name" : "Math-Prime", "version" : "*", "description" : "[old] Perl 6 prime number tools", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/colomon/Math-Prime.git" }

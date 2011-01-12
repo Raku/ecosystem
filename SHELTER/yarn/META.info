@@ -1,1 +1,1 @@
-{ "name" : "yarn", "version" : "*", "description" : "[ORPHANED] A proof-of-concept blogging application using Perl 6's Web.pm", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/masak/yarn.git" }
+{ "name" : "yarn", "version" : "*", "description" : "[old] A proof-of-concept blogging application using Perl 6's Web.pm", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/masak/yarn.git" }

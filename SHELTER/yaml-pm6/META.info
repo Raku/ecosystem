@@ -1,1 +1,1 @@
-{ "name" : "yaml-pm6", "version" : "*", "description" : "[ORPHANED] YAML Implementation for Perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/ingydotnet/yaml-pm6.git" }
+{ "name" : "yaml-pm6", "version" : "*", "description" : "[old] YAML Implementation for Perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/ingydotnet/yaml-pm6.git" }

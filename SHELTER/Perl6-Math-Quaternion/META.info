@@ -1,1 +1,1 @@
-{ "name" : "Perl6-Math-Quaternion", "version" : "*", "description" : "[ORPHANED] Hyper-complex numbers as objects with operators", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/Util/Perl6-Math-Quaternion.git" }
+{ "name" : "Perl6-Math-Quaternion", "version" : "*", "description" : "[old] Hyper-complex numbers as objects with operators", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/Util/Perl6-Math-Quaternion.git" }

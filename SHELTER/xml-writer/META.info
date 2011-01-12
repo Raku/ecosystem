@@ -1,1 +1,1 @@
-{ "name" : "xml-writer", "version" : "*", "description" : "[ORPHANED] A Perl 6 module to generate XML", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/masak/xml-writer.git" }
+{ "name" : "xml-writer", "version" : "*", "description" : "[old] A Perl 6 module to generate XML", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/masak/xml-writer.git" }

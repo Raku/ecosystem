@@ -1,1 +1,1 @@
-{ "name" : "Tree", "version" : "*", "description" : "[ORPHANED] Stuff for manipulating trees in Perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/wayland/Tree.git" }
+{ "name" : "Tree", "version" : "*", "description" : "[old] Stuff for manipulating trees in Perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/wayland/Tree.git" }

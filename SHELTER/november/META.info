@@ -1,1 +1,1 @@
-{ "name" : "november", "version" : "*", "description" : "[ORPHANED] A wiki engine written in Perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/viklund/november.git" }
+{ "name" : "november", "version" : "*", "description" : "[old] A wiki engine written in Perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/viklund/november.git" }

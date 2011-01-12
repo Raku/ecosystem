@@ -1,1 +1,1 @@
-{ "name" : "perl6-sqlite", "version" : "*", "description" : "[ORPHANED] SQLite3 for Perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/tene/perl6-sqlite.git" }
+{ "name" : "perl6-sqlite", "version" : "*", "description" : "[old] SQLite3 for Perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/tene/perl6-sqlite.git" }

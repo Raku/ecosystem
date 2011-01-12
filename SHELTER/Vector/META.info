@@ -1,1 +1,1 @@
-{ "name" : "Vector", "version" : "*", "description" : "[ORPHANED] Simple attempt to create a Vector class in Perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/LastOfTheCarelessMen/Vector.git" }
+{ "name" : "Vector", "version" : "*", "description" : "[old] Simple attempt to create a Vector class in Perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/LastOfTheCarelessMen/Vector.git" }

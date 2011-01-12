@@ -1,1 +1,1 @@
-{ "name" : "perl6-puppet-parser", "version" : "*", "description" : "[ORPHANED] Experimental Perl6 class to parse Puppet modules. Just playing to learn Grammars, actually", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/cosimo/perl6-puppet-parser.git" }
+{ "name" : "perl6-puppet-parser", "version" : "*", "description" : "[old] Experimental Perl6 class to parse Puppet modules. Just playing to learn Grammars, actually", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/cosimo/perl6-puppet-parser.git" }

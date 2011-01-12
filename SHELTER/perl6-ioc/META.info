@@ -1,1 +1,1 @@
-{ "name" : "perl6-ioc", "version" : "*", "description" : "[ORPHANED] Inversion of control in Perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/jasonmay/perl6-ioc.git" }
+{ "name" : "perl6-ioc", "version" : "*", "description" : "[old] Inversion of control in Perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/jasonmay/perl6-ioc.git" }

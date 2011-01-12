@@ -1,1 +1,1 @@
-{ "name" : "Perl6-Term--ANSIColor", "version" : "*", "description" : "[ORPHANED] A perl 6 port of the perl 5 module Term::ANSIColor", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/illvilja/Perl6-Term--ANSIColor.git" }
+{ "name" : "Perl6-Term--ANSIColor", "version" : "*", "description" : "[old] A perl 6 port of the perl 5 module Term::ANSIColor", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/illvilja/Perl6-Term--ANSIColor.git" }

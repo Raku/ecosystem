@@ -1,1 +1,1 @@
-{ "name" : "HashConfig", "version" : "*", "description" : "[ORPHANED] Configuration data files made simple", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/supernovus/HashConfig.git" }
+{ "name" : "HashConfig", "version" : "*", "description" : "[old] Configuration data files made simple", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/supernovus/HashConfig.git" }

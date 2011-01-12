@@ -1,1 +1,1 @@
-{ "name" : "druid", "version" : "*", "description" : "[ORPHANED] A connection-oriented board game written in Perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/masak/druid.git" }
+{ "name" : "druid", "version" : "*", "description" : "[old] A connection-oriented board game written in Perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/masak/druid.git" }

@@ -1,1 +1,1 @@
-{ "name" : "gge", "version" : "*", "description" : "[ORPHANED] Glacial Grammar Engine -- a Perl 6 grammar engine written in Perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/masak/gge.git" }
+{ "name" : "gge", "version" : "*", "description" : "[old] Glacial Grammar Engine -- a Perl 6 grammar engine written in Perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/masak/gge.git" }

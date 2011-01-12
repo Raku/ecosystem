@@ -1,1 +1,1 @@
-{ "name" : "statistics-lite", "version" : "*", "description" : "[ORPHANED] A very basic statistics module", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/aff/statistics-lite.git" }
+{ "name" : "statistics-lite", "version" : "*", "description" : "[old] A very basic statistics module", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/aff/statistics-lite.git" }

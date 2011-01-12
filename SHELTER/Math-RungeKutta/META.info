@@ -1,1 +1,1 @@
-{ "name" : "Math-RungeKutta", "version" : "*", "description" : "[ORPHANED] Runge-Kutta integration of ordinary differential equations with Perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/moritz/Math-RungeKutta.git" }
+{ "name" : "Math-RungeKutta", "version" : "*", "description" : "[old] Runge-Kutta integration of ordinary differential equations with Perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/moritz/Math-RungeKutta.git" }

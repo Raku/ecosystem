@@ -1,1 +1,1 @@
-{ "name" : "DateTime-Parse", "version" : "*", "description" : "[ORPHANED] A Perl 6 module to parse dates and times in arbitrary formats", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/KodiB/DateTime-Parse.git" }
+{ "name" : "DateTime-Parse", "version" : "*", "description" : "[old] A Perl 6 module to parse dates and times in arbitrary formats", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/KodiB/DateTime-Parse.git" }

@@ -1,1 +1,1 @@
-{ "name" : "IO-Prompter", "version" : "*", "description" : "[ORPHANED] Damian Conway's IO::Prompter module for Perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/colomon/IO-Prompter.git" }
+{ "name" : "IO-Prompter", "version" : "*", "description" : "[old] Damian Conway's IO::Prompter module for Perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/colomon/IO-Prompter.git" }
