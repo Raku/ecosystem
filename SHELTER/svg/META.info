@@ -1,0 +1,1 @@
+{ "name" : "svg", "version" : "*", "description" : "[ORPHANED] SVG writing module for Perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/moritz/svg.git" }

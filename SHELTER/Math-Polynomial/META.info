@@ -1,0 +1,1 @@
+{ "name" : "Math-Polynomial", "version" : "*", "description" : "[ORPHANED] Simple polynomial in one variable class for Perl 6.", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/colomon/Math-Polynomial.git" }

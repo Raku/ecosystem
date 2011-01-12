@@ -1,0 +1,1 @@
+{ "name" : "WebRequest", "version" : "*", "description" : "[ORPHANED] An object representing an HTTP Request. Supports CGI, SCGI and mod-perl6.", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/supernovus/WebRequest.git" }

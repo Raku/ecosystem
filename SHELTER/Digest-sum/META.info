@@ -1,0 +1,1 @@
+{ "name" : "Digest-sum", "version" : "*", "description" : "[ORPHANED] Perl 6 module implementing BSD checksum", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/xenu/Digest-sum.git" }

@@ -1,0 +1,1 @@
+{ "name" : "benchmark", "version" : "*", "description" : "[ORPHANED] Simple Perl 6 version of Benchmark.pm", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/perlpilot/benchmark.git" }

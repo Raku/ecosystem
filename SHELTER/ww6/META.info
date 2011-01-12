@@ -1,0 +1,1 @@
+{ "name" : "ww6", "version" : "*", "description" : "[ORPHANED] A Web Development Framework for Perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/supernovus/ww6.git" }

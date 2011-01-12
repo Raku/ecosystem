@@ -1,0 +1,1 @@
+{ "name" : "web", "version" : "*", "description" : "[ORPHANED] A Perl 6 web framework", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/masak/web.git" }

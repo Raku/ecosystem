@@ -1,0 +1,1 @@
+{ "name" : "MiniDBI", "version" : "*", "description" : "[ORPHANED] a subset of Perl 5 DBI ported to Perl 6 to use while experts build the Real Deal", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/mberends/MiniDBI.git" }

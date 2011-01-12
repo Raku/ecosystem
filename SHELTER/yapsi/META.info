@@ -1,0 +1,1 @@
+{ "name" : "yapsi", "version" : "*", "description" : "[ORPHANED] A Perl 6 compiler-and-runtime written in Perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/masak/yapsi.git" }

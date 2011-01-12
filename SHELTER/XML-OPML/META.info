@@ -1,0 +1,1 @@
+{ "name" : "XML-OPML", "version" : "*", "description" : "[ORPHANED] XML::OPML Perl 6 module", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/radus/XML-OPML.git" }

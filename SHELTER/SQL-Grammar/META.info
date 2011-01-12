@@ -1,0 +1,1 @@
+{ "name" : "SQL-Grammar", "version" : "*", "description" : "[ORPHANED] Perl 6 grammar for SQL", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/arnsholt/SQL-Grammar.git" }

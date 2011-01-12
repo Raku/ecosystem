@@ -1,0 +1,1 @@
+{ "name" : "perl6-digest-md5", "version" : "*", "description" : "[ORPHANED] Perl6 port of Perl5' Digest::MD5 module", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/cosimo/perl6-digest-md5.git" }

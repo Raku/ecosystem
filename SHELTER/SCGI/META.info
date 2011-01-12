@@ -1,0 +1,1 @@
+{ "name" : "SCGI", "version" : "*", "description" : "[ORPHANED] A SCGI library for Perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/supernovus/SCGI.git" }

@@ -1,0 +1,1 @@
+{ "name" : "Math-Model", "version" : "*", "description" : "[ORPHANED] Automagic integrator for models (first order ODEs) in Perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/moritz/Math-Model.git" }

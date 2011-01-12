@@ -1,0 +1,1 @@
+{ "name" : "lolsql", "version" : "*", "description" : "[ORPHANED] I can has lolsql parser?", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/jnthn/lolsql.git" }

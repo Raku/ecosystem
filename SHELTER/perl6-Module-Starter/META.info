@@ -1,0 +1,1 @@
+{ "name" : "perl6-Module-Starter", "version" : "*", "description" : "[ORPHANED] Tool to create Perl 6 module skeletons", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/moritz/perl6-Module-Starter.git" }

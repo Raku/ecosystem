@@ -1,0 +1,1 @@
+{ "name" : "uri", "version" : "*", "description" : "[ORPHANED] Perl6 relization of URI \u00e2\u0080\u0094 Uniform Resource Identifiers handler", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/ihrd/uri.git" }

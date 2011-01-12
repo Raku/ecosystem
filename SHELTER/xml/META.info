@@ -1,0 +1,1 @@
+{ "name" : "xml", "version" : "*", "description" : "[ORPHANED] Perl6 XML parser", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/krunen/xml.git" }

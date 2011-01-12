@@ -1,0 +1,1 @@
+{ "name" : "Bennu", "version" : "*", "description" : "[ORPHANED] A code-generator written in Perl 6 for compiling Perl 6 code to the LLVM.", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/ekiru/Bennu.git" }

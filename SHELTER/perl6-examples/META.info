@@ -1,0 +1,1 @@
+{ "name" : "perl6-examples", "version" : "*", "description" : "[ORPHANED] Many examples of Perl 6 code", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/perl6/perl6-examples.git" }

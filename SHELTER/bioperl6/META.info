@@ -1,0 +1,1 @@
+{ "name" : "bioperl6", "version" : "*", "description" : "[ORPHANED] reimplementation of BioPerl classes in Perl6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/cjfields/bioperl6.git" }

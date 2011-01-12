@@ -1,0 +1,1 @@
+{ "name" : "ufo", "version" : "*", "description" : "[ORPHANED] Swoops down and creates your Perl 6 project Makefile for you", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/masak/ufo.git" }

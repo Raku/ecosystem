@@ -1,0 +1,1 @@
+{ "name" : "temporal-utils", "version" : "*", "description" : "[ORPHANED] A collection of modules to enhance Perl 6's Date and DateTime classes.", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/supernovus/temporal-utils.git" }
