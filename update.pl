@@ -12,6 +12,7 @@ for $fh.lines -> $url {
     run-or-die "wget $url";
     my $info = from-json(slurp('META.info'));
     @modules.push($info);
+    say $info.perl;
     unlink 'META.info';
 }
 
