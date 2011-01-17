@@ -1,1 +1,0 @@
-{ "name" : "exemel", "version" : "*", "description" : "[old] An Object-Oriented XML Library for Perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/supernovus/exemel.git" }

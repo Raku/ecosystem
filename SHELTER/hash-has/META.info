@@ -1,1 +1,0 @@
-{ "name" : "hash-has", "version" : "*", "description" : "[old] Hash::Has exports a utility subroutine for performing queries on Hashes.", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/supernovus/hash-has.git" }
