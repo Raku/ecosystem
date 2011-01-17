@@ -1,1 +1,0 @@
-{ "name" : "Math-Vector", "version" : "*", "description" : "[old] Simple Vector class in Perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/colomon/Math-Vector.git" }

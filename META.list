@@ -3,6 +3,11 @@ https://github.com/tadzik/perl6-File-Tools/raw/master/META.info
 https://github.com/tadzik/perl6-Module-Tools/raw/master/META.info
 https://github.com/moritz/json/raw/master/META.info
 https://github.com/colomon/perl6-Testing/raw/master/META.info
+https://github.com/colomon/raw/master/mandelbrot/META.info
+https://github.com/colomon/raw/master/IO-Prompter/META.info
+https://github.com/colomon/raw/master/Math-Polynomial/META.info
+https://github.com/colomon/raw/master/Math-Prime/META.info
+https://github.com/colomon/raw/master/Math-Vector/META.info
 https://github.com/tadzik/perl6-Config-INI/raw/master/META.info
 https://github.com/tadzik/perl6-Term-ANSIColor/raw/master/META.info
 https://github.com/tadzik/http-server-simple/raw/master/META.info
@@ -47,7 +52,6 @@ https://github.com/tadzik/ecosystem/raw/master/SHELTER/MiniDBI/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/Algorithm-Viterbi/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/november/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/ppm/META.info
-https://github.com/tadzik/ecosystem/raw/master/SHELTER/Math-Vector/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/Math-Model/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/perl6-puppet-parser/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/druid/META.info
@@ -61,7 +65,6 @@ https://github.com/tadzik/ecosystem/raw/master/SHELTER/perl6-string-crc32/META.i
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/faz/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/xml-writer/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/statistics-lite/META.info
-https://github.com/tadzik/ecosystem/raw/master/SHELTER/Math-Prime/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/perl6-literate/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/csv/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/Bennu/META.info
@@ -72,7 +75,6 @@ https://github.com/tadzik/ecosystem/raw/master/SHELTER/xml/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/Math-RungeKutta/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/SQL-Grammar/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/XML-OPML/META.info
-https://github.com/tadzik/ecosystem/raw/master/SHELTER/mandelbrot/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/Text-Levenshtein/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/io-prompt/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/web/META.info
@@ -83,8 +85,6 @@ https://github.com/tadzik/ecosystem/raw/master/SHELTER/proto/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/perl6-examples/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/form/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/benchmark/META.info
-https://github.com/tadzik/ecosystem/raw/master/SHELTER/IO-Prompter/META.info
-https://github.com/tadzik/ecosystem/raw/master/SHELTER/Math-Polynomial/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/perl6-facter/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/tardis/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/Perl6-Math-Quaternion/META.info

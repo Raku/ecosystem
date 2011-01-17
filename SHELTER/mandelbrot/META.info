@@ -1,1 +1,0 @@
-{ "name" : "mandelbrot", "version" : "*", "description" : "[old] Mandelbrot set in Perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/colomon/mandelbrot.git" }
