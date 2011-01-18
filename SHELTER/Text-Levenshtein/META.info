@@ -1,1 +1,0 @@
-{ "name" : "Text-Levenshtein", "version" : "*", "description" : "[old] Find the Levenshtein edit distance in perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/thundergnat/Text-Levenshtein.git" }

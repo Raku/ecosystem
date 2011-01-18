@@ -1,1 +1,0 @@
-{ "name" : "Sort-Naturally", "version" : "*", "description" : "[old] Natural sorting in Perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/thundergnat/Sort-Naturally.git" }
