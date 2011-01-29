@@ -1,1 +1,0 @@
-{ "name" : "html-template", "version" : "*", "description" : "[old] A simple almost-port of CPAN's HTML::Template to Perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/masak/html-template.git" }

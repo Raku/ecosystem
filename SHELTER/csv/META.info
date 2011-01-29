@@ -1,1 +1,0 @@
-{ "name" : "csv", "version" : "*", "description" : "[old] A parser for CSV (comma-separated values) files for Perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/masak/csv.git" }

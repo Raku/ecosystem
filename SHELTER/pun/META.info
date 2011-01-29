@@ -1,1 +1,0 @@
-{ "name" : "pun", "version" : "*", "description" : "[old] Provides -p and -n flags to Rakudo Perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/masak/pun.git" }

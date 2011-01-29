@@ -1,1 +1,0 @@
-{ "name" : "proto", "version" : "*", "description" : "[old] A a hyper-lightweight dependency tracking and project installation system", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/masak/proto.git" }
