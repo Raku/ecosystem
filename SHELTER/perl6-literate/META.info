@@ -1,1 +1,0 @@
-{ "name" : "perl6-literate", "version" : "*", "description" : "[old] Literate programming (\u00c3\u00a0 la Haskell) in Perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/masak/perl6-literate.git" }
