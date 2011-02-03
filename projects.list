@@ -28,6 +28,7 @@ link-c git://github.com/quietfanatic/link-c.git
 List-Utils git://github.com/colomon/List-Utils.git
 lolsql git://github.com/jnthn/lolsql.git
 mandelbrot git://github.com/colomon/mandelbrot.git
+Math-BigInt git://github.com/colomon/Math-BigInt.git
 Math-Model git://github.com/moritz/Math-Model.git
 Math-Polynomial git://github.com/colomon/Math-Polynomial.git
 Math-Prime git://github.com/colomon/Math-Prime.git
