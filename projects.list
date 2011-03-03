@@ -2,6 +2,7 @@ ABC git://github.com/colomon/ABC.git
 Algorithm--Diff git://github.com/Takadonet/Algorithm--Diff.git
 Algorithm-Viterbi git://github.com/arnsholt/Algorithm-Viterbi.git
 benchmark git://github.com/perlpilot/benchmark.git
+Benchmark-Plot git://github.com/colomon/Benchmark-Plot.git
 Bennu git://github.com/ekiru/Bennu.git
 bioperl6 git://github.com/cjfields/bioperl6.git
 CGI-Application git://github.com/moritz/CGI-Application.git
