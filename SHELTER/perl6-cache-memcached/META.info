@@ -1,1 +1,0 @@
-{ "name" : "perl6-cache-memcached", "version" : "*", "description" : "[old] Port of Cache::Memcached from Perl 5 to Perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/cosimo/perl6-cache-memcached.git" }
