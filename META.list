@@ -49,7 +49,9 @@ https://github.com/masak/gge/raw/master/META.info
 https://github.com/lue/Numbers--Ordinal/raw/master/META.info
 https://github.com/masak/perl6-literate/raw/master/META.info
 https://github.com/cosimo/perl6-lwp-simple/raw/master/META.info
-https://github.com/tadzik/ecosystem/raw/master/SHELTER/svg-plot/META.info
+https://github.com/moritz/svg/raw/master/META.info
+https://github.com/moritz/svg-plot/raw/master/META.info
+https://github.com/moritz/Math-RungeKutta/raw/master/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/Nonogram/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/perl6-Module-Starter/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/gamebase/META.info
@@ -69,7 +71,6 @@ https://github.com/tadzik/ecosystem/raw/master/SHELTER/november/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/ppm/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/Math-Model/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/perl6-puppet-parser/META.info
-https://github.com/tadzik/ecosystem/raw/master/SHELTER/svg/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/Digest-sum/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/perl6-digest-md5/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/perl6-string-crc32/META.info
@@ -78,7 +79,6 @@ https://github.com/tadzik/ecosystem/raw/master/SHELTER/statistics-lite/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/Bennu/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/perl6-cache-memcached/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/xml/META.info
-https://github.com/tadzik/ecosystem/raw/master/SHELTER/Math-RungeKutta/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/SQL-Grammar/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/XML-OPML/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/io-prompt/META.info

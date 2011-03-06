@@ -1,1 +1,0 @@
-{ "name" : "svg-plot", "version" : "*", "description" : "[old] Various plot types with SVG output, with Perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/moritz/svg-plot.git" }

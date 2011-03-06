@@ -1,1 +1,0 @@
-{ "name" : "svg", "version" : "*", "description" : "[old] SVG writing module for Perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/moritz/svg.git" }
