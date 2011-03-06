@@ -1,1 +1,0 @@
-{ "name" : "perl6-facter", "version" : "*", "description" : "[old] A port of puppetlabs facter to Perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/cosimo/perl6-facter.git" }

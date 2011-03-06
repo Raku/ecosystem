@@ -1,1 +1,0 @@
-{ "name" : "perl6-string-crc32", "version" : "*", "description" : "[old] Simple Perl 6 class to calculate a CRC32 checksum of a string", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/cosimo/perl6-string-crc32.git" }

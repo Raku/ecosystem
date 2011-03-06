@@ -52,6 +52,9 @@ https://github.com/cosimo/perl6-lwp-simple/raw/master/META.info
 https://github.com/moritz/svg/raw/master/META.info
 https://github.com/moritz/svg-plot/raw/master/META.info
 https://github.com/moritz/Math-RungeKutta/raw/master/META.info
+https://github.com/cosimo/perl6-facter/raw/master/META.info
+https://github.com/cosimo/perl6-string-crc32/raw/master/META.info
+https://github.com/cosimo/perl6-digest-md5/raw/master/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/Nonogram/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/perl6-Module-Starter/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/gamebase/META.info
@@ -72,8 +75,6 @@ https://github.com/tadzik/ecosystem/raw/master/SHELTER/ppm/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/Math-Model/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/perl6-puppet-parser/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/Digest-sum/META.info
-https://github.com/tadzik/ecosystem/raw/master/SHELTER/perl6-digest-md5/META.info
-https://github.com/tadzik/ecosystem/raw/master/SHELTER/perl6-string-crc32/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/faz/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/statistics-lite/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/Bennu/META.info
@@ -88,6 +89,5 @@ https://github.com/tadzik/ecosystem/raw/master/SHELTER/Vector/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/perl6-examples/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/form/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/benchmark/META.info
-https://github.com/tadzik/ecosystem/raw/master/SHELTER/perl6-facter/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/xxx-pm6/META.info
 https://github.com/tadzik/ecosystem/raw/master/SHELTER/uri/META.info
