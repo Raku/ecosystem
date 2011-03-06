@@ -1,1 +1,0 @@
-{ "name" : "perl6-lwp-simple", "version" : "*", "description" : "[old] LWP::Simple quick & dirty implementation for Rakudo Perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/cosimo/perl6-lwp-simple.git" }
