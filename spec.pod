@@ -12,7 +12,9 @@ and is likely to be ignored by the package managers. The C<META.info>
 file MUST be a valid L<http://json.org/|JSON>.
 
 The JSON content of the file MUST be a hash object, with the following
-obligatory fields:
+fields:
+
+=head2 Mandatory fields
 
 =over 4
 
@@ -42,19 +44,29 @@ An array of the modules the module depends on. The modules with their
 C<name> equal to the one mentioned in C<depends> will be installed
 before the one depending on them. If a module has no dependencies, C<depends> should be an empty array.
 
-=item repo-type
+=item source-url
 
-The type of repository a project uses. The only one known to be
-supported so far is C<git>.
+An url of the from which the module is obtained.
 
-=item repo-url
-
-An url of the repository to fetch the module from.
-
-The module author can also add any number of optional fields he or she
-wants.
+The schema determines the type of the resource: C<ftp://> and C<http://>
+are assumed to point to archives containing the full module, C<git://>
+points to a git source code repository (at the time of writing, this is the
+only type that is known to be a supported by an installer).
 
 =back
+
+=head2 Optional fields
+
+=item source-type
+
+The type of source the module should be installed from.
+The only one known to be supported so far is C<git>. If this field is
+missing, it is inferred from the C<source-url> field.
+
+=back
+
+The module author can also add any number of other fields he or she
+wants.
 
 =head1 The directory structure
 
