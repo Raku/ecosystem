@@ -1,0 +1,88 @@
+=pod
+
+=head1 The META.info file
+
+Every project willing to be a part of Perl 6 module ecosystem should
+provide some sort of metadata to be easily identified and handled
+properly. This is what the C<META.info> file is for.
+
+The C<META.info> file MUST exist in the project's root directory. If
+it doesn't, the directory will not be identified as a Perl 6 project
+and is likely to be ignored by the package managers. The C<META.info>
+file MUST be a valid L<http://json.org/|JSON>.
+
+The JSON content of the file MUST be a hash object, with the following
+obligatory fields:
+
+=over 4
+
+=item name
+
+A module name, with namespace. Examples:
+
+    ufo
+    JSON::Tiny
+    HTTP::Server::Simple
+
+The name SHOULD NOT contain any elements underlining the fact, that
+a modules is for Perl 6. Hence no perl6::Foo::Bar or Baz::pm6.
+
+=item version
+
+A version of the module. If not significant, like if the module is not
+yet versioned, should be set to "*"
+
+=item description
+
+A short description of the module
+
+=item depends
+
+An array of the modules the module depends on. The modules with their
+C<name> equal to the one mentioned in C<depends> will be installed
+before the one depending on them. If a module has no dependencies, C<depends> should be an empty array.
+
+=item repo-type
+
+The type of repository a project uses. The only one known to be
+supported so far is C<git>.
+
+=item repo-url
+
+An url of the repository to fetch the module from.
+
+The module author can also add any number of optional fields he or she
+wants.
+
+=back
+
+=head1 The directory structure
+
+The project directory can contain any of the following subdirectories:
+
+=over 4
+
+=item bin
+
+The executables should be placed here. They will be installed with
+permissions allowing to run them.
+
+=item lib
+
+All .pm (or .pm6) files should be placed here. They may be compiled to
+some intermediate form (like PIR), and will be installed to path from
+which they can be used in Perl 6 code.
+
+=item t
+
+The tests should be placed here. They will be run after building and
+before installing the module.
+
+=back
+
+=head2 Makefile
+
+If the root directory contains a Makefile, it will be used to build
+(C<make>), test (C<make test>) and install (C<make install>) the module.
+
+=cut
