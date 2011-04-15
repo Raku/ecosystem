@@ -9,7 +9,7 @@ properly. This is what the C<META.info> file is for.
 The C<META.info> file MUST exist in the project's root directory. If
 it doesn't, the directory will not be identified as a Perl 6 project
 and is likely to be ignored by the package managers. The C<META.info>
-file MUST be a valid L<http://json.org/|JSON>.
+file MUST be a valid L<JSON|http://json.org/>.
 
 The JSON content of the file MUST be a hash object, with the following
 fields:
