@@ -85,6 +85,11 @@ All .pm (or .pm6) files should be placed here. They may be compiled to
 some intermediate form (like PIR), and will be installed to path from
 which they can be used in Perl 6 code.
 
+=item doc
+
+Any sort of documentation to be installed with a module. The files will
+be installed without modifications.
+
 =item t
 
 The tests should be placed here. They will be run after building and
