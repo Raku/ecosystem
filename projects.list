@@ -2,6 +2,7 @@ ABC git://github.com/colomon/ABC.git
 Algorithm--Diff git://github.com/Takadonet/Algorithm--Diff.git
 Algorithm-Viterbi git://github.com/arnsholt/Algorithm-Viterbi.git
 benchmark git://github.com/perlpilot/benchmark.git
+Benchmark-Plot git://github.com/colomon/Benchmark-Plot.git
 Bennu git://github.com/ekiru/Bennu.git
 bioperl6 git://github.com/cjfields/bioperl6.git
 CGI-Application git://github.com/moritz/CGI-Application.git
@@ -28,6 +29,7 @@ link-c git://github.com/quietfanatic/link-c.git
 List-Utils git://github.com/colomon/List-Utils.git
 lolsql git://github.com/jnthn/lolsql.git
 mandelbrot git://github.com/colomon/mandelbrot.git
+Math-BigInt git://github.com/colomon/Math-BigInt.git
 Math-Model git://github.com/moritz/Math-Model.git
 Math-Polynomial git://github.com/colomon/Math-Polynomial.git
 Math-Prime git://github.com/colomon/Math-Prime.git
@@ -53,11 +55,13 @@ Perl6-Math-Quaternion git://github.com/Util/Perl6-Math-Quaternion.git
 Perl6-MIME-Base64 git://github.com/snarkyboojum/Perl6-MIME-Base64.git
 perl6-Module-Starter git://github.com/moritz/perl6-Module-Starter.git
 perl6-Module-Tools git://github.com/tadzik/perl6-Module-Tools.git
+perl6-MPD git://github.com/tadzik/perl6-MPD.git
 perl6-puppet-parser git://github.com/cosimo/perl6-puppet-parser.git
 perl6-sqlite git://github.com/tene/perl6-sqlite.git
 perl6-string-crc32 git://github.com/cosimo/perl6-string-crc32.git
 Perl6-Term--ANSIColor git://github.com/illvilja/Perl6-Term--ANSIColor.git
 perl6-Term-ANSIColor git://github.com/tadzik/perl6-Term-ANSIColor.git
+Pies git://github.com/tadzik/Pies.git
 ppm git://github.com/dcarrera/ppm.git
 proto git://github.com/masak/proto.git
 pun git://github.com/masak/pun.git
