@@ -88,7 +88,9 @@ which they can be used in Perl 6 code.
 =item doc
 
 Any sort of documentation to be installed with a module. The files will
-be installed without modifications.
+be installed without modifications. For example, all the contents of
+a doc/ directory of a module Foo::Bar will end up in
+/perl6/modules/path/doc/Foo/Bar.
 
 =item t
 
