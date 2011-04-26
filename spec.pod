@@ -57,6 +57,8 @@ only type that is known to be a supported by an installer).
 
 =head2 Optional fields
 
+=over 4
+
 =item source-type
 
 The type of source the module should be installed from.
