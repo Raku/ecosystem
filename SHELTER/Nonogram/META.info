@@ -1,1 +1,0 @@
-{ "name" : "Nonogram", "version" : "*", "description" : "[old] Perl 6 Nonogram class", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/moritz/Nonogram.git" }

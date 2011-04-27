@@ -1,1 +1,0 @@
-{ "name" : "CGI-Application", "version" : "*", "description" : "[old] Perl 6 port of the Perl 5 module CGI::Application", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/moritz/CGI-Application.git" }
