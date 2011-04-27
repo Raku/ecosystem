@@ -1,7 +1,7 @@
-If you have a Perl 6 project, it already conforms to the requirements posed
-by proto.
+If you have a Perl 6 project, it already conforms to the requirements
+posed by the module installers.
 
-With that said, there are some things that proto will do for you and your
+With that said, there are some things that module installers will do for you and your
 project, if you only adhere to a few easy-to-fulfill conventions:
 
 * Dependencies
