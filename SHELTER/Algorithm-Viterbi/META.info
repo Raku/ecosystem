@@ -1,1 +1,0 @@
-{ "name" : "Algorithm-Viterbi", "version" : "*", "description" : "[old] Perl 6 HMM decoder", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/arnsholt/Algorithm-Viterbi.git" }
