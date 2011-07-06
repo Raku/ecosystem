@@ -1,1 +1,0 @@
-{ "name" : "xxx-pm6", "version" : "*", "description" : "[old] See Your Perl 6 Data in the Nude", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/ingydotnet/xxx-pm6.git" }

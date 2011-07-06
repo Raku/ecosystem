@@ -69,11 +69,12 @@ https://github.com/ihrd/uri/raw/master/META.info
 https://github.com/leto/perl6-Algorithm-Soundex/raw/master/META.info
 https://raw.github.com/PerlGameDev/SDL6/master/META.info
 https://raw.github.com/soh-cah-toa/digest-sha256/master/META.info
+https://raw.github.com/ingydotnet/yaml-pm6/master/META.info
+https://raw.github.com/ingydotnet/testml-pm6/master/META.info
+https://raw.github.com/ingydotnet/xxx-pm6/master/META.info
 https://github.com/perl6/ecosystem/raw/master/SHELTER/gamebase/META.info
 https://github.com/perl6/ecosystem/raw/master/SHELTER/DBDI/META.info
 https://github.com/perl6/ecosystem/raw/master/SHELTER/lolsql/META.info
-https://github.com/perl6/ecosystem/raw/master/SHELTER/testml-pm6/META.info
-https://github.com/perl6/ecosystem/raw/master/SHELTER/yaml-pm6/META.info
 https://github.com/perl6/ecosystem/raw/master/SHELTER/perl6-sqlite/META.info
 https://github.com/perl6/ecosystem/raw/master/SHELTER/DateTime-Parse/META.info
 https://github.com/perl6/ecosystem/raw/master/SHELTER/messagepack-pm6/META.info
@@ -92,4 +93,3 @@ https://github.com/perl6/ecosystem/raw/master/SHELTER/Tree/META.info
 https://github.com/perl6/ecosystem/raw/master/SHELTER/link-c/META.info
 https://github.com/perl6/ecosystem/raw/master/SHELTER/Vector/META.info
 https://github.com/perl6/ecosystem/raw/master/SHELTER/form/META.info
-https://github.com/perl6/ecosystem/raw/master/SHELTER/xxx-pm6/META.info

@@ -1,1 +1,0 @@
-{ "name" : "testml-pm6", "version" : "*", "description" : "[old] TestML for Perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/ingydotnet/testml-pm6.git" }
