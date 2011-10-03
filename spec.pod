@@ -70,9 +70,28 @@ missing, the value in the C<source-url> field will be used instead.
 I<NOTE>: At the time of writing, C<git> is the only type that is known to be
 supported by an installer.
 
+=item C<author>
+
+The author of the module.
+
 =back
 
 The module author can also add any number of other fields he or she wants.
+
+=head1 Example
+
+This is an example F<META.info> file for a module called C<Fast::Food> written
+by Ronald McDonald.
+
+    {
+        "name"        : "Fast::Food",
+        "version"     : "1.2.3",
+        "author"      : "Ronald McDonald",
+        "description" : "Orders virtual fast food that no one can eat",
+        "depends"     : [],
+        "source-type" : "git",
+        "source-url"  : "git://github.com/ronald-mcdonald/fast-food.git"
+    }
 
 =head1 The Directory Structure
 
