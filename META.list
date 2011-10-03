@@ -69,7 +69,9 @@ https://raw.github.com/ihrd/uri/master/META.info
 https://raw.github.com/leto/perl6-Algorithm-Soundex/master/META.info
 https://raw.github.com/bbkr/mongo-perl6-driver/master/META.info
 https://raw.github.com/PerlGameDev/SDL6/master/META.info
-https://raw.github.com/soh-cah-toa/digest-sha256/master/META.info
+https://raw.github.com/soh-cah-toa/p6-digest-sha256/master/META.info
+https://raw.github.com/soh-cah-toa/p6-irc-utils/master/META.info
+https://raw.github.com/soh-cah-toa/p6-test-builder/master/META.info
 https://raw.github.com/ingydotnet/yaml-pm6/master/META.info
 https://raw.github.com/ingydotnet/testml-pm6/master/META.info
 https://raw.github.com/ingydotnet/xxx-pm6/master/META.info
@@ -95,4 +97,3 @@ https://raw.github.com/perl6/ecosystem/master/SHELTER/Tree/META.info
 https://raw.github.com/perl6/ecosystem/master/SHELTER/link-c/META.info
 https://raw.github.com/perl6/ecosystem/master/SHELTER/Vector/META.info
 https://raw.github.com/perl6/ecosystem/master/SHELTER/form/META.info
-https://raw.github.com/soh-cah-toa/p6-irc-utils/master/META.info
