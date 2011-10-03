@@ -1,103 +1,107 @@
 =pod
 
-=head1 The META.info file
+=head1 The F<META.info> File
 
-Every project willing to be a part of Perl 6 module ecosystem should
-provide some sort of metadata to be easily identified and handled
-properly. This is what the C<META.info> file is for.
+Every project willing to be a part of the Perl 6 module ecosystem should
+provide some sort of metadata that can be easily identified and handled
+properly. This is what the F<META.info> file is for.
 
-The C<META.info> file MUST exist in the project's root directory. If
-it doesn't, the directory will not be identified as a Perl 6 project
-and is likely to be ignored by the package managers. The C<META.info>
-file MUST be a valid L<JSON|http://json.org/>.
+The F<META.info> file I<must> exist in the project's root directory. If
+it doesn't, the module will not be identified as a Perl 6 project and is
+likely to be ignored by the package managers. The F<META.info> file I<must>
+contain valid L<JSON|http://json.org/>.
 
-The JSON content of the file MUST be a hash object, with the following
+The JSON content of the file I<must> be a hash object with the following
 fields:
 
 =head2 Mandatory fields
 
 =over 4
 
-=item name
+=item C<name>
 
-A module name, with namespace. Examples:
+The fully-qualified module name. For example:
 
     ufo
     JSON::Tiny
     HTTP::Server::Simple
 
-The name SHOULD NOT contain any elements underlining the fact, that
-a modules is for Perl 6. Hence no perl6::Foo::Bar or Baz::pm6.
+The name B<should not> contain any elements indicating that the module is for
+Perl 6 (i.e. no C<perl6::Foo::Bar> or C<Baz::pm6>).
 
-=item version
+=item C<version>
 
-A version of the module. If not significant, like if the module is not
-yet versioned, should be set to "*"
+The module version. If the version is not significant, then this field
+should be set to C<*>.
 
-=item description
+=item C<description>
 
-A short description of the module
+A short description of the module.
 
-=item depends
+=item C<depends>
 
-An array of the modules the module depends on. The modules with their
-C<name> equal to the one mentioned in C<depends> will be installed
-before the one depending on them. If a module has no dependencies, C<depends> should be an empty array.
+An array that specifies the other modules (if any) that the module depends on.
+Any modules whose C<name> field is equal to the one mentioned in the C<depends>
+field will be installed before the one depending on them. If a module has no
+dependencies, the C<depends> field should be an empty array.
 
-=item source-url
+=item C<source-url>
 
-An url of the from which the module is obtained.
+A URL that represents where the module's source code can be obtained.
 
-The schema determines the type of the resource: C<ftp://> and C<http://>
-are assumed to point to archives containing the full module, C<git://>
-points to a git source code repository (at the time of writing, this is the
-only type that is known to be a supported by an installer).
+The URL protocol (or "scheme") determines the type of resource: C<ftp://> and
+C<http://> are assumed to point to archives containing the full module while C<git://>
+points to a Git source code repository.
+
+I<NOTE>: At the time of writing, C<git://> is the only protocol that is known
+to be supported by an installer.
 
 =back
 
-=head2 Optional fields
+=head2 Optional Fields
 
 =over 4
 
-=item source-type
+=item C<source-type>
 
-The type of source the module should be installed from.
-The only one known to be supported so far is C<git>. If this field is
-missing, it is inferred from the C<source-url> field.
+The type of source the module should be installed from. If this field is
+missing, the value in the C<source-url> field will be used instead.
+
+I<NOTE>: At the time of writing, C<git> is the only type that is known to be
+supported by an installer.
 
 =back
 
-The module author can also add any number of other fields he or she
-wants.
+The module author can also add any number of other fields he or she wants.
 
-=head1 The directory structure
+=head1 The Directory Structure
 
 The project directory can contain any of the following subdirectories:
 
 =over 4
 
-=item bin
+=item C<bin>
 
-The executables should be placed here. They will be installed with
-permissions allowing to run them.
+The executables should be placed here. They will be installed with the
+necessary permissions needed for to run them.
 
-=item lib
+=item C<lib>
 
-All .pm (or .pm6) files should be placed here. They may be compiled to
-some intermediate form (like PIR), and will be installed to path from
-which they can be used in Perl 6 code.
+All C<.pm> (or C<.pm6>) files should be placed here. They may also be compiled
+to some intermediate form (e.g. PIR). All files will be installed to a path from
+which they can be used in Perl 6 code (usually F<~/.perl6/lib>).
 
-=item doc
+=item C<doc>
 
 Any sort of documentation to be installed with a module. The files will
-be installed without modifications. For example, all the contents of
-a doc/ directory of a module Foo::Bar will end up in
-/perl6/modules/path/doc/Foo/Bar.
+be installed without modification. For example, all the contents of
+a F<doc/> directory of a module C<Foo::Bar> will end up in
+F</perl6/modules/path/doc/Foo/Bar>.
 
-=item t
+=item C<t>
 
-The tests should be placed here. They will be run after building and
-before installing the module.
+The tests should be placed here. They will be run after building the module and
+before installation.
 
 =back
 
