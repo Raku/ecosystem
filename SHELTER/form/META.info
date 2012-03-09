@@ -1,1 +1,0 @@
-{ "name" : "form", "version" : "*", "description" : "[old] A Perl 6 implementation of Perl 6-style text formatting", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/mathw/form.git" }
