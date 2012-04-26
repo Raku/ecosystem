@@ -1,1 +1,0 @@
-{ "name" : "faz", "version" : "*", "description" : "[old] Faz action dispatching framework", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/ruoso/faz.git" }

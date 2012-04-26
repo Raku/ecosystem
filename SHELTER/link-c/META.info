@@ -1,1 +1,0 @@
-{ "name" : "link-c", "version" : "*", "description" : "[old] Easily use C libraries in Rakudo Perl 6", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/quietfanatic/link-c.git" }

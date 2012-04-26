@@ -1,1 +1,0 @@
-{ "name" : "ppm", "version" : "*", "description" : "[old] Package manager for Perl 6 modules.", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/dcarrera/ppm.git" }

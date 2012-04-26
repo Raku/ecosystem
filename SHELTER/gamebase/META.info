@@ -1,1 +1,0 @@
-{ "name" : "gamebase", "version" : "*", "description" : "[old] A Perl 6 based 2D game engine", "depends" : [  ], "repo-type" : "git", "repo-url" : "git://github.com/quietfanatic/gamebase.git" }
