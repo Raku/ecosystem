@@ -1,1 +1,0 @@
-{ "name" : "SQL-Grammar", "version" : "*", "description" : "[old] Perl 6 grammar for SQL", "depends" : [  ], "source-url" : "git://github.com/arnsholt/SQL-Grammar.git" }
