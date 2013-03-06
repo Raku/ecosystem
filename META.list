@@ -27,9 +27,9 @@ https://raw.github.com/supernovus/perl6-db-model-easy/master/META.info
 https://raw.github.com/supernovus/exemel/master/META.info
 https://raw.github.com/supernovus/perl6-xml-query/master/META.info
 https://raw.github.com/supernovus/temporal-utils/master/META.info
-https://raw.github.com/supernovus/perl6-www-app/master/META.info
-https://raw.github.com/supernovus/perl6-www-app-mvc/master/META.info
-https://raw.github.com/supernovus/perl6-www-app-ballet/master/META.info
+https://raw.github.com/supernovus/perl6-web/master/META.info
+https://raw.github.com/supernovus/perl6-web-app-mvc/master/META.info
+https://raw.github.com/supernovus/perl6-web-app-ballet/master/META.info
 https://raw.github.com/supernovus/perl6-http-easy/master/META.info
 https://raw.github.com/supernovus/perl6-http-status/master/META.info
 https://raw.github.com/supernovus/perl6-http-client/master/META.info
@@ -48,7 +48,6 @@ https://raw.github.com/thundergnat/Sort-Naturally/master/META.info
 https://raw.github.com/thundergnat/Text-Levenshtein/master/META.info
 https://raw.github.com/masak/ufo/master/META.info
 https://raw.github.com/masak/tardis/master/META.info
-https://raw.github.com/masak/web/master/META.info
 https://raw.github.com/masak/yarn/master/META.info
 https://raw.github.com/masak/yapsi/master/META.info
 https://raw.github.com/masak/xml-writer/master/META.info
