@@ -1,1 +1,0 @@
-{ "name" : "november", "version" : "*", "description" : "[old] A wiki engine written in Perl 6", "depends" : [  ], "source-url" : "git://github.com/viklund/november.git" }
