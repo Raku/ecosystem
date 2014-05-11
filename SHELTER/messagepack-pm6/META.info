@@ -1,1 +1,0 @@
-{ "name" : "messagepack-pm6", "version" : "*", "description" : "[old] A MessagePack implementation written in Perl 6", "depends" : [  ], "source-url" : "git://github.com/uasi/messagepack-pm6.git" }
