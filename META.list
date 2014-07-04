@@ -94,10 +94,10 @@ https://raw2.github.com/leto/perl6-Algorithm-Soundex/master/META.info
 https://raw2.github.com/bbkr/mongo-perl6-driver/master/META.info
 https://raw2.github.com/PerlGameDev/SDL6/master/META.info
 https://raw2.github.com/soh-cah-toa/p6-digest-sha256/master/META.info
-https://raw2.github.com/soh-cah-toa/p6-irc-utils/master/META.info
+https://raw2.github.com/perl6-community-modules/p6-irc-utils/master/META.info
 https://raw2.github.com/soh-cah-toa/p6-test-builder/master/META.info
-https://raw2.github.com/ingydotnet/yaml-pm6/master/META.info
-https://raw2.github.com/ingydotnet/testml-pm6/master/META.info
+https://raw2.github.com/perl6-community-modules/yaml-pm6/master/META.info
+https://raw2.github.com/perl6-community-modules/testml-pm6/master/META.info
 https://raw2.github.com/ingydotnet/xxx-pm6/master/META.info
 https://raw2.github.com/tadzik/IO-Select/master/META.info
 https://raw2.github.com/perl6/Pod-To-HTML/master/META.info
@@ -106,7 +106,7 @@ https://raw2.github.com/mathw/form/master/META.info
 https://raw2.github.com/tadzik/Text-T9/master/META.info
 https://raw2.github.com/jnthn/grammar-debugger/master/META.info
 https://raw2.github.com/perl6/ecosystem/master/SHELTER/lolsql/META.info
-https://raw2.github.com/uasi/messagepack-pm6/master/META.info
+https://raw2.github.com/perl6-community-modules/messagepack-pm6/master/META.info
 https://raw2.github.com/viklund/november/master/META.info
 https://raw2.github.com/perl6/ecosystem/master/SHELTER/io-prompt/META.info
 https://raw2.github.com/zag/plosurin/master/META.info
@@ -126,7 +126,7 @@ https://raw2.github.com/retupmoca/P6-Net-SOCKS/master/META.info
 https://raw2.github.com/colomon/Test-Junkie/master/META.info
 https://raw2.github.com/tadzik/Template-Mojo/master/META.info
 https://raw2.github.com/perl6/DBIish/master/META.info
-https://raw2.github.com/shinobi/Date-WorkdayCalendar/master/META.info
+https://raw2.github.com/perl6-community-modules/Date-WorkdayCalendar/master/META.info
 https://raw2.github.com/xfix/perl6-Acme-Addslashes/master/META.info
 https://raw2.github.com/perlpilot/p6-File-Temp/master/META.info
 https://raw2.github.com/ajs/perl6-log/master/META.info
