@@ -22,7 +22,7 @@ for(<$fh>) {
 close $fh;
 #unlink 'metalist';
 
-open($fh, '>', "/home/tjs/modules/public/projects.json");
+open($fh, '>', "projects.json");
 
 print $fh encode_json \@modules;
 close $fh;
