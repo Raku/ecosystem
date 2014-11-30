@@ -7,6 +7,7 @@
 
               <li><a href="list">The modules list (JSON)</a></li>
               <li><a href="https://github.com/perl6/ecosystem">Git repository on GitHub</a></li>
+              <li><a href="http://host08.perl6.com:8080/report">Module smoke tests</a></li>
             </ul>
           </li>
         </ul>
