@@ -6,6 +6,8 @@ use LWP::Simple;
 use autodie;
 system "wget https://raw.githubusercontent.com/perl6/ecosystem/master/META.list -O metalist";
 
+my $OUTFILE = shift(@ARGV) // "/home/tjs/modules/public/projects.json";
+
 my @modules;
 
 open my $fh, '<', "metalist";
@@ -22,7 +24,7 @@ for(<$fh>) {
 close $fh;
 #unlink 'metalist';
 
-open($fh, '>', "/home/tjs/modules/public/projects.json");
+open($fh, '>', $OUTFILE);
 
 print $fh encode_json \@modules;
 close $fh;
