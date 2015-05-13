@@ -252,7 +252,8 @@ https://raw.githubusercontent.com/carbin/p6-jdf/master/META.info
 https://raw.githubusercontent.com/colomon/TagTools/master/META.info
 https://raw.githubusercontent.com/hoelzro/p6-io-string/master/META.info
 https://raw.githubusercontent.com/hoelzro/p6-algorithm-lcs/master/META.info
-https://raw.githubusercontent.com/Nami-Doc/Sprockets.pl/master/META.info
+https://raw.githubusercontent.com/vendethiel/Sprockets.pl/master/META.info
+https://raw.githubusercontent.com/vendethiel/Serialize-Tiny.pm6/master/META.info
 https://raw.githubusercontent.com/grondilu/clifford/master/META.info
 https://raw.githubusercontent.com/Leont/tap-harness6/master/META.info
 https://raw.githubusercontent.com/niner/Inline-Perl5/master/META.info
