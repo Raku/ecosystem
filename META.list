@@ -177,7 +177,7 @@ https://raw.githubusercontent.com/jnthn/rakudo-debugger/master/META.info
 https://raw.githubusercontent.com/flussence/Test-Corpus/master/META.info
 https://raw.githubusercontent.com/flussence/Test-ClientServer/master/META.info
 https://raw.githubusercontent.com/labster/perl6-File-Find-Duplicates/master/META.info
-https://raw.githubusercontent.com/dwarring/perl6-PDF-Grammar/master/META.info
+https://raw.githubusercontent.com/p6-pdf/perl6-PDF-Grammar/master/META.info
 https://raw.githubusercontent.com/labster/perl6-File-Compare/master/META.info
 https://raw.githubusercontent.com/dagurval/HTML-Strip/master/META.info
 https://raw.githubusercontent.com/grondilu/p6-modular/master/META.info
@@ -324,3 +324,4 @@ https://raw.githubusercontent.com/tony-o/perl6-http-server-router/master/META.in
 https://raw.githubusercontent.com/skids/perl6xproto/master/META.info
 https://raw.githubusercontent.com/tony-o/perl6-http-server/master/META.info
 https://raw.githubusercontent.com/tony-o/perl6-http-server-logger/master/META.info
+https://raw.githubusercontent.com/p6-pdf/perl6-Font-AFM/master/META.info
