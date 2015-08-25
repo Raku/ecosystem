@@ -66,7 +66,6 @@ https://raw.githubusercontent.com/masak/xml-writer/master/META.info
 https://raw.githubusercontent.com/masak/html-template/master/META.info
 https://raw.githubusercontent.com/masak/druid/master/META.info
 https://raw.githubusercontent.com/masak/gge/master/META.info
-https://raw.githubusercontent.com/masak/markdown/master/META.info
 https://raw.githubusercontent.com/lue/Lingua--EN--Numbers--Ordinal/master/META.info
 https://raw.githubusercontent.com/masak/perl6-literate/master/META.info
 https://raw.githubusercontent.com/cosimo/perl6-lwp-simple/master/META.info
@@ -133,6 +132,7 @@ https://raw.githubusercontent.com/retupmoca/P6-SAML/master/META.info
 https://raw.githubusercontent.com/retupmoca/P6-iCal/master/META.info
 https://raw.githubusercontent.com/retupmoca/P6-HTTP-ParseParams/master/META.info
 https://raw.githubusercontent.com/retupmoca/p6-syndication/master/META.info
+https://raw.githubusercontent.com/retupmoca/p6-markdown/master/META.info
 https://raw.githubusercontent.com/colomon/Test-Junkie/master/META.info
 https://raw.githubusercontent.com/tadzik/Template-Mojo/master/META.info
 https://raw.githubusercontent.com/perl6/DBIish/master/META.info
