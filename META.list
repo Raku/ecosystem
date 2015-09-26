@@ -192,8 +192,8 @@ https://raw.githubusercontent.com/mrhdias/perl6-Imlib2/master/META.info
 https://raw.githubusercontent.com/dginev/perl6-Lingua-EN-Sentence/master/META.info
 https://raw.githubusercontent.com/Heather/ignore/master/META.info
 https://raw.githubusercontent.com/labster/p6-IO-Path-More/master/META.info
-https://raw.githubusercontent.com/timo/ADT/master/META.info
-https://raw.githubusercontent.com/timo/json_fast/master/META.info
+https://raw.githubusercontent.com/timo/ADT/master/META6.json
+https://raw.githubusercontent.com/timo/json_fast/master/META6.json
 https://raw.githubusercontent.com/perl6-community-modules/perl6-GD/master/META.info
 https://raw.githubusercontent.com/arnsholt/Net-ZMQ/master/META.info
 https://raw.githubusercontent.com/coke/p6-lingua-en-syllable/master/META.info
@@ -231,7 +231,7 @@ https://raw.githubusercontent.com/tony-o/perl6-html-parser-xml/master/META.info
 https://raw.githubusercontent.com/avuserow/perl6-compress-snappy/master/META.info
 https://raw.githubusercontent.com/perlpilot/p6-Git-Wrapper/master/META.info
 https://raw.githubusercontent.com/perl6/gtk-simple/master/META.info
-https://raw.githubusercontent.com/timo/cairo-p6/master/META.info
+https://raw.githubusercontent.com/timo/cairo-p6/master/META6.json
 https://raw.githubusercontent.com/tadzik/ClassX-StrictConstructor/master/META.info
 https://raw.githubusercontent.com/xfix/Math-Tau/master/META.info
 https://raw.githubusercontent.com/stmuk/p6-String-Koremutake/master/META.info
@@ -268,7 +268,7 @@ https://raw.githubusercontent.com/paultcochrane/Perl6Mongers-Hannover/master/MET
 https://raw.githubusercontent.com/ugexe/P6TCI/master/META.info
 https://raw.githubusercontent.com/azawawi/totem/master/META.info
 https://raw.githubusercontent.com/tony-o/perl6-operator-feq/master/META.info
-https://raw.githubusercontent.com/timo/SDL2_raw-p6/master/META.info
+https://raw.githubusercontent.com/timo/SDL2_raw-p6/master/META6.json
 https://raw.githubusercontent.com/raydiak/Math-Symbolic/master/META.info
 https://raw.githubusercontent.com/ugexe/Perl6-Text--Table--Simple/master/META.info
 https://raw.githubusercontent.com/tony-o/perl6-bench/master/META.info
