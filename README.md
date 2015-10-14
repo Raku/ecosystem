@@ -16,8 +16,13 @@ to have that in a central place, apart from any specific module installer
   installer, or even *an* installer. It might be used for other things,
   such as rendering the list at http://modules.perl6.org
 
-To add a new module to the ecosystem, add the URL of the module's META.info
-file to the META.list file here in the ecosystem.
+To add a new module to the ecosystem, add the URL of the module's raw META.info
+file to the META.list file here in the ecosystem. Since the updates to
+the ecosystem are announced in the #perl6 IRC channel, it is helpful
+if you include the HTTP URL to your repo in your commit message, so others
+could easily view your new module, e.g.:
+
+    git commit -m 'Add FooBar to ecosystem' -m 'See https://github.com/foobar/FooBar'
 
 So there you go. It probably bears repeating that all of this is quite
 temporary; something to sustain us until we can hook up with CPAN goodness
