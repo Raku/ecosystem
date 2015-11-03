@@ -134,6 +134,7 @@ https://raw.githubusercontent.com/retupmoca/P6-iCal/master/META.info
 https://raw.githubusercontent.com/retupmoca/P6-HTTP-ParseParams/master/META.info
 https://raw.githubusercontent.com/retupmoca/p6-syndication/master/META.info
 https://raw.githubusercontent.com/retupmoca/p6-markdown/master/META.info
+https://raw.githubusercontent.com/retupmoca/p6-Crust-Handler-SCGI/master/META.info
 https://raw.githubusercontent.com/colomon/Test-Junkie/master/META.info
 https://raw.githubusercontent.com/tadzik/Template-Mojo/master/META.info
 https://raw.githubusercontent.com/perl6/DBIish/master/META.info
@@ -427,3 +428,5 @@ https://raw.githubusercontent.com/perlpilot/p6-HexDump-Tiny/master/META.info
 https://raw.githubusercontent.com/tony-o/perl6-module-does/master/META.info
 https://raw.githubusercontent.com/tony-o/perl6-html-parser/master/META.info
 https://raw.githubusercontent.com/jonathanstowe/JSON-Marshal/master/META.info
+https://raw.githubusercontent.com/lestrrat/p6-Crust-Middleware-Session/master/META6.json
+https://raw.githubusercontent.com/fayland/perl6-Cache-LRU/master/META.info
