@@ -1,0 +1,27 @@
+[
+  {
+    "name" : "Acme::Meow",
+    "source-url" : "git://github.com/tadzik/perl6-Acme-Meow.git",
+    "support" : {
+      "source" : "git://github.com/tadzik/perl6-Acme-Meow.git",
+      "bugtracker" : "https://github.com/tadzik/perl6-Acme-Meow/issues"
+    },
+    "build-depends" : [ ],
+    "provides" : {
+      "Acme::Meow" : "lib/Acme/Meow.pm"
+    },
+    "depends" : [ ],
+    "test-depends" : [
+      "Test"
+    ],
+    "description" : "The kitty you always wanted, now in Perl 6",
+    "version" : "*",
+    "authors" : [
+      "Tadeusz \u201ctadzik\u201d So\u015bnierz",
+      "Paul Cochrane",
+      "GlithMr",
+      "Ethan House",
+      "Tobias Leich"
+    ]
+  }
+]
