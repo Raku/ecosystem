@@ -1,0 +1,1 @@
+{ "name" : "io-prompt", "version" : "*", "description" : "[old] Perl6 basic type validating IO prompting for command line tools.", "depends" : [  ], "source-url" : "git://github.com/pnu/io-prompt.git" }

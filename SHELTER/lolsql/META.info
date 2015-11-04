@@ -1,0 +1,1 @@
+{ "name" : "lolsql", "version" : "*", "description" : "[old] I can has lolsql parser?", "depends" : [  ], "source-url" : "git://github.com/jnthn/lolsql.git" }
