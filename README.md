@@ -38,4 +38,4 @@ Some of these issues commonly occur. Be sure to check your distro:
     * If using `git://`, be sure your URL ends with `.git`
     * If using `https://`, be sure your URL ends with a `/`
 
-* Check that your `META.info` (or `META.json`) file contain valid JSON. To do so, you can use an online service, such as [JSON Lint](http://jsonlint.com/).
+* Check that your META file contains valid JSON. To do so, you can use an online service, such as [JSON Lint](http://jsonlint.com/).
