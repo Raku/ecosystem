@@ -29,3 +29,13 @@ temporary; something to sustain us until we can hook up with CPAN goodness
 in some more long-term way.
 
 Have a nice day.
+
+### Common Errors
+
+Some of these issues commonly occur. Be sure to check your distro:
+
+* Either `git://` or `https://` source URL will work, but:
+    * If using `git://`, be sure your URL ends with `.git`
+    * If using `https://`, be sure your URL ends with a `/`
+
+* Check that your `META.info` (or `META.json`) file contain valid JSON. To do so, you can use an online service, such as [JSON Lint](http://jsonlint.com/).
