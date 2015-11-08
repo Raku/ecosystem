@@ -39,3 +39,6 @@ Some of these issues commonly occur. Be sure to check your distro:
     * If using `https://`, be sure your URL ends with a `/`
 
 * Check that your META file contains valid JSON. To do so, you can use an online service, such as [JSON Lint](http://jsonlint.com/).
+
+There is a module [Test::META](https://github.com/jonathanstowe/Test-META) that can help you detect some, but not all, the common problems people have with the
+META files.
