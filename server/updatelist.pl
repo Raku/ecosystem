@@ -27,6 +27,7 @@ for my $url (<$fh>) {
         say $response->code;
         if ($response->is_success) {
             my $module = decode_json $response->content;
+            _normalize_module($module);
             push @modules, $module;
             my $name = $module->{name};
             if ($name =~ m{[/\\]} || $name =~ m{\.\.}) {
@@ -57,3 +58,23 @@ for my $basename ('projects.json',  'list') {
 open  $fh, '>', File::Spec->catfile($OUTDIR, 'errors.json');
 print $fh encode_json \@errors;
 close $fh;
+
+sub _normalize_module {
+    my $module = shift;
+
+    for ( qw/source-url  repo-url/ ) {
+        next unless defined $module->{ $_ };
+        _normalize_source_url( $module->{ $_ } );
+    }
+
+    _normalize_source_url( $module->{support}{source} )
+        if defined $module->{support} and defined $module->{support}{source};
+}
+sub _normalize_source_url {
+    for ( @_ ) {
+        next unless defined;
+        s/^\s+|\s+$//g;
+        $_ .= '.git' if m{^git://}    and not m{\.git$};
+        $_ .= '/'    if m{^https?://} and not m{/$}    ;
+    }
+}
