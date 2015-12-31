@@ -39,8 +39,8 @@ Some of these issues commonly occur. Be sure to check your distro:
 * Check that your META file contains valid JSON. To do so, you can use an online service,
 such as [JSON Lint](http://jsonlint.com/).
 * Ensure you have a [`provides` section](http://design.perl6.org/S22.html#provides)
-that lists all the files with correct filenames. Otherwise your module will not
-be installable.
+that lists all the modules in your distriubtion, with correct filenames;
+otherwise your module will not be installable.
 
 There is a module [Test::META](https://github.com/jonathanstowe/Test-META) that can
 help you detect some, but not all, the common problems people have with the META files.
