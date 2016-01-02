@@ -75,7 +75,7 @@ sub _normalize_source_url {
         next unless defined;
         s/^\s+|\s+$//g;
         s{git\@github\.com:}{git://github.com/};
-        $_ .= '.git'      if m{^git://}    and not m{\.git$};
-        s{/$}{.git}       if m{^https?://};
+        $_ .= '.git' if m{^git://} and not m{\.git$};
+        s{/$}{.git}  if m{^https?://};
     }
 }
