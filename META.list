@@ -246,7 +246,7 @@ https://raw.githubusercontent.com/perlpilot/p6-Git-Wrapper/master/META.info
 https://raw.githubusercontent.com/perl6/gtk-simple/master/META6.json
 https://raw.githubusercontent.com/timo/cairo-p6/master/META6.json
 https://raw.githubusercontent.com/tadzik/ClassX-StrictConstructor/master/META.info
-https://raw.githubusercontent.com/stmuk/p6-String-Koremutake/master/META.info
+https://raw.githubusercontent.com/stmuk/p6-String-Koremutake/master/META6.json
 https://raw.githubusercontent.com/carbin/p6-Crypt-Bcrypt/master/META.info
 https://raw.githubusercontent.com/xfix/Acme-DSON/master/META.info
 https://raw.githubusercontent.com/MattOates/Stats/master/META.info
@@ -333,7 +333,7 @@ https://raw.githubusercontent.com/cygx/p6-nqp-eval/master/META.info
 https://raw.githubusercontent.com/cygx/p6-tinycc/master/META.info
 https://raw.githubusercontent.com/cygx/p6-uni63/master/META.info
 https://raw.githubusercontent.com/jonathanstowe/p6-Sys-Lastlog/master/META.info
-https://raw.githubusercontent.com/stmuk/p6-Text-VimColour/master/META.info
+https://raw.githubusercontent.com/stmuk/p6-Text-VimColour/master/META6.json
 https://raw.githubusercontent.com/tony-o/perl6-http-server-threaded/master/META.info
 https://raw.githubusercontent.com/zostay/Template-Anti/master/META.info
 https://raw.githubusercontent.com/drforr/perl6-readline/master/META.info
@@ -373,7 +373,7 @@ https://raw.githubusercontent.com/jaffa4/string-stream/master/META.info
 https://raw.githubusercontent.com/jonathanstowe/NativeHelpers-Array/master/META.info
 https://raw.githubusercontent.com/jdv/p6-data-selector/master/META.info
 https://raw.githubusercontent.com/zostay/perl6-IO-Glob/master/META.info
-https://raw.githubusercontent.com/stmuk/p6-html-restrict/master/META.info
+https://raw.githubusercontent.com/stmuk/p6-html-restrict/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/Audio-Convert-Samplerate/master/META.info
 https://raw.githubusercontent.com/jonathanstowe/Staticish/master/META.info
 https://raw.githubusercontent.com/Leont/yamlish/master/META.info
@@ -398,7 +398,7 @@ https://raw.githubusercontent.com/tokuhirom/p6-HTTP-Parser/master/META6.json
 https://raw.githubusercontent.com/tokuhirom/p6-HTTP-Server-Tiny/master/META.info
 https://raw.githubusercontent.com/tokuhirom/p6-Getopt-Tiny/master/META6.json
 https://raw.githubusercontent.com/moznion/p6-Log-Minimal/master/META6.json
-https://raw.githubusercontent.com/stmuk/p6-eco-readme/master/META.info
+https://raw.githubusercontent.com/stmuk/p6-eco-readme/master/META6.json
 https://raw.githubusercontent.com/ShimmerFairy/grammar-parsefail/master/META6.json
 https://raw.githubusercontent.com/mattn/p6-Growl-GNTP/master/META6.json
 https://raw.githubusercontent.com/ugexe/Perl6-Base64/master/META6.json
@@ -442,7 +442,7 @@ https://raw.githubusercontent.com/tony-o/perl6-module-does/master/META.info
 https://raw.githubusercontent.com/tony-o/perl6-html-parser/master/META.info
 https://raw.githubusercontent.com/jonathanstowe/JSON-Marshal/master/META.info
 https://raw.githubusercontent.com/lestrrat/p6-Crust-Middleware-Session/master/META6.json
-https://raw.githubusercontent.com/fayland/perl6-Cache-LRU/master/META.info
+https://raw.githubusercontent.com/fayland/perl6-Cache-LRU/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/JSON-Class/master/META.info
 https://raw.githubusercontent.com/cspencer/perl6-posix/master/META.info
 https://raw.githubusercontent.com/fayland/perl6-Business-CreditCard/master/META.info
