@@ -195,7 +195,7 @@ https://raw.githubusercontent.com/jnthn/rakudo-debugger/master/META.info
 https://raw.githubusercontent.com/flussence/Test-Corpus/master/META6.json
 https://raw.githubusercontent.com/flussence/Test-ClientServer/master/META6.json
 https://raw.githubusercontent.com/labster/perl6-File-Find-Duplicates/master/META.info
-https://raw.githubusercontent.com/p6-pdf/perl6-PDF-Grammar/master/META.info
+https://raw.githubusercontent.com/p6-pdf/perl6-PDF-Grammar/master/META6.json
 https://raw.githubusercontent.com/labster/perl6-File-Compare/master/META.info
 https://raw.githubusercontent.com/dagurval/HTML-Strip/master/META.info
 https://raw.githubusercontent.com/grondilu/p6-modular/master/META.info
@@ -346,7 +346,7 @@ https://raw.githubusercontent.com/skids/perl6xproto/master/META6.json
 https://raw.githubusercontent.com/skids/perl6-Proc-Screen/master/META6.json
 https://raw.githubusercontent.com/tony-o/perl6-http-server/master/META.info
 https://raw.githubusercontent.com/tony-o/perl6-http-server-logger/master/META.info
-https://raw.githubusercontent.com/p6-pdf/perl6-Font-AFM/master/META.info
+https://raw.githubusercontent.com/p6-pdf/perl6-Font-AFM/master/META6.json
 https://raw.githubusercontent.com/zostay/p6-HTTP-Headers/master/META.info
 https://raw.githubusercontent.com/zostay/p6-Hash-MultiValue/master/META.info
 https://raw.githubusercontent.com/Uladox/Editscr-Uggedit/master/META.info
@@ -457,7 +457,7 @@ https://raw.githubusercontent.com/jonathanstowe/JSON-Name/master/META.info
 https://raw.githubusercontent.com/zengargoyle/p6-Search-Dict/master/META6.json
 https://raw.githubusercontent.com/teodozjan/pod6-coverage/master/META.info
 https://raw.githubusercontent.com/hartenfels/Text-Markdown-Discount/master/META.info
-https://raw.githubusercontent.com/p6-pdf/perl6-Crypt-RC4/master/META.info
+https://raw.githubusercontent.com/p6-pdf/perl6-Crypt-RC4/master/META6.json
 https://raw.githubusercontent.com/cbk/WebService-HazIP/master/META.info
 https://raw.githubusercontent.com/jonathanstowe/JSON-Infer/master/META.info
 https://raw.githubusercontent.com/kolikov/perl6-Lingua-EN-Conjugate/master/META.info
@@ -469,7 +469,7 @@ https://raw.githubusercontent.com/jonathanstowe/URI-Template/master/META.info
 https://raw.githubusercontent.com/Skarsnik/nativecall-typediag/master/META.info
 https://raw.githubusercontent.com/zoffixznet/perl6-Color/master/META.info
 https://raw.githubusercontent.com/teodozjan/path6-coverage/master/META6.json
-https://raw.githubusercontent.com/p6-pdf/perl6-PDF-Tools/master/META.info
+https://raw.githubusercontent.com/p6-pdf/perl6-PDF-Tools/master/META6.json
 https://raw.githubusercontent.com/pierre-vigier/Perl6-HTTP-Signature/master/META.info
 https://raw.githubusercontent.com/jonathanstowe/WebService-Soundcloud/master/META.info
 https://raw.githubusercontent.com/Demayl/perl6-Email-Valid/master/META.info
