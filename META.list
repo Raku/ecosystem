@@ -390,12 +390,12 @@ https://raw.githubusercontent.com/yuvipanda/perl6-Ident-Client/master/META.info
 https://raw.githubusercontent.com/jonathanstowe/XDG-BaseDirectory/master/META.info
 https://raw.githubusercontent.com/nunorc/p6-Pekyll/master/META.info
 https://raw.githubusercontent.com/tony-o/perl6-green/master/META.info
-https://raw.githubusercontent.com/shoichikaji/mi6/master/META.info
+https://raw.githubusercontent.com/skaji/mi6/master/META.info
 https://raw.githubusercontent.com/carbin/p6-unix-privileges/master/META.info
 https://raw.githubusercontent.com/tokuhirom/p6-HTTP-MultiPartParser/master/META6.json
 https://raw.githubusercontent.com/tokuhirom/p6-Cookie-Baker/master/META6.json
 https://raw.githubusercontent.com/moznion/p6-IO-Blob/master/META.info
-https://raw.githubusercontent.com/shoichikaji/perl6-HTTP-Tinyish/master/META6.json
+https://raw.githubusercontent.com/skaji/perl6-HTTP-Tinyish/master/META6.json
 https://raw.githubusercontent.com/tokuhirom/p6-HTTP-Parser/master/META6.json
 https://raw.githubusercontent.com/tokuhirom/p6-HTTP-Server-Tiny/master/META.info
 https://raw.githubusercontent.com/tokuhirom/p6-Getopt-Tiny/master/META6.json
@@ -426,10 +426,10 @@ https://raw.githubusercontent.com/fayland/perl6-Locale-Codes/master/META.info
 https://raw.githubusercontent.com/ShaneKilkelly/perl6-http-router-blind/master/META.info
 https://raw.githubusercontent.com/fayland/perl6-Gravatar-URL/master/META.info
 https://raw.githubusercontent.com/ShaneKilkelly/perl6-config-clever/master/META.info
-https://raw.githubusercontent.com/shoichikaji/Frinfon/master/META6.json
+https://raw.githubusercontent.com/skaji/Frinfon/master/META6.json
 https://raw.githubusercontent.com/moznion/p6-Text-LTSV/master/META6.json
 https://raw.githubusercontent.com/tokuhirom/p6-Test-Base/master/META6.json
-https://raw.githubusercontent.com/shoichikaji/Data-Section-Simple/master/META6.json
+https://raw.githubusercontent.com/skaji/Data-Section-Simple/master/META6.json
 https://raw.githubusercontent.com/atweiden/digest-xxhash/master/META.info
 https://raw.githubusercontent.com/tokuhirom/p6-WebSocket/master/META6.json
 https://raw.githubusercontent.com/perlpilot/p6-Astro-Sunrise/master/META6.json
