@@ -70,7 +70,6 @@ https://raw.githubusercontent.com/masak/xml-writer/master/META.info
 https://raw.githubusercontent.com/masak/html-template/master/META.info
 https://raw.githubusercontent.com/masak/druid/master/META.info
 https://raw.githubusercontent.com/masak/gge/master/META.info
-https://raw.githubusercontent.com/ShimmerFairy/Lingua--EN--Numbers--Ordinal/master/META.info
 https://raw.githubusercontent.com/masak/perl6-literate/master/META.info
 https://raw.githubusercontent.com/perl6/perl6-lwp-simple/master/META.info
 https://raw.githubusercontent.com/moritz/svg/master/META.info
@@ -230,7 +229,6 @@ https://raw.githubusercontent.com/patch/geo-region-pm6/master/META.info
 https://raw.githubusercontent.com/jaffa4/perl6parsing/master/META.info
 https://raw.githubusercontent.com/jaffa4/perl6format/master/META.info
 https://raw.githubusercontent.com/jaffa4/perl6tracer/master/META.info
-https://raw.githubusercontent.com/ShimmerFairy/term-colortext/master/META.info
 https://raw.githubusercontent.com/raydiak/Math--ThreeD/master/META.info
 https://raw.githubusercontent.com/Mouq/HTML-Entity/master/META.info
 https://raw.githubusercontent.com/Mouq/json5/master/META.info
@@ -256,7 +254,6 @@ https://raw.githubusercontent.com/teodozjan/perl-store/master/META.info
 https://raw.githubusercontent.com/p6-css/perl6-CSS-Specification/master/META.info
 https://raw.githubusercontent.com/grondilu/chess/master/META.info
 https://raw.githubusercontent.com/zengargoyle/Text-Fortune/master/META.info
-https://raw.githubusercontent.com/ShimmerFairy/pod-walker/master/META.info
 https://raw.githubusercontent.com/masak/data-pretty/master/META.info
 https://raw.githubusercontent.com/sergot/io-socket-ssl/master/META.info
 https://raw.githubusercontent.com/sergot/perl6-encode/master/META.info
@@ -397,7 +394,6 @@ https://raw.githubusercontent.com/tokuhirom/p6-HTTP-Server-Tiny/master/META.info
 https://raw.githubusercontent.com/tokuhirom/p6-Getopt-Tiny/master/META6.json
 https://raw.githubusercontent.com/moznion/p6-Log-Minimal/master/META6.json
 https://raw.githubusercontent.com/stmuk/p6-eco-readme/master/META6.json
-https://raw.githubusercontent.com/ShimmerFairy/grammar-parsefail/master/META6.json
 https://raw.githubusercontent.com/mattn/p6-Growl-GNTP/master/META6.json
 https://raw.githubusercontent.com/tokuhirom/p6-Crust/master/META6.json
 https://raw.githubusercontent.com/moznion/p6-Router-Boost/master/META6.json
