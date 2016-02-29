@@ -20,7 +20,6 @@ https://raw.githubusercontent.com/Takadonet/Text--Diff/master/META.info
 https://raw.githubusercontent.com/colomon/ABC/master/META.info
 https://raw.githubusercontent.com/perl6/Perl6-MIME-Base64/master/META.info
 https://raw.githubusercontent.com/jnthn/test-mock/master/META.info
-https://raw.githubusercontent.com/flussence/Text-Tabs-Wrap/master/META6.json
 https://raw.githubusercontent.com/cjfields/bioperl6/master/META.info
 https://raw.githubusercontent.com/MattOates/BioInfo/master/META.info
 https://raw.githubusercontent.com/sergot/Term--ProgressBar/master/META.info
@@ -188,8 +187,6 @@ https://raw.githubusercontent.com/tadzik/Test-Harness/master/META.info
 https://raw.githubusercontent.com/grondilu/libdigest-perl6/master/META.info
 https://raw.githubusercontent.com/tadzik/Coroutines/master/META.info
 https://raw.githubusercontent.com/jnthn/rakudo-debugger/master/META.info
-https://raw.githubusercontent.com/flussence/Test-Corpus/master/META6.json
-https://raw.githubusercontent.com/flussence/Test-ClientServer/master/META6.json
 https://raw.githubusercontent.com/labster/perl6-File-Find-Duplicates/master/META.info
 https://raw.githubusercontent.com/p6-pdf/perl6-PDF-Grammar/master/META6.json
 https://raw.githubusercontent.com/labster/perl6-File-Compare/master/META.info
@@ -352,7 +349,6 @@ https://raw.githubusercontent.com/jonathanstowe/Audio-Sndfile/master/META.info
 https://raw.githubusercontent.com/jonathanstowe/AccessorFacade/master/META.info
 https://raw.githubusercontent.com/perlpilot/p6-Math-Trig/master/META6.json
 https://raw.githubusercontent.com/tony-o/perl6-data-dump/master/META6.json
-https://raw.githubusercontent.com/flussence/BufUtils/master/META6.json
 https://raw.githubusercontent.com/stmuk/p6-app-p6tags/master/META6.json
 https://raw.githubusercontent.com/tony-o/perl6-hiker/master/META.info
 https://raw.githubusercontent.com/jonathanstowe/CheckSocket/master/META.info
@@ -470,7 +466,6 @@ https://raw.githubusercontent.com/Skarsnik/acme-wtf/master/META.info
 https://raw.githubusercontent.com/zoffixznet/perl6-IRC-Client/master/META6.json
 https://raw.githubusercontent.com/zoffixznet/perl6-WWW-Google-Time/master/META6.json
 https://raw.githubusercontent.com/zoffixznet/perl6-Lingua-Conjunction/master/META6.json
-https://raw.githubusercontent.com/flussence/Minecraft-Tools/master/META6.json
 https://raw.githubusercontent.com/zoffixznet/perl6-Number-Denominate/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/Audio-Silan/master/META.info
 https://raw.githubusercontent.com/pierre-vigier/Perl6-Math-Matrix/master/META6.json
