@@ -489,6 +489,7 @@ https://raw.githubusercontent.com/autarch/perl6-File-LibMagic/master/META.info
 https://raw.githubusercontent.com/bradclawsie/Hash-Consistent/master/META.info
 https://raw.githubusercontent.com/cspencer/perl6-raspberry-pi-device-ds18b20/master/META.info
 https://raw.githubusercontent.com/yowcow/p6-Algorithm-BloomFilter/master/META6.json
+https://raw.githubusercontent.com/yowcow/p6-Digest-MurmurHash3/master/META6.json
 https://raw.githubusercontent.com/yowcow/p6-String-CamelCase/master/META6.json
 https://raw.githubusercontent.com/yowcow/p6-WebService-SOP/master/META6.json
 https://raw.githubusercontent.com/mempko/PKafka/master/META.info
