@@ -25,7 +25,6 @@ https://raw.githubusercontent.com/cjfields/bioperl6/master/META.info
 https://raw.githubusercontent.com/MattOates/BioInfo/master/META.info
 https://raw.githubusercontent.com/sergot/Term--ProgressBar/master/META.info
 https://raw.githubusercontent.com/MARTIMM/config-datalang-refine/master/META.info
-
 https://raw.githubusercontent.com/sergot/IO-Capture-Simple/master/META.info
 https://raw.githubusercontent.com/FCO/Math-PascalTriangle/master/META.info
 https://raw.githubusercontent.com/GildedHonour/TelegramBot/master/META.info
@@ -659,3 +658,4 @@ https://raw.githubusercontent.com/kalkin/perl6-hashids/master/META6.json
 https://raw.githubusercontent.com/Altai-man/p6-WWW-DuckDuckGo/master/META6.json
 https://raw.githubusercontent.com/palapitta/Bencode/master/META6.json
 https://raw.githubusercontent.com/titsuki/p6-Algorithm-NaiveBayes/master/META6.json
+https://raw.githubusercontent.com/Altai-man/perl6-Config-Netrc/master/META6.json
