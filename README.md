@@ -44,3 +44,17 @@ otherwise your module will not be installable.
 
 There is a module [Test::META](https://github.com/jonathanstowe/Test-META) that can
 help you detect some, but not all, the common problems people have with the META files.
+
+# LEGAL
+
+The operation of the ecosystem requires that we copy, distribute, and possibly modify your META file (`META6.json`
+or legacy `META.info`) in full or in part, or that we display information from that file on various websites
+and other systems. We can't always guarantee proper attribution, that copies are accurate, or that modifications
+do not inadvertly produce unintended results.
+
+By submitting your module to the ecosystem, you agree that all entities involved in the operation of the ecosystem,
+including its testing, mirroring, or archiving, as well as any package installers and auxiliary tools,
+are allowed to copy, distribute, and modify your META file without limitation for the
+purposes of making your module available to the Perl 6 community—regardless of what license you choose for the
+rest of your distribution. You also agree not to hold these entities liable for any damage or inconvenience caused
+by the operation of the ecosystem or the failure to do so.
