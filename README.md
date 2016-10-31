@@ -45,6 +45,12 @@ otherwise your module will not be installable.
 There is a module [Test::META](https://github.com/jonathanstowe/Test-META) that can
 help you detect some, but not all, of the common problems people have with the META files.
 
+# Generated File
+
+After the META.list file is processed, the list of modules is available at 
+[http://ecosystem-api.p6c.org/projects.json](http://ecosystem-api.p6c.org/projects.json). If your
+module is missing after about an hour since its addition, there may be issues with your META6.json file.
+
 # LEGAL
 
 The operation of the ecosystem requires that we copy, distribute, and possibly modify your META file (`META6.json`
