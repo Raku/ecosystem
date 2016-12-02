@@ -7,8 +7,9 @@ use LWP::UserAgent;
 use autodie;
 use File::Spec;
 use FindBin;
-
 use Data::Dumper;
+
+$|++;
 
 my $OUTDIR = shift(@ARGV) // 'public/';
 my $ua = LWP::UserAgent->new;
