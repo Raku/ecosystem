@@ -37,6 +37,10 @@ for my $url (<$fh>) {
             print $OUT $response->content;
             close $OUT;
         }
+        else {
+            die 'Unsuccessful HTTP response: ' . $response->code
+                . ' ' . $response->status_line;
+        }
     };
     if ($@) {
         warn $@;
