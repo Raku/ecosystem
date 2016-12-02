@@ -61,7 +61,7 @@ for my $basename ('projects.json',  'list') {
 }
 
 open  $fh, '>', File::Spec->catfile($OUTDIR, 'errors.json');
-print $fh encode_json \@errors;
+print $fh JSON::XS->new->pretty(1)->encode(\@errors);
 close $fh;
 
 sub _normalize_module {
