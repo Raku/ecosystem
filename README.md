@@ -48,7 +48,9 @@ help you detect some, but not all, of the common problems people have with the M
 # Generated File
 
 After the META.list file is processed, the list of modules is available at 
-[http://ecosystem-api.p6c.org/projects.json](http://ecosystem-api.p6c.org/projects.json). If your
+[http://ecosystem-api.p6c.org/projects.json](http://ecosystem-api.p6c.org/projects.json) and any
+errors encountered during processing at
+[http://ecosystem-api.p6c.org/errors.json](http://ecosystem-api.p6c.org/errors.json). If your
 module is missing after about an hour since its addition, there may be issues with your META6.json file.
 
 # LEGAL
