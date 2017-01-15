@@ -1,4 +1,3 @@
-https://raw.githubusercontent.com/faraco/Mofixes/master/META6.json
 https://raw.githubusercontent.com/PowellDean/Locale-Codes-Country/master/META.info
 https://raw.githubusercontent.com/tadzik/perl6-Acme-Meow/master/META.info
 https://raw.githubusercontent.com/moritz/json/master/META.info
@@ -11,6 +10,8 @@ https://raw.githubusercontent.com/colomon/Math-Vector/master/META.info
 https://raw.githubusercontent.com/colomon/Math-ContinuedFractions/master/META.info
 https://raw.githubusercontent.com/colomon/Math-ChebyshevPolynomial/master/META.info
 https://raw.githubusercontent.com/colomon/Math-Odd-Functions/master/META.info
+https://raw.githubusercontent.com/faraco/Mofixes/master/META6.json
+https://raw.githubusercontent.com/faraco/perl6-WebService-Gitter/master/META6.json
 https://raw.githubusercontent.com/tadzik/perl6-Config-INI/master/META.info
 https://raw.githubusercontent.com/tadzik/perl6-Term-ANSIColor/master/META.info
 https://raw.githubusercontent.com/tadzik/Terminal-ANSIColor/master/META.info
