@@ -472,7 +472,7 @@ https://raw.githubusercontent.com/jonathanstowe/WebService-Soundcloud/master/MET
 https://raw.githubusercontent.com/Demayl/perl6-Email-Valid/master/META.info
 https://raw.githubusercontent.com/hartenfels/JavaScript-SpiderMonkey/master/META.info
 https://raw.githubusercontent.com/bluebear94/Math-Random/master/META.info
-https://raw.githubusercontent.com/bradclawsie/Subsets-Common/master/META.info
+https://raw.githubusercontent.com/bradclawsie/Subsets-Common/master/META6.json
 https://raw.githubusercontent.com/cbk/WebService-GoogleDyDNS/master/META.info
 https://raw.githubusercontent.com/jonathanstowe/Chronic/master/META6.json
 https://raw.githubusercontent.com/Skarsnik/acme-wtf/master/META.info
@@ -492,7 +492,7 @@ https://raw.githubusercontent.com/nxadm/StrictNamedArguments/master/META6.json
 https://raw.githubusercontent.com/zoffixznet/perl6-IRC-Client-Plugin-HNY/master/META6.json
 https://raw.githubusercontent.com/nkh/P6-Data-Dump-Tree/release/META.info
 https://raw.githubusercontent.com/autarch/perl6-File-LibMagic/master/META.info
-https://raw.githubusercontent.com/bradclawsie/Hash-Consistent/master/META.info
+https://raw.githubusercontent.com/bradclawsie/Hash-Consistent/master/META6.json
 https://raw.githubusercontent.com/cspencer/perl6-raspberry-pi-device-ds18b20/master/META.info
 https://raw.githubusercontent.com/yowcow/p6-Algorithm-BloomFilter/master/META6.json
 https://raw.githubusercontent.com/yowcow/p6-Digest-MurmurHash3/master/META6.json
@@ -546,7 +546,7 @@ https://raw.githubusercontent.com/Leont/build-graph6/master/META6.json
 https://raw.githubusercontent.com/Leont/build-simple6/master/META6.json
 https://raw.githubusercontent.com/pmqs/Archive-SimpleZip/master/META.info
 https://raw.githubusercontent.com/jonathanstowe/Tinky/master/META6.json
-https://raw.githubusercontent.com/bradclawsie/WebService-AWS-Auth-V4/master/META.info
+https://raw.githubusercontent.com/bradclawsie/WebService-AWS-Auth-V4/master/META6.json
 https://raw.githubusercontent.com/salortiz/p6-LMDB/master/META6.json
 https://raw.githubusercontent.com/soundart/perl6-tweetnacl/master/META6.json
 https://raw.githubusercontent.com/titsuki/p6-Algorithm-AhoCorasick/master/META6.json
@@ -762,7 +762,7 @@ https://raw.githubusercontent.com/dugword/Number-Bytes-Human/master/META6.json
 https://raw.githubusercontent.com/JJ/p6-math-constants/master/META6.json
 https://raw.githubusercontent.com/melezhik/sparrowdo-ruby-bundler/master/META6.json
 https://raw.githubusercontent.com/MARTIMM/tinky-hash/master/META6.json
-https://raw.githubusercontent.com/bradclawsie/Net-IP-Parse/master/META.info
+https://raw.githubusercontent.com/bradclawsie/Net-IP-Parse/master/META6.json
 https://raw.githubusercontent.com/frithnanth/perl6-Archive-Libarchive-Raw/master/META6.json
 https://raw.githubusercontent.com/frithnanth/perl6-Archive-Libarchive/master/META6.json
 https://raw.githubusercontent.com/FCO/Test-Fuzz/master/META.info
