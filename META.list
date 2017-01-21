@@ -527,15 +527,15 @@ https://raw.githubusercontent.com/hoelzro/p6-pod-eod/master/META.info
 https://raw.githubusercontent.com/zoffixznet/perl6-IO-MiddleMan/master/META6.json
 https://raw.githubusercontent.com/daleevans/perl6-Text-Spintax/master/META.info
 https://raw.githubusercontent.com/LLFourn/p6-AttrX-InitArg/master/META6.json
-https://raw.githubusercontent.com/gfldex/perl6-xhtml-writer/master/META.info
+https://raw.githubusercontent.com/gfldex/perl6-xhtml-writer/master/META6.json
 https://raw.githubusercontent.com/wollmers/P6-LCS-All/master/META.info
 https://raw.githubusercontent.com/wollmers/P6-LCS-BV/master/META.info
 https://raw.githubusercontent.com/ppentchev/Serialize-Naive/master/META6.json
 https://raw.githubusercontent.com/ppentchev/Shell-Capture/master/META6.json
 https://raw.githubusercontent.com/Altai-man/perl6-Compress-Bzip2-Raw/master/META6.json
 https://raw.githubusercontent.com/Altai-man/perl6-Compress-Bzip2/master/META6.json
-https://raw.githubusercontent.com/gfldex/perl6-typesafe-html/master/META.info
-https://raw.githubusercontent.com/gfldex/perl6-typesafe-xhtml-writer/master/META.info
+https://raw.githubusercontent.com/gfldex/perl6-typesafe-html/master/META6.json
+https://raw.githubusercontent.com/gfldex/perl6-typesafe-xhtml-writer/master/META6.json
 https://raw.githubusercontent.com/Skarsnik/p6-linux-proc-statm/master/META6.json
 https://raw.githubusercontent.com/peelle/Finance-CompoundInterest/master/META.info
 https://raw.githubusercontent.com/pierre-vigier/Perl6-AttrX-PrivateAccessor/master/META6.json
@@ -676,7 +676,7 @@ https://raw.githubusercontent.com/Altai-man/perl6-Text-Tabs/master/META6.json
 https://raw.githubusercontent.com/bbkr/TinyID/master/META6.json
 https://raw.githubusercontent.com/zostay/DateTime-DST/master/META.info
 https://raw.githubusercontent.com/atweiden/file-presence/master/META.info
-https://raw.githubusercontent.com/gfldex/perl6-operator-defined-alternation/master/META.info
+https://raw.githubusercontent.com/gfldex/perl6-operator-defined-alternation/master/META6.json
 https://raw.githubusercontent.com/Altai-man/perl6-Test-NoTabs/master/META6.json
 https://raw.githubusercontent.com/zoffixznet/perl6-RT-REST-Client/master/META6.json
 https://gitlab.com/samcns/uzu/raw/master/META6.json
@@ -691,7 +691,7 @@ https://raw.githubusercontent.com/zoffixznet/perl6-CoreHackers-Sourcery/master/M
 https://raw.githubusercontent.com/jonathanstowe/Doublephone/master/META6.json
 https://raw.githubusercontent.com/skaji/perl6-MetaCPAN-Favorite/master/META6.json
 https://raw.githubusercontent.com/jnthn/p6-http-hpack/master/META6.json
-https://raw.githubusercontent.com/gfldex/perl6-rakudo-slippy-semilists/master/META6.info
+https://raw.githubusercontent.com/gfldex/perl6-rakudo-slippy-semilists/master/META6.json
 https://raw.githubusercontent.com/Altai-man/p6-Texas-To-Uni/master/META6.json
 https://raw.githubusercontent.com/melezhik/sparrowdo-nginx/master/META.info
 https://raw.githubusercontent.com/melezhik/sparrowdo-sparrow-update/master/META.info
