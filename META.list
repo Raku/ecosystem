@@ -325,8 +325,8 @@ https://raw.githubusercontent.com/tony-o/perl6-event-emitter/master/META6.json
 https://raw.githubusercontent.com/tadzik/Grammar-BNF/master/META.info
 https://raw.githubusercontent.com/jonathanstowe/Log-Syslog-Native/master/META6.json
 https://raw.githubusercontent.com/tony-o/perl6-template-protone/master/META.info
-https://raw.githubusercontent.com/jonathanstowe/Crypt-Libcrypt/master/META.info
-https://raw.githubusercontent.com/jonathanstowe/p6-Sys-Utmp/master/META.info
+https://raw.githubusercontent.com/jonathanstowe/Crypt-Libcrypt/master/META6.json
+https://raw.githubusercontent.com/jonathanstowe/p6-Sys-Utmp/master/META6.json
 https://raw.githubusercontent.com/cygx/p6-debug/master/META.info
 https://raw.githubusercontent.com/cygx/p6-image-png-inflated/master/META.info
 https://raw.githubusercontent.com/cygx/p6-image-rgba-text/master/META.info
@@ -375,7 +375,7 @@ https://raw.githubusercontent.com/jonathanstowe/Audio-Encode-LameMP3/master/META
 https://raw.githubusercontent.com/sylvarant/Avro/master/META.json
 https://raw.githubusercontent.com/jaffa4/logd/master/META.info
 https://raw.githubusercontent.com/jaffa4/string-stream/master/META.info
-https://raw.githubusercontent.com/jonathanstowe/NativeHelpers-Array/master/META.info
+https://raw.githubusercontent.com/jonathanstowe/NativeHelpers-Array/master/META6.json
 https://raw.githubusercontent.com/jdv/p6-data-selector/master/META.info
 https://raw.githubusercontent.com/zostay/perl6-IO-Glob/master/META6.json
 https://raw.githubusercontent.com/stmuk/p6-html-restrict/master/META6.json
@@ -433,9 +433,9 @@ https://raw.githubusercontent.com/tokuhirom/p6-WebSocket/master/META6.json
 https://raw.githubusercontent.com/perlpilot/p6-Astro-Sunrise/master/META6.json
 https://raw.githubusercontent.com/tony-o/perl6-encoding-huffman-pp6/master/META6.json
 https://raw.githubusercontent.com/Skarsnik/perl6-gumbo/master/META.info
-https://raw.githubusercontent.com/jonathanstowe/Object-Permission/master/META.info
-https://raw.githubusercontent.com/jonathanstowe/Unix-Groups/master/META.info
-https://raw.githubusercontent.com/jonathanstowe/Object-Permission-Group/master/META.info
+https://raw.githubusercontent.com/jonathanstowe/Object-Permission/master/META6.json
+https://raw.githubusercontent.com/jonathanstowe/Unix-Groups/master/META6.json
+https://raw.githubusercontent.com/jonathanstowe/Object-Permission-Group/master/META6.json
 https://raw.githubusercontent.com/perlpilot/p6-HexDump-Tiny/master/META.info
 https://raw.githubusercontent.com/tony-o/perl6-module-does/master/META.info
 https://raw.githubusercontent.com/tony-o/perl6-html-parser/master/META.info
@@ -450,7 +450,7 @@ https://raw.githubusercontent.com/jonathanstowe/META6/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/Test-META/master/META6.json
 https://raw.githubusercontent.com/araraloren/Net-FTP/master/META.info
 https://raw.githubusercontent.com/zengargoyle/p6-Algorithm-Trie-libdatrie/master/META6.json
-https://raw.githubusercontent.com/jonathanstowe/JSON-Name/master/META.info
+https://raw.githubusercontent.com/jonathanstowe/JSON-Name/master/META6.json
 https://raw.githubusercontent.com/zengargoyle/p6-Search-Dict/master/META6.json
 https://raw.githubusercontent.com/teodozjan/pod6-coverage/master/META.info
 https://raw.githubusercontent.com/hartenfels/Text-Markdown-Discount/master/META.info
@@ -502,8 +502,8 @@ https://raw.githubusercontent.com/mempko/PKafka/master/META.info
 https://raw.githubusercontent.com/Skarsnik/gptrixie/master/META.info
 https://raw.githubusercontent.com/Skarsnik/perl6-irc-art/master/META.info
 https://raw.githubusercontent.com/dankogai/p6-num-hexfloat/master/META.info
-https://raw.githubusercontent.com/jonathanstowe/RPi-Device-SMBus/master/META.info
-https://raw.githubusercontent.com/jonathanstowe/RPi-Device-PiGlow/master/META.info
+https://raw.githubusercontent.com/jonathanstowe/RPi-Device-SMBus/master/META6.json
+https://raw.githubusercontent.com/jonathanstowe/RPi-Device-PiGlow/master/META6.json
 https://raw.githubusercontent.com/LLFourn/p6-CompUnit-Util/master/META6.json
 https://raw.githubusercontent.com/zoffixznet/perl6-IRC-Client-Plugin-Factoid/master/META6.json
 https://raw.githubusercontent.com/jnthn/p6-test-io-socket-async/master/META.info
