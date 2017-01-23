@@ -205,8 +205,8 @@ https://raw.githubusercontent.com/dagurval/HTML-Strip/master/META.info
 https://raw.githubusercontent.com/grondilu/p6-modular/master/META.info
 https://raw.githubusercontent.com/labster/p6-Lingua-Number/master/META.info
 https://raw.githubusercontent.com/dagurval/p6-Time-Duration/master/META.info
-https://raw.githubusercontent.com/p6-css/perl6-CSS-Grammar/master/META.info
-https://raw.githubusercontent.com/p6-css/perl6-CSS-Module/master/META.info
+https://raw.githubusercontent.com/p6-css/perl6-CSS-Grammar/master/META6.json
+https://raw.githubusercontent.com/p6-css/perl6-CSS-Module/master/META6.json
 https://raw.githubusercontent.com/mrhdias/perl6-Imlib2/master/META.info
 https://raw.githubusercontent.com/dginev/perl6-Lingua-EN-Sentence/master/META.info
 https://raw.githubusercontent.com/Heather/ignore/master/META.info
@@ -258,7 +258,7 @@ https://raw.githubusercontent.com/mj41/SP6/master/META.info
 https://raw.githubusercontent.com/tony-o/perl6-http-server-async/master/META.info
 https://raw.githubusercontent.com/softmoth/p6-Template-Mustache/master/META.info
 https://raw.githubusercontent.com/teodozjan/perl-store/master/META.info
-https://raw.githubusercontent.com/p6-css/perl6-CSS-Specification/master/META.info
+https://raw.githubusercontent.com/p6-css/perl6-CSS-Specification/master/META6.json
 https://raw.githubusercontent.com/grondilu/chess/master/META.info
 https://raw.githubusercontent.com/zengargoyle/Text-Fortune/master/META.info
 https://raw.githubusercontent.com/masak/data-pretty/master/META.info
@@ -297,12 +297,12 @@ https://raw.githubusercontent.com/jpve/perl6-pod-strip/master/META.info
 https://raw.githubusercontent.com/tony-o/perl6-slang-sql/master/META.info
 https://raw.githubusercontent.com/softmoth/perl6-pod-to-markdown/master/META.info
 https://raw.githubusercontent.com/marcoonroad/Coro-Simple/master/META.info
-https://raw.githubusercontent.com/p6-css/perl6-CSS-Writer/master/META.info
+https://raw.githubusercontent.com/p6-css/perl6-CSS-Writer/master/META6.json
 https://raw.githubusercontent.com/tony-o/perl6-http-server-async-plugins-router-simple/master/META.info
 https://raw.githubusercontent.com/masak/007/master/META.info
 https://raw.githubusercontent.com/andydude/p6-c-parser/master/META.info
 https://raw.githubusercontent.com/raydiak/pray/master/META.info
-https://raw.githubusercontent.com/p6-css/perl6-CSS-Module-CSS3-Selectors/master/META.info
+https://raw.githubusercontent.com/p6-css/perl6-CSS-Module-CSS3-Selectors/master/META6.json
 https://raw.githubusercontent.com/raydiak/Image-PNG-Portable/master/META.info
 https://raw.githubusercontent.com/avuserow/perl6-webservice-lastfm/master/META.info
 https://raw.githubusercontent.com/Mouq/toml-pm6/master/META.info
