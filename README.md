@@ -60,6 +60,9 @@ moving on to other hobbies, or even dying. In such cases, it's possible you may 
 taking over the module, by replacing the version in the ecosystem with your own repo. To avoid accidental
 take overs of modules that *aren't* abandoned, we try to follow this process before taking over:
 
+* First, ensure what you're planning to do (e.g. copying the code and modifying it) is permitted by the
+  module's license. Note that *lack* of a license does *not* mean you're free to take and modify the
+  project and many jurisdictions give the authors of a work automatic implicit copyright.
 * If possible, contact the author by email, CCing [perl6-users@perl.org](mailto:perl6-users@perl.org),
   asking them if they'd be willing to give you a commit bit to the repository or let you take over
   the module entirely. The email address is usually visible on user's GitHub profile.
