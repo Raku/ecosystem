@@ -29,7 +29,7 @@ https://raw.githubusercontent.com/sergot/Term--ProgressBar/master/META.info
 https://raw.githubusercontent.com/MARTIMM/semaphore-readerswriters/master/META.info
 https://raw.githubusercontent.com/MARTIMM/config-datalang-refine/master/META.info
 https://raw.githubusercontent.com/sergot/IO-Capture-Simple/master/META.info
-https://raw.githubusercontent.com/FCO/Math-PascalTriangle/master/META.info
+https://raw.githubusercontent.com/FCO/Math-PascalTriangle/master/META6.json
 https://raw.githubusercontent.com/GildedHonour/TelegramBot/master/META.info
 https://raw.githubusercontent.com/sergot/BreakDancer/master/META.info
 https://raw.githubusercontent.com/sergot/http-useragent/master/META.info
@@ -716,13 +716,13 @@ https://raw.githubusercontent.com/zostay/HTTP-Request-Supply/master/META6.json
 https://raw.githubusercontent.com/LLFourn/p6-DispatchMap/master/META6.json
 https://raw.githubusercontent.com/slobo/Perl6-X11-Xlib-Raw/master/META6.json
 https://raw.githubusercontent.com/jsimonet/IRC-Client-Plugin-UserPoints/master/META6.json
-https://raw.githubusercontent.com/FCO/Heap/master/META.info
+https://raw.githubusercontent.com/FCO/Heap/master/META6.json
 https://raw.githubusercontent.com/ramiroencinas/perl6-FileSystem-Capacity/master/META.info
 https://raw.githubusercontent.com/pierre-vigier/Perl6-Data-MessagePack/master/META6.json
 https://raw.githubusercontent.com/titsuki/p6-Algorithm-LBFGS/master/META6.json
 https://raw.githubusercontent.com/leejo/geo-ip2location-lite-p6/master/META6.json
 https://raw.githubusercontent.com/zostay/p6-Getopt-ForClass/master/META6.json
-https://raw.githubusercontent.com/FCO/ProblemSolver/master/META.info
+https://raw.githubusercontent.com/FCO/ProblemSolver/master/META6.json
 https://raw.githubusercontent.com/MARTIMM/unicode-precis/master/META.info
 https://raw.githubusercontent.com/scmorrison/JS-Minify/master/META6.json
 https://raw.githubusercontent.com/bduggan/p6-Crypt-RSA/master/META.info
@@ -765,6 +765,6 @@ https://raw.githubusercontent.com/MARTIMM/tinky-hash/master/META6.json
 https://raw.githubusercontent.com/bradclawsie/Net-IP-Parse/master/META.info
 https://raw.githubusercontent.com/frithnanth/perl6-Archive-Libarchive-Raw/master/META6.json
 https://raw.githubusercontent.com/frithnanth/perl6-Archive-Libarchive/master/META6.json
-https://raw.githubusercontent.com/FCO/Test-Fuzz/master/META.info
+https://raw.githubusercontent.com/FCO/Test-Fuzz/master/META6.json
 https://raw.githubusercontent.com/finanalyst/p6-inform/master/META6.json
 https://raw.githubusercontent.com/FCO/DateTime-Extended/master/META6.json
