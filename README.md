@@ -53,6 +53,26 @@ errors encountered during processing at
 [http://ecosystem-api.p6c.org/errors.json](http://ecosystem-api.p6c.org/errors.json). If your
 module is missing after about an hour since its addition, there may be issues with your META6.json file.
 
+# Module Take Over
+
+It's a fact of life that some modules end up being abandoned, either due to authors losing interest,
+moving on to other hobbies, or even dying. In such cases, it's possible you may be interested in
+taking over the module, by replacing the version in the ecosystem with your own repo. To avoid accidental
+take overs of modules that *aren't* abandoned, we try to follow this process before taking over:
+
+* First, ensure what you're planning to do (e.g. copying the code and modifying it) is permitted by the
+  module's license. Note that *lack* of a license does *not* mean you're free to take and modify the
+  project and many jurisdictions give the authors of a work automatic implicit copyright.
+* If possible, contact the author by email, CCing [perl6-users@perl.org](mailto:perl6-users@perl.org),
+  asking them if they'd be willing to give you a commit bit to the repository or let you take over
+  the module entirely. The email address is usually visible on user's GitHub profile.
+* Try to contact the user by other means, as their GitHub notifications/emails may be disabled. Perhaps,
+  there's a Twitter account with similar username.
+* If attempts to contact the author fail, after 4-weeks the module can be taken over.
+
+In short, try to contact the user by more ways than simply opening a PR in their repo and give them
+enough time to have a chance to respond.
+
 # LEGAL
 
 The operation of the ecosystem requires that we copy, distribute, and possibly modify your META file (`META6.json`
