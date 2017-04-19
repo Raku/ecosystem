@@ -6,5 +6,5 @@ If adding a new module please review the following check boxes and check the app
 
 - [ ] I have a license field listed in my META file that is one of https://spdx.org/licenses
   - [ ] My license is not one of those found on spdx.org but I **do** have a license field.
-        In this case make sure you have a URL listed under resources. [See this example](https://github.com/samcv/URL-Find/blob/master/META.info).
+        In this case make sure you have a URL listed under resources. [See this example](https://github.com/samcv/URL-Find/blob/master/META6.json).
    - [ ] I **don't** have a license field. Yes I understand this is a **not recommended**.
