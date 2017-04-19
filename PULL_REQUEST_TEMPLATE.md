@@ -1,5 +1,10 @@
-By submitting your module to the ecosystem, you agree that all entities involved in the operation of the ecosystem, including its testing, mirroring, or archiving, as well as any package installers and auxiliary tools, are allowed to copy, distribute, and modify your META file without limitation for the purposes of making your module available to the Perl 6 community—regardless of what license you choose for the rest of your distribution. You also agree not to hold these entities liable for any damage or inconvenience caused by the operation of the ecosystem or the failure to do so.
-- [ ] I `_________` (*type your github username here*) **AGREE** to the usage of the META file as listed above and [here](https://github.com/perl6/ecosystem#legal).
-- [ ] I have a license listed in my META file that is one of https://spdx.org/licenses
- - [ ] My license is not one of those found on spdx.org but I **DO** have a license field.
- - [ ] I **don't** have a license field. Yes I understand this is a **bad idea**.
+Thank you for submitting a module to the Perl 6 Ecosystem!
+
+If adding a new module please review the following check boxes and check the appropriate boxes. Your work is appreciated and every module helps make the Perl 6 Ecosystem and bigger and a better place ♥
+
+- [ ] I **agree** to the usage of the META file as listed [here](https://github.com/perl6/ecosystem#legal).
+- [ ] I have a license field listed in my META file that is one of https://spdx.org/licenses
+ - [ ] My license is not one of those found on spdx.org but I **do** have a license field.
+
+       In this case make sure you have a URL listed under resources. [See this example](https://github.com/samcv/URL-Find/blob/master/META.info).
+ - [ ] I **don't** have a license field. Yes I understand this is a **not recommended**.
