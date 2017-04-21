@@ -25,6 +25,8 @@ my $lines = 0;
 for split("\n", $metadiff.trim).map({ .trim; }) -> $line {
   $lines++;
   if $lines < 6 or $line !~~ /^\+/ {
+    # First 5 lines are git diff header
+    # Also we don't care about context or removed lines
     next;
   }
 
