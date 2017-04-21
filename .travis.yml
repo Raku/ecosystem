@@ -1,0 +1,10 @@
+language: perl6
+perl6:
+  - latest
+
+install:
+  - rakudobrew build zef
+
+script:
+  - zef install Test::META LWP::Simple IO::Socket::SSL
+  - perl6 ./.travis/testpackagemeta.pl
