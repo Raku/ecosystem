@@ -16,28 +16,14 @@ my $metadiff = $diffproc.out.slurp;
 
 if $metadiff ~~ /^\s*$/ {
   say "Nothing changed all fine.";
-  exit 0;
+  exit;
 }
 
-my @urls = ();
-my $lines = 0;
-
-for split("\n", $metadiff.trim).map({ .trim; }) -> $line {
-  $lines++;
-  if $lines < 6 or $line !~~ /^\+/ {
-    # First 5 lines are git diff header
-    # Also we don't care about context or removed lines
-    next;
-  }
-
-  my $metaurl = substr $line, 1;
-  @urls.push: $metaurl;
-}
-
-if (@urls.end lt 0) {
-  say "No packages have been added.";
-  exit 0;
-}
+# Skip first 5 lines of `gif diff` header
+my @urls = $metadiff.lines[6..*].grep(/^\+/)».substr(1) or do {
+    say "No packages have been added";
+    exit;
+};
 
 my $amountUrls = @urls.end + 1;
 say "$amountUrls packages were added";
