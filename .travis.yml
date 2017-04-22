@@ -1,0 +1,12 @@
+language: perl6
+perl6:
+  - latest
+before_install:
+  - if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then echo "Please disable builds on branch updates in settings."; travis_terminate 0; fi
+
+install:
+  - rakudobrew build zef
+
+script:
+  - zef install Test::META LWP::Simple IO::Socket::SSL
+  - perl6 ./.travis/testpackagemeta.pl
