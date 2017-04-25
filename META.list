@@ -233,8 +233,8 @@ https://raw.githubusercontent.com/tadzik/JSON-Unmarshal/master/META.info
 https://raw.githubusercontent.com/perlpilot/p6-sake/master/META.info
 https://raw.githubusercontent.com/bbkr/text_markov/master/META6.json
 https://raw.githubusercontent.com/jaffa4/pathutil/master/META.info
-https://raw.githubusercontent.com/patch/cldr-list-pm6/master/META.info
-https://raw.githubusercontent.com/patch/geo-region-pm6/master/META.info
+https://raw.githubusercontent.com/patch/cldr-list-pm6/master/META6.json
+https://raw.githubusercontent.com/patch/geo-region-pm6/master/META6.json
 https://raw.githubusercontent.com/jaffa4/perl6parsing/master/META.info
 https://raw.githubusercontent.com/jaffa4/perl6format/master/META.info
 https://raw.githubusercontent.com/jaffa4/perl6tracer/master/META.info
@@ -255,7 +255,7 @@ https://raw.githubusercontent.com/stmuk/p6-String-Koremutake/master/META6.json
 https://raw.githubusercontent.com/skinkade/p6-Crypt-Bcrypt/master/META.info
 https://raw.githubusercontent.com/xfix/Acme-DSON/master/META.info
 https://raw.githubusercontent.com/MattOates/Stats/master/META6.json
-https://raw.githubusercontent.com/mj41/SP6/master/META.info
+https://raw.githubusercontent.com/mj41/SP6/master/META6.json
 https://raw.githubusercontent.com/perl6/perl6-http-server-async/master/META6.json
 https://raw.githubusercontent.com/softmoth/p6-Template-Mustache/master/META.info
 https://raw.githubusercontent.com/teodozjan/perl-store/master/META.info
@@ -269,8 +269,8 @@ https://raw.githubusercontent.com/jonathanstowe/p6-jdf/master/META6.json
 https://raw.githubusercontent.com/colomon/TagTools/master/META6.json
 https://raw.githubusercontent.com/hoelzro/p6-io-string/master/META.info
 https://raw.githubusercontent.com/hoelzro/p6-algorithm-lcs/master/META.info
-https://raw.githubusercontent.com/vendethiel/Sprockets.pl/master/META.info
-https://raw.githubusercontent.com/vendethiel/Serialize-Tiny.pm6/master/META.info
+https://raw.githubusercontent.com/vendethiel/Sprockets.pl/master/META6.json
+https://raw.githubusercontent.com/vendethiel/Serialize-Tiny.pm6/master/META6.json
 https://raw.githubusercontent.com/grondilu/clifford/master/META.info
 https://raw.githubusercontent.com/Leont/tap-harness6/master/META6.json
 https://raw.githubusercontent.com/niner/Inline-Perl5/master/META6.json
@@ -335,7 +335,7 @@ https://raw.githubusercontent.com/cygx/p6-uni63/master/META.info
 https://raw.githubusercontent.com/cygx/p6-unicode-gcb/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/p6-Sys-Lastlog/master/META6.json
 https://raw.githubusercontent.com/stmuk/p6-Text-VimColour/master/META6.json
-https://raw.githubusercontent.com/tony-o/perl6-http-server-threaded/master/META.info
+https://raw.githubusercontent.com/tony-o/perl6-http-server-threaded/master/META6.json
 https://raw.githubusercontent.com/zostay/Template-Anti/master/META.info
 https://raw.githubusercontent.com/drforr/perl6-Perl6-Parser/master/META6.json
 https://raw.githubusercontent.com/drforr/perl6-readline/master/META6.json
@@ -389,7 +389,7 @@ https://raw.githubusercontent.com/perlpilot/p6-IO-Notification-Recursive/master/
 https://raw.githubusercontent.com/zostay/P6W/master/META.info
 https://raw.githubusercontent.com/yuvipanda/perl6-Ident-Client/master/META.info
 https://raw.githubusercontent.com/jonathanstowe/XDG-BaseDirectory/master/META6.json
-https://raw.githubusercontent.com/nunorc/p6-Pekyll/master/META.info
+https://raw.githubusercontent.com/nunorc/p6-Pekyll/master/META6.json
 https://raw.githubusercontent.com/tony-o/perl6-green/master/META.info
 https://raw.githubusercontent.com/skaji/mi6/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/p6-unix-privileges/master/META6.json
@@ -457,7 +457,7 @@ https://raw.githubusercontent.com/cbk/WebService-HazIP/master/META.info
 https://raw.githubusercontent.com/jonathanstowe/JSON-Infer/master/META6.json
 https://raw.githubusercontent.com/kolikov/perl6-Lingua-EN-Conjugate/master/META.info
 https://raw.githubusercontent.com/Skarsnik/perl6-config-simple/master/META.info
-https://raw.githubusercontent.com/vendethiel/hydrate6/master/META.info
+https://raw.githubusercontent.com/vendethiel/hydrate6/master/META6.json
 https://raw.githubusercontent.com/bluebear94/Terminal-WCWidth/master/META.info
 https://raw.githubusercontent.com/sylvarant/Compress-Brotli/master/META.json
 https://raw.githubusercontent.com/jonathanstowe/URI-Template/master/META6.json
@@ -496,7 +496,7 @@ https://raw.githubusercontent.com/yowcow/p6-Algorithm-BloomFilter/master/META6.j
 https://raw.githubusercontent.com/yowcow/p6-Digest-MurmurHash3/master/META6.json
 https://raw.githubusercontent.com/yowcow/p6-String-CamelCase/master/META6.json
 https://raw.githubusercontent.com/yowcow/p6-WebService-SOP/master/META6.json
-https://raw.githubusercontent.com/mempko/PKafka/master/META.info
+https://raw.githubusercontent.com/mempko/PKafka/master/META6.json
 https://raw.githubusercontent.com/Skarsnik/gptrixie/master/META.info
 https://raw.githubusercontent.com/Skarsnik/perl6-irc-art/master/META.info
 https://raw.githubusercontent.com/dankogai/p6-num-hexfloat/master/META.info
@@ -580,7 +580,7 @@ https://raw.githubusercontent.com/lizmat/PackUnpack/master/META6.json
 https://raw.githubusercontent.com/Leont/getopt-long6/master/META6.json
 https://raw.githubusercontent.com/titsuki/p6-Algorithm-TernarySearchTree/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/XML-Class/master/META6.json
-https://raw.githubusercontent.com/lancew/ScientistP6/master/META.info
+https://raw.githubusercontent.com/lancew/ScientistP6/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/Util-Bitfield/master/META6.json
 https://raw.githubusercontent.com/atweiden/crane/master/META6.json
 https://raw.githubusercontent.com/titsuki/p6-Algorithm-KdTree/master/META6.json
@@ -634,7 +634,7 @@ https://raw.githubusercontent.com/jnthn/p6-app-moarvm-heapanalyzer/master/META.i
 https://raw.githubusercontent.com/Altai-man/perl6-Devel-Trace/master/META6.json
 https://raw.githubusercontent.com/atweiden/txn-parser/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/App-ModuleSnap/master/META6.json
-https://raw.githubusercontent.com/Xliff/p6-audio-oggvorbis/master/META.info
+https://raw.githubusercontent.com/Xliff/p6-audio-oggvorbis/master/META6.json
 https://raw.githubusercontent.com/zoffixznet/perl6-Bailador-Dev-AutoRestarter/master/META6.json
 https://raw.githubusercontent.com/zoffixznet/perl6-Bailador-Plugin-Static/master/META6.json
 https://raw.githubusercontent.com/zoffixznet/perl6-Bailador-Plugin-AssetPack-SASS/master/META6.json
