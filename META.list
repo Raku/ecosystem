@@ -96,7 +96,7 @@ https://raw.githubusercontent.com/bbkr/GeoIPerl6/master/META6.json
 https://raw.githubusercontent.com/perlpilot/benchmark/master/META.info
 https://raw.githubusercontent.com/perlpilot/Grammar-Profiler-Simple/master/META.info
 https://raw.githubusercontent.com/perl6-community-modules/uri/master/META6.json
-https://raw.githubusercontent.com/leto/perl6-Algorithm-Soundex/master/META.info
+https://raw.githubusercontent.com/leto/perl6-Algorithm-Soundex/master/META6.json
 https://raw.githubusercontent.com/MARTIMM/mongo-perl6-driver/master/META.info
 https://raw.githubusercontent.com/PerlGameDev/SDL6/master/META.info
 https://raw.githubusercontent.com/perl6-community-modules/p6-irc-utils/master/META6.json
@@ -554,7 +554,7 @@ https://raw.githubusercontent.com/zoffixznet/perl6-Inline-Brainfuck/master/META6
 https://raw.githubusercontent.com/gotoexit/Concurrent-BoundedChannel/master/META.info
 https://raw.githubusercontent.com/MadcapJake/p6dx/master/META.info
 https://raw.githubusercontent.com/MadcapJake/Acme-Mangle/master/META.info
-https://raw.githubusercontent.com/Gnouc/p6-linux-process-signalinfo/master/META.info
+https://raw.githubusercontent.com/Gnouc/p6-linux-process-signalinfo/master/META6.json
 https://raw.githubusercontent.com/peelle/LendingClub/master/META.info
 https://raw.githubusercontent.com/zoffixznet/perl6-String-Quotemeta/master/META6.json
 https://raw.githubusercontent.com/titsuki/p6-Algorithm-Treap/master/META6.json
