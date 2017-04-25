@@ -41,7 +41,7 @@ https://raw.githubusercontent.com/supernovus/exemel/master/META6.json
 https://raw.githubusercontent.com/supernovus/perl6-xml-query/master/META.info
 https://raw.githubusercontent.com/supernovus/temporal-utils/master/META.info
 https://raw.githubusercontent.com/supernovus/perl6-datetime-format/master/META.info
-https://raw.githubusercontent.com/supernovus/perl6-datetime-math/master/META.info
+https://raw.githubusercontent.com/supernovus/perl6-datetime-math/master/META6.json
 https://raw.githubusercontent.com/supernovus/perl6-timezone/master/META.info
 https://raw.githubusercontent.com/supernovus/perl6-web/master/META6.json
 https://raw.githubusercontent.com/supernovus/perl6-web-template/master/META.info
@@ -90,7 +90,7 @@ https://raw.githubusercontent.com/colomon/Benchmark-Plot/master/META.info
 https://raw.githubusercontent.com/TiMBuS/Net--IRC/master/META.info
 https://raw.githubusercontent.com/jasonmay/perl6-ioc/master/META.info
 https://raw.githubusercontent.com/arnsholt/Algorithm-Viterbi/master/META.info
-https://raw.githubusercontent.com/bbkr/jsonrpc/master/META.info
+https://raw.githubusercontent.com/bbkr/jsonrpc/master/META6.json
 https://raw.githubusercontent.com/MARTIMM/BSON/master/META.info
 https://raw.githubusercontent.com/bbkr/GeoIPerl6/master/META6.json
 https://raw.githubusercontent.com/perlpilot/benchmark/master/META.info
@@ -254,7 +254,7 @@ https://raw.githubusercontent.com/tadzik/ClassX-StrictConstructor/master/META.in
 https://raw.githubusercontent.com/stmuk/p6-String-Koremutake/master/META6.json
 https://raw.githubusercontent.com/skinkade/p6-Crypt-Bcrypt/master/META.info
 https://raw.githubusercontent.com/xfix/Acme-DSON/master/META.info
-https://raw.githubusercontent.com/MattOates/Stats/master/META.info
+https://raw.githubusercontent.com/MattOates/Stats/master/META6.json
 https://raw.githubusercontent.com/mj41/SP6/master/META.info
 https://raw.githubusercontent.com/perl6/perl6-http-server-async/master/META.info
 https://raw.githubusercontent.com/softmoth/p6-Template-Mustache/master/META.info
@@ -611,7 +611,7 @@ https://raw.githubusercontent.com/jamesalbert/JSON-WebToken/master/META.info
 https://raw.githubusercontent.com/kuerbis/Term-Form-p6/master/META6.json
 https://raw.githubusercontent.com/tadzik/Geo-Coder-OpenCage/master/META.info
 https://gitlab.com/stmuk/p6-task-galaxy/raw/master/META6.json
-https://raw.githubusercontent.com/Emeric54/p6-text-caesar/master/META.info
+https://raw.githubusercontent.com/Emeric54/p6-text-caesar/master/META6.json
 https://raw.githubusercontent.com/zoffixznet/perl6-Twitter/master/META6.json
 https://raw.githubusercontent.com/zoffixznet/perl6-NASA/master/META6.json
 https://raw.githubusercontent.com/MadcapJake/rabble/master/META6.json
