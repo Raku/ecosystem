@@ -13,7 +13,7 @@ loop {
     my @metas = META-FILE.lines;
     my $changed = 0;
     for @metas {
-        next unless .ends-with: 'META.info';
+        next unless .ends-with: '/META.info';
         my $new = .substr(0, * - chars '/META.info') ~ '/META6.json';
         say "Trying to fetch $new";
         get($new) and ++$changed and $_ = $new and say "\t$new is good!";
