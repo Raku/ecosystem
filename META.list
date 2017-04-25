@@ -18,8 +18,8 @@ https://raw.githubusercontent.com/Tux/CSV/master/META6.json
 https://raw.githubusercontent.com/gfldex/http-server-simple/master/META.info
 https://raw.githubusercontent.com/tadzik/perl6-MPD/master/META.info
 https://raw.githubusercontent.com/colomon/List-Utils/master/META6.json
-https://raw.githubusercontent.com/Takadonet/Algorithm--Diff/master/META.info
-https://raw.githubusercontent.com/Takadonet/Text--Diff/master/META.info
+https://raw.githubusercontent.com/Takadonet/Algorithm--Diff/master/META6.json
+https://raw.githubusercontent.com/Takadonet/Text--Diff/master/META6.json
 https://raw.githubusercontent.com/colomon/ABC/master/META6.json
 https://raw.githubusercontent.com/perl6/Perl6-MIME-Base64/master/META6.json
 https://raw.githubusercontent.com/jnthn/test-mock/master/META.info
@@ -509,7 +509,7 @@ https://raw.githubusercontent.com/scmorrison/perl6-aws-pricing/master/META6.json
 https://raw.githubusercontent.com/zoffixznet/perl6-Test-Output/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/IO-Path-Mode/master/META6.json
 https://raw.githubusercontent.com/hoelzro/p6-native-resources/master/META.info
-https://raw.githubusercontent.com/goneri/p6-Email-Notmuch/master/META.info
+https://raw.githubusercontent.com/goneri/p6-Email-Notmuch/master/META6.json
 https://raw.githubusercontent.com/jnthn/p6-concurrent-iterator/master/META.info
 https://raw.githubusercontent.com/ugexe/P6TCI/master/META6.json
 https://raw.githubusercontent.com/ugexe/Perl6-Base64/master/META6.json
@@ -686,7 +686,7 @@ https://raw.githubusercontent.com/zoffixznet/perl6-Ecosystem-Test/master/META6.j
 https://raw.githubusercontent.com/ppentchev/perl6-Test-Deeply-Relaxed/master/META6.json
 https://raw.githubusercontent.com/bduggan/p6-oauth2-client-google/master/META.json
 https://raw.githubusercontent.com/ppentchev/perl6-Getopt-Std/master/META6.json
-https://raw.githubusercontent.com/ajs/perl6-Math-Arrow/master/META.info
+https://raw.githubusercontent.com/ajs/perl6-Math-Arrow/master/META6.json
 https://raw.githubusercontent.com/zoffixznet/perl6-CoreHackers-Sourcery/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/Doublephone/master/META6.json
 https://raw.githubusercontent.com/skaji/perl6-MetaCPAN-Favorite/master/META6.json
