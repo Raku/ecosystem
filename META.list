@@ -22,7 +22,7 @@ https://raw.githubusercontent.com/Takadonet/Algorithm--Diff/master/META6.json
 https://raw.githubusercontent.com/Takadonet/Text--Diff/master/META6.json
 https://raw.githubusercontent.com/colomon/ABC/master/META6.json
 https://raw.githubusercontent.com/perl6/Perl6-MIME-Base64/master/META6.json
-https://raw.githubusercontent.com/jnthn/test-mock/master/META.info
+https://raw.githubusercontent.com/jnthn/test-mock/master/META6.json
 https://raw.githubusercontent.com/cjfields/bioperl6/master/META.info
 https://raw.githubusercontent.com/MattOates/BioInfo/master/META.info
 https://raw.githubusercontent.com/sergot/Term--ProgressBar/master/META.info
@@ -108,7 +108,7 @@ https://raw.githubusercontent.com/perl6/Pod-To-HTML/master/META6.json
 https://raw.githubusercontent.com/ufobat/Bailador/master/META6.json
 https://raw.githubusercontent.com/perl6/form/master/META6.json
 https://raw.githubusercontent.com/tadzik/Text-T9/master/META.info
-https://raw.githubusercontent.com/jnthn/grammar-debugger/master/META.info
+https://raw.githubusercontent.com/jnthn/grammar-debugger/master/META6.json
 https://raw.githubusercontent.com/uasi/messagepack-pm6/master/META6.json
 https://raw.githubusercontent.com/viklund/november/master/META.info
 https://raw.githubusercontent.com/zag/plosurin/master/META6.json
@@ -178,7 +178,7 @@ https://raw.githubusercontent.com/sirrobert/Semantic-Versioning/master/META.info
 https://raw.githubusercontent.com/grondilu/openssl/master/META6.json
 https://raw.githubusercontent.com/azawawi/farabi6/master/META6.json
 https://raw.githubusercontent.com/azawawi/perl6-browser-open/master/META6.json
-https://raw.githubusercontent.com/jnthn/json-path/master/META.info
+https://raw.githubusercontent.com/jnthn/json-path/master/META6.json
 https://raw.githubusercontent.com/azawawi/perl6-ncurses/master/META6.json
 https://raw.githubusercontent.com/azawawi/perl6-net-curl/master/META6.json
 https://raw.githubusercontent.com/azawawi/perl6-electron/master/META6.json
@@ -279,7 +279,7 @@ https://raw.githubusercontent.com/krunen/unicode-utf8-parser/master/META.info
 https://raw.githubusercontent.com/tony-o/perl6-pluggable/master/META.info
 https://raw.githubusercontent.com/tony-o/perl6-db-orm-quicky/master/META.info
 https://raw.githubusercontent.com/jnthn/oo-monitors/master/META6.json
-https://raw.githubusercontent.com/jnthn/oo-actors/master/META.info
+https://raw.githubusercontent.com/jnthn/oo-actors/master/META6.json
 https://raw.githubusercontent.com/paultcochrane/Perl6Mongers-Hannover/master/META6.json
 https://raw.githubusercontent.com/tony-o/perl6-operator-feq/master/META.info
 https://raw.githubusercontent.com/timo/SDL2_raw-p6/master/META6.json
@@ -504,13 +504,13 @@ https://raw.githubusercontent.com/jonathanstowe/RPi-Device-SMBus/master/META6.js
 https://raw.githubusercontent.com/jonathanstowe/RPi-Device-PiGlow/master/META6.json
 https://raw.githubusercontent.com/LLFourn/p6-CompUnit-Util/master/META6.json
 https://raw.githubusercontent.com/zoffixznet/perl6-IRC-Client-Plugin-Factoid/master/META6.json
-https://raw.githubusercontent.com/jnthn/p6-test-io-socket-async/master/META.info
+https://raw.githubusercontent.com/jnthn/p6-test-io-socket-async/master/META6.json
 https://raw.githubusercontent.com/scmorrison/perl6-aws-pricing/master/META6.json
 https://raw.githubusercontent.com/zoffixznet/perl6-Test-Output/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/IO-Path-Mode/master/META6.json
 https://raw.githubusercontent.com/hoelzro/p6-native-resources/master/META.info
 https://raw.githubusercontent.com/goneri/p6-Email-Notmuch/master/META6.json
-https://raw.githubusercontent.com/jnthn/p6-concurrent-iterator/master/META.info
+https://raw.githubusercontent.com/jnthn/p6-concurrent-iterator/master/META6.json
 https://raw.githubusercontent.com/ugexe/P6TCI/master/META6.json
 https://raw.githubusercontent.com/ugexe/Perl6-Base64/master/META6.json
 https://raw.githubusercontent.com/ugexe/Perl6-CompUnit--Repository--Tar/master/META6.json
@@ -600,7 +600,7 @@ https://raw.githubusercontent.com/tony-o/perl6-flow/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/Audio-Icecast/master/META6.json
 https://raw.githubusercontent.com/kmwallio/p6-Lingua-EN-Stopwords/master/META.info
 https://raw.githubusercontent.com/kmwallio/p6-Text-TFIdf/master/META.info
-https://raw.githubusercontent.com/jnthn/p6-docker-file/master/META.info
+https://raw.githubusercontent.com/jnthn/p6-docker-file/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/Lumberjack/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/Lumberjack-Dispatcher-Syslog/master/META6.json
 https://raw.githubusercontent.com/titsuki/p6-Algorithm-Manacher/master/META6.json
@@ -630,7 +630,7 @@ https://raw.githubusercontent.com/tadzik/Module-Toolkit/master/META6.json
 https://raw.githubusercontent.com/tadzik/Getopt-Type/master/META6.json
 https://raw.githubusercontent.com/tadzik/App-redpanda/master/META6.json
 https://raw.githubusercontent.com/Perl6-Noise-Gang/perl6-Audio-MIDI-Note/master/META6.json
-https://raw.githubusercontent.com/jnthn/p6-app-moarvm-heapanalyzer/master/META.info
+https://raw.githubusercontent.com/jnthn/p6-app-moarvm-heapanalyzer/master/META6.json
 https://raw.githubusercontent.com/Altai-man/perl6-Devel-Trace/master/META6.json
 https://raw.githubusercontent.com/atweiden/txn-parser/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/App-ModuleSnap/master/META6.json
@@ -737,7 +737,7 @@ https://raw.githubusercontent.com/jonathanstowe/URI-FetchFile/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/Monitor-Monit/master/META6.json
 https://raw.githubusercontent.com/titsuki/p6-MeCab/master/META6.json
 https://raw.githubusercontent.com/MARTIMM/pod-render/master/META6.json
-https://raw.githubusercontent.com/jnthn/p6-file-ignore/master/META.info
+https://raw.githubusercontent.com/jnthn/p6-file-ignore/master/META6.json
 https://raw.githubusercontent.com/adaptiveoptics/Crust-Middleware-Session-Store-DBIish/master/META.info
 https://raw.githubusercontent.com/hipek8/p6-Statistics-LinearRegression/master/META6.json
 https://raw.githubusercontent.com/samcv/URL-Find/master/META6.json
