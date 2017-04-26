@@ -155,8 +155,8 @@ https://raw.githubusercontent.com/masak/crypt/master/META.info
 https://raw.githubusercontent.com/perl6/doc/master/META6.json
 https://raw.githubusercontent.com/sirrobert/Class-Utils/master/META.info
 https://raw.githubusercontent.com/sirrobert/Masquerade/master/META.info
-https://raw.githubusercontent.com/afiskon/p6-xml-parser-tiny/master/META.info
-https://raw.githubusercontent.com/afiskon/p6-datetime-format-w3cdtf/master/META.info
+https://raw.githubusercontent.com/afiskon/p6-xml-parser-tiny/master/META6.json
+https://raw.githubusercontent.com/afiskon/p6-datetime-format-w3cdtf/master/META6.json
 https://raw.githubusercontent.com/Cofyc/perl6-redis/master/META6.json
 https://raw.githubusercontent.com/afiskon/p6-sitemap-xml-parser/master/META6.json
 https://raw.githubusercontent.com/FROGGS/p6-Digest-PSHA1/master/META6.json
@@ -252,7 +252,7 @@ https://raw.githubusercontent.com/perl6/gtk-simple/master/META6.json
 https://raw.githubusercontent.com/timo/cairo-p6/master/META6.json
 https://raw.githubusercontent.com/tadzik/ClassX-StrictConstructor/master/META.info
 https://raw.githubusercontent.com/stmuk/p6-String-Koremutake/master/META6.json
-https://raw.githubusercontent.com/skinkade/p6-Crypt-Bcrypt/master/META.info
+https://raw.githubusercontent.com/skinkade/p6-Crypt-Bcrypt/master/META6.json
 https://raw.githubusercontent.com/xfix/Acme-DSON/master/META.info
 https://raw.githubusercontent.com/MattOates/Stats/master/META6.json
 https://raw.githubusercontent.com/mj41/SP6/master/META6.json
@@ -615,7 +615,7 @@ https://raw.githubusercontent.com/Emeric54/p6-text-caesar/master/META6.json
 https://raw.githubusercontent.com/zoffixznet/perl6-Twitter/master/META6.json
 https://raw.githubusercontent.com/zoffixznet/perl6-NASA/master/META6.json
 https://raw.githubusercontent.com/MadcapJake/rabble/master/META6.json
-https://raw.githubusercontent.com/skinkade/crypt-random/master/META.info
+https://raw.githubusercontent.com/skinkade/crypt-random/master/META6.json
 https://raw.githubusercontent.com/zoffixznet/perl6-GlotIO/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/EuclideanRhythm/master/META6.json
 https://raw.githubusercontent.com/Altai-man/deredere/master/META6.json
@@ -623,7 +623,7 @@ https://raw.githubusercontent.com/jonathanstowe/Lumberjack-Application/master/ME
 https://raw.githubusercontent.com/scovit/perl6-IRC-Async/master/META6.json
 https://raw.githubusercontent.com/Perl6-Noise-Gang/p6-Music-Helpers/master/META6.json
 https://raw.githubusercontent.com/zoffixznet/perl6-Subset-Helper/master/META6.json
-https://raw.githubusercontent.com/skinkade/p6-crypt-argon2/master/META.info
+https://raw.githubusercontent.com/skinkade/p6-crypt-argon2/master/META6.json
 https://raw.githubusercontent.com/Altai-man/perl6-app-whiff/master/META6.json
 https://raw.githubusercontent.com/MadcapJake/p6-MyHTML/master/META6.json
 https://raw.githubusercontent.com/tadzik/Module-Toolkit/master/META6.json
