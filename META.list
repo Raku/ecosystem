@@ -258,7 +258,7 @@ https://raw.githubusercontent.com/MattOates/Stats/master/META6.json
 https://raw.githubusercontent.com/mj41/SP6/master/META6.json
 https://raw.githubusercontent.com/perl6/perl6-http-server-async/master/META6.json
 https://raw.githubusercontent.com/softmoth/p6-Template-Mustache/master/META.info
-https://raw.githubusercontent.com/teodozjan/perl-store/master/META.info
+https://raw.githubusercontent.com/teodozjan/perl-store/master/META6.json
 https://raw.githubusercontent.com/p6-css/perl6-CSS-Specification/master/META6.json
 https://raw.githubusercontent.com/grondilu/chess/master/META6.json
 https://raw.githubusercontent.com/zengargoyle/Text-Fortune/master/META6.json
@@ -311,7 +311,7 @@ https://raw.githubusercontent.com/niner/Grammar-Highlighter/master/META6.json
 https://raw.githubusercontent.com/niner/CompUnit-Repository-Panda/master/META6.json
 https://raw.githubusercontent.com/avuserow/perl6-datetime-format-likego/master/META.info
 https://raw.githubusercontent.com/raydiak/Inline-Lua/master/META.info
-https://raw.githubusercontent.com/teodozjan/mortage6/master/META.info
+https://raw.githubusercontent.com/teodozjan/mortage6/master/META6.json
 https://raw.githubusercontent.com/hoelzro/p6-linenoise/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/p6-Linux-Fuser/master/META6.json
 https://raw.githubusercontent.com/raydiak/Git-PurePerl/master/META.info
@@ -450,7 +450,7 @@ https://raw.githubusercontent.com/araraloren/Net-FTP/master/META6.json
 https://raw.githubusercontent.com/zengargoyle/p6-Algorithm-Trie-libdatrie/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/JSON-Name/master/META6.json
 https://raw.githubusercontent.com/zengargoyle/p6-Search-Dict/master/META6.json
-https://raw.githubusercontent.com/teodozjan/pod6-coverage/master/META.info
+https://raw.githubusercontent.com/teodozjan/pod6-coverage/master/META6.json
 https://raw.githubusercontent.com/hartenfels/Text-Markdown-Discount/master/META.info
 https://raw.githubusercontent.com/p6-pdf/perl6-Crypt-RC4/master/META6.json
 https://raw.githubusercontent.com/cbk/WebService-HazIP/master/META.info
