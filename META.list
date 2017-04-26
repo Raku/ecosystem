@@ -110,7 +110,7 @@ https://raw.githubusercontent.com/perl6/form/master/META6.json
 https://raw.githubusercontent.com/tadzik/Text-T9/master/META.info
 https://raw.githubusercontent.com/jnthn/grammar-debugger/master/META6.json
 https://raw.githubusercontent.com/uasi/messagepack-pm6/master/META6.json
-https://raw.githubusercontent.com/viklund/november/master/META.info
+https://raw.githubusercontent.com/viklund/november/master/META6.json
 https://raw.githubusercontent.com/zag/plosurin/master/META6.json
 https://raw.githubusercontent.com/retupmoca/p6-Email-Simple/master/META.info
 https://raw.githubusercontent.com/retupmoca/p6-Email-MIME/master/META.info
@@ -257,7 +257,7 @@ https://raw.githubusercontent.com/xfix/Acme-DSON/master/META.info
 https://raw.githubusercontent.com/MattOates/Stats/master/META6.json
 https://raw.githubusercontent.com/mj41/SP6/master/META6.json
 https://raw.githubusercontent.com/perl6/perl6-http-server-async/master/META6.json
-https://raw.githubusercontent.com/softmoth/p6-Template-Mustache/master/META.info
+https://raw.githubusercontent.com/softmoth/p6-Template-Mustache/master/META6.json
 https://raw.githubusercontent.com/teodozjan/perl-store/master/META6.json
 https://raw.githubusercontent.com/p6-css/perl6-CSS-Specification/master/META6.json
 https://raw.githubusercontent.com/grondilu/chess/master/META6.json
@@ -295,7 +295,7 @@ https://raw.githubusercontent.com/jpve/perl6-net-packet/master/META.info
 https://raw.githubusercontent.com/jpve/perl6-net-pcap/master/META.info
 https://raw.githubusercontent.com/jpve/perl6-pod-strip/master/META.info
 https://raw.githubusercontent.com/tony-o/perl6-slang-sql/master/META.info
-https://raw.githubusercontent.com/softmoth/perl6-pod-to-markdown/master/META.info
+https://raw.githubusercontent.com/softmoth/perl6-pod-to-markdown/master/META6.json
 https://raw.githubusercontent.com/marcoonroad/Coro-Simple/master/META.info
 https://raw.githubusercontent.com/p6-css/perl6-CSS-Writer/master/META6.json
 https://raw.githubusercontent.com/tony-o/perl6-http-server-async-plugins-router-simple/master/META.info
