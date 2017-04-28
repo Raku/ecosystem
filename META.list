@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/jnthn/test-mock/master/META6.json
 https://raw.githubusercontent.com/cjfields/bioperl6/master/META6.json
 https://raw.githubusercontent.com/MattOates/BioInfo/master/META6.json
 https://raw.githubusercontent.com/sergot/Term--ProgressBar/master/META.info
-https://raw.githubusercontent.com/MARTIMM/semaphore-readerswriters/master/META.info
+https://raw.githubusercontent.com/MARTIMM/semaphore-readerswriters/master/META6.json
 https://raw.githubusercontent.com/MARTIMM/config-datalang-refine/master/META6.json
 https://raw.githubusercontent.com/sergot/IO-Capture-Simple/master/META.info
 https://raw.githubusercontent.com/FCO/Math-PascalTriangle/master/META6.json
@@ -394,7 +394,7 @@ https://raw.githubusercontent.com/skaji/mi6/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/p6-unix-privileges/master/META6.json
 https://raw.githubusercontent.com/tokuhirom/p6-HTTP-MultiPartParser/master/META6.json
 https://raw.githubusercontent.com/tokuhirom/p6-Cookie-Baker/master/META6.json
-https://raw.githubusercontent.com/moznion/p6-IO-Blob/master/META.info
+https://raw.githubusercontent.com/moznion/p6-IO-Blob/master/META6.json
 https://raw.githubusercontent.com/skaji/perl6-HTTP-Tinyish/master/META6.json
 https://raw.githubusercontent.com/tokuhirom/p6-HTTP-Parser/master/META6.json
 https://raw.githubusercontent.com/tokuhirom/p6-HTTP-Server-Tiny/master/META6.json
@@ -695,7 +695,7 @@ https://raw.githubusercontent.com/melezhik/sparrowdo-nginx/master/META6.json
 https://raw.githubusercontent.com/melezhik/sparrowdo-sparrow-update/master/META6.json
 https://raw.githubusercontent.com/shantanubhadoria/p6-Printer-ESCPOS/master/META6.json
 https://raw.githubusercontent.com/shantanubhadoria/p6-CompUnit-Search/master/META6.json
-https://raw.githubusercontent.com/MARTIMM/PKCS5/master/META.info
+https://raw.githubusercontent.com/MARTIMM/PKCS5/master/META6.json
 https://raw.githubusercontent.com/pierre-vigier/Perl6-Acme-Sudoku/master/META6.json
 https://raw.githubusercontent.com/melezhik/sparrowdo-cpm/master/META6.json
 https://raw.githubusercontent.com/zostay/p6-DOM-Tiny/master/META6.json
@@ -719,7 +719,7 @@ https://raw.githubusercontent.com/titsuki/p6-Algorithm-LBFGS/master/META6.json
 https://raw.githubusercontent.com/leejo/geo-ip2location-lite-p6/master/META6.json
 https://raw.githubusercontent.com/zostay/p6-Getopt-ForClass/master/META6.json
 https://raw.githubusercontent.com/FCO/ProblemSolver/master/META6.json
-https://raw.githubusercontent.com/MARTIMM/unicode-precis/master/META.info
+https://raw.githubusercontent.com/MARTIMM/unicode-precis/master/META6.json
 https://raw.githubusercontent.com/scmorrison/JS-Minify/master/META6.json
 https://raw.githubusercontent.com/bduggan/p6-Crypt-RSA/master/META6.json
 https://raw.githubusercontent.com/gfldex/perl6-concurrent-file-find/master/META6.json
