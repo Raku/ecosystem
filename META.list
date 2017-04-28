@@ -98,7 +98,7 @@ https://raw.githubusercontent.com/perlpilot/benchmark/master/META.info
 https://raw.githubusercontent.com/perlpilot/Grammar-Profiler-Simple/master/META.info
 https://raw.githubusercontent.com/perl6-community-modules/uri/master/META6.json
 https://raw.githubusercontent.com/leto/perl6-Algorithm-Soundex/master/META6.json
-https://raw.githubusercontent.com/MARTIMM/mongo-perl6-driver/master/META.info
+https://raw.githubusercontent.com/MARTIMM/mongo-perl6-driver/master/META6.json
 https://raw.githubusercontent.com/PerlGameDev/SDL6/master/META.info
 https://raw.githubusercontent.com/perl6-community-modules/p6-irc-utils/master/META6.json
 https://raw.githubusercontent.com/perl6-community-modules/p6-test-builder/master/META6.json
@@ -700,7 +700,7 @@ https://raw.githubusercontent.com/pierre-vigier/Perl6-Acme-Sudoku/master/META6.j
 https://raw.githubusercontent.com/melezhik/sparrowdo-cpm/master/META6.json
 https://raw.githubusercontent.com/zostay/p6-DOM-Tiny/master/META6.json
 https://raw.githubusercontent.com/ahalbert/perl6-itertools/master/META.info
-https://raw.githubusercontent.com/MARTIMM/Auth-SCRAM/master/META.info
+https://raw.githubusercontent.com/MARTIMM/Auth-SCRAM/master/META6.json
 https://raw.githubusercontent.com/melezhik/remote-file/master/META6.json
 https://raw.githubusercontent.com/melezhik/sparrowdo-archive/master/META6.json
 https://raw.githubusercontent.com/ajs/perl6-Math-Sequences/master/META6.json
