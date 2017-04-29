@@ -310,7 +310,7 @@ https://raw.githubusercontent.com/Mouq/toml-pm6/master/META.info
 https://raw.githubusercontent.com/niner/Inline-Python/master/META6.json
 https://raw.githubusercontent.com/niner/Grammar-Highlighter/master/META6.json
 https://raw.githubusercontent.com/niner/CompUnit-Repository-Panda/master/META6.json
-https://raw.githubusercontent.com/avuserow/perl6-datetime-format-likego/master/META.info
+https://raw.githubusercontent.com/avuserow/perl6-datetime-format-likego/master/META6.json
 https://raw.githubusercontent.com/raydiak/Inline-Lua/master/META.info
 https://raw.githubusercontent.com/teodozjan/mortage6/master/META6.json
 https://raw.githubusercontent.com/hoelzro/p6-linenoise/master/META6.json
@@ -498,7 +498,7 @@ https://raw.githubusercontent.com/yowcow/p6-WebService-SOP/master/META6.json
 https://raw.githubusercontent.com/mempko/PKafka/master/META6.json
 https://raw.githubusercontent.com/Skarsnik/gptrixie/master/META6.json
 https://raw.githubusercontent.com/Skarsnik/perl6-irc-art/master/META.info
-https://raw.githubusercontent.com/dankogai/p6-num-hexfloat/master/META.info
+https://raw.githubusercontent.com/dankogai/p6-num-hexfloat/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/RPi-Device-SMBus/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/RPi-Device-PiGlow/master/META6.json
 https://raw.githubusercontent.com/LLFourn/p6-CompUnit-Util/master/META6.json
