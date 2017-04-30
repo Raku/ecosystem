@@ -5,7 +5,7 @@ https://raw.githubusercontent.com/moritz/json/master/META6.json
 https://raw.githubusercontent.com/colomon/perl6-Testing/master/META.info
 https://raw.githubusercontent.com/colomon/mandelbrot/master/META6.json
 https://raw.githubusercontent.com/colomon/IO-Prompter/master/META6.json
-https://raw.githubusercontent.com/MattOates/Math--FourierTransform/master/META.info
+https://raw.githubusercontent.com/MattOates/Math--FourierTransform/master/META6.json
 https://raw.githubusercontent.com/colomon/Math-Polynomial/master/META.info
 https://raw.githubusercontent.com/colomon/Math-Vector/master/META6.json
 https://raw.githubusercontent.com/colomon/Math-ContinuedFractions/master/META.info
@@ -173,7 +173,7 @@ https://raw.githubusercontent.com/FROGGS/p6-IDNA-Punycode/master/META6.json
 https://raw.githubusercontent.com/FROGGS/p6-Foo-v1.0.0/master/META6.json
 https://raw.githubusercontent.com/FROGGS/p6-Foo-v1.2.0/master/META6.json
 https://raw.githubusercontent.com/perlpilot/p6-Locale-US/master/META.info
-https://raw.githubusercontent.com/MattOates/Text--Emotion/master/META.info
+https://raw.githubusercontent.com/MattOates/Text--Emotion/master/META6.json
 https://raw.githubusercontent.com/MattOates/Text--Homoglyph/master/META6.json
 https://raw.githubusercontent.com/sirrobert/Semantic-Versioning/master/META.info
 https://raw.githubusercontent.com/grondilu/openssl/master/META6.json
