@@ -200,7 +200,7 @@ https://raw.githubusercontent.com/tadzik/Test-Harness/master/META.info
 https://raw.githubusercontent.com/grondilu/libdigest-perl6/master/META6.json
 https://raw.githubusercontent.com/tadzik/Coroutines/master/META.info
 https://raw.githubusercontent.com/jnthn/rakudo-debugger/master/META6.json
-https://raw.githubusercontent.com/labster/perl6-File-Find-Duplicates/master/META.info
+https://raw.githubusercontent.com/labster/perl6-File-Find-Duplicates/master/META6.json
 https://raw.githubusercontent.com/p6-pdf/PDF-Grammar-p6/master/META6.json
 https://raw.githubusercontent.com/labster/perl6-File-Compare/master/META6.json
 https://raw.githubusercontent.com/dagurval/HTML-Strip/master/META6.json
@@ -222,7 +222,7 @@ https://raw.githubusercontent.com/coke/p6-uni/master/META6.json
 https://raw.githubusercontent.com/azawawi/perl6-file-homedir/master/META6.json
 https://raw.githubusercontent.com/mrhdias/perl6-IUP/master/META.info
 https://raw.githubusercontent.com/rakudo-p5/v5/master/META6.json
-https://raw.githubusercontent.com/labster/p6-file-directory-tree/master/META.info
+https://raw.githubusercontent.com/labster/p6-file-directory-tree/master/META6.json
 https://raw.githubusercontent.com/labster/p6-File-Spec-Case/master/META6.json
 https://raw.githubusercontent.com/dagurval/perl6-gd-raw/master/META6.json
 https://raw.githubusercontent.com/dagurval/perl6-image-resize/master/META6.json
