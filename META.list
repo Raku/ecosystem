@@ -341,7 +341,7 @@ https://raw.githubusercontent.com/drforr/perl6-Perl6-Parser/master/META6.json
 https://raw.githubusercontent.com/drforr/perl6-readline/master/META6.json
 https://raw.githubusercontent.com/drforr/perl6-slang-roman/master/META6.json
 https://raw.githubusercontent.com/drforr/perl6-Inline-Scheme-Guile/master/META6.json
-https://raw.githubusercontent.com/zostay/p6-Path-Router/master/META.info
+https://raw.githubusercontent.com/zostay/p6-Path-Router/master/META6.json
 https://raw.githubusercontent.com/tony-o/perl6-http-server-router/master/META6.json
 https://raw.githubusercontent.com/skids/perl6xproto/master/META6.json
 https://raw.githubusercontent.com/skids/perl6-Proc-Screen/master/META6.json
@@ -349,7 +349,7 @@ https://raw.githubusercontent.com/skids/perl6-Control-Bail/master/META6.json
 https://raw.githubusercontent.com/perl6/perl6-http-server/master/META6.json
 https://raw.githubusercontent.com/tony-o/perl6-http-server-logger/master/META6.json
 https://raw.githubusercontent.com/p6-pdf/Font-AFM-p6/master/META6.json
-https://raw.githubusercontent.com/zostay/p6-HTTP-Headers/master/META.info
+https://raw.githubusercontent.com/zostay/p6-HTTP-Headers/master/META6.json
 https://raw.githubusercontent.com/zostay/p6-Hash-MultiValue/master/META6.json
 https://raw.githubusercontent.com/Uladox/Editscr-Uggedit/master/META.info
 https://raw.githubusercontent.com/wentam/P6-Graffiks/master/META.info
@@ -364,7 +364,7 @@ https://raw.githubusercontent.com/tony-o/perl6-data-dump/master/META6.json
 https://raw.githubusercontent.com/stmuk/p6-app-p6tags/master/META6.json
 https://raw.githubusercontent.com/tony-o/perl6-hiker/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/CheckSocket/master/META6.json
-https://raw.githubusercontent.com/zostay/perl6-ArrayHash/master/META.info
+https://raw.githubusercontent.com/zostay/perl6-ArrayHash/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/Audio-Libshout/master/META6.json
 https://raw.githubusercontent.com/hoelzro/p6-algorithm-elo/master/META6.json
 https://raw.githubusercontent.com/jaffa4/Dependency-Sort/master/META6.json
@@ -386,7 +386,7 @@ https://raw.githubusercontent.com/jonathanstowe/p6-fcgi-psgi/master/META6.json
 https://raw.githubusercontent.com/byterock/Acme-Flutterby/master/META.info
 https://raw.githubusercontent.com/ab5tract/Terminal-Print/master/META6.json
 https://raw.githubusercontent.com/perlpilot/p6-IO-Notification-Recursive/master/META.info
-https://raw.githubusercontent.com/zostay/P6W/master/META.info
+https://raw.githubusercontent.com/zostay/P6W/master/META6.json
 https://raw.githubusercontent.com/yuvipanda/perl6-Ident-Client/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/XDG-BaseDirectory/master/META6.json
 https://raw.githubusercontent.com/nunorc/p6-Pekyll/master/META6.json
@@ -671,7 +671,7 @@ https://raw.githubusercontent.com/zoffixznet/perl6-666/master/META6.json
 https://raw.githubusercontent.com/jkramer/p6-Text-Wrap/master/META6.json
 https://raw.githubusercontent.com/Altai-man/perl6-Text-Tabs/master/META6.json
 https://raw.githubusercontent.com/bbkr/TinyID/master/META6.json
-https://raw.githubusercontent.com/zostay/DateTime-DST/master/META.info
+https://raw.githubusercontent.com/zostay/DateTime-DST/master/META6.json
 https://raw.githubusercontent.com/atweiden/file-presence/master/META6.json
 https://raw.githubusercontent.com/gfldex/perl6-operator-defined-alternation/master/META6.json
 https://raw.githubusercontent.com/Altai-man/perl6-Test-NoTabs/master/META6.json
