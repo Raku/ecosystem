@@ -406,7 +406,7 @@ https://raw.githubusercontent.com/mattn/p6-Growl-GNTP/master/META6.json
 https://raw.githubusercontent.com/tokuhirom/p6-Crust/master/META6.json
 https://raw.githubusercontent.com/moznion/p6-Router-Boost/master/META6.json
 https://raw.githubusercontent.com/szabgab/Perl6-Maven/main/META6.json
-https://raw.githubusercontent.com/fayland/perl6-Lingua-Unihan/master/META.info
+https://raw.githubusercontent.com/fayland/perl6-Lingua-Unihan/master/META6.json
 https://raw.githubusercontent.com/moznion/p6-Backtrace-AsHTML/master/META6.json
 https://raw.githubusercontent.com/atweiden/config-toml/master/META6.json
 https://raw.githubusercontent.com/zoffixznet/perl6-Pastebin-Gist/master/META6.json
@@ -416,11 +416,11 @@ https://raw.githubusercontent.com/awwaiid/p6-lrep/master/META.info
 https://raw.githubusercontent.com/awwaiid/p6-Inline-Ruby/master/META.info
 https://raw.githubusercontent.com/lestrrat/p6-Apache-LogFormat/master/META6.json
 https://raw.githubusercontent.com/moznion/p6-Stream-Buffered/master/META6.json
-https://raw.githubusercontent.com/fayland/perl6-WebService-GitHub/master/META.info
-https://raw.githubusercontent.com/fayland/perl6-WebService-Google-PageRank/master/META.info
-https://raw.githubusercontent.com/fayland/perl6-Locale-Codes/master/META.info
+https://raw.githubusercontent.com/fayland/perl6-WebService-GitHub/master/META6.json
+https://raw.githubusercontent.com/fayland/perl6-WebService-Google-PageRank/master/META6.json
+https://raw.githubusercontent.com/fayland/perl6-Locale-Codes/master/META6.json
 https://raw.githubusercontent.com/ShaneKilkelly/perl6-http-router-blind/master/META6.json
-https://raw.githubusercontent.com/fayland/perl6-Gravatar-URL/master/META.info
+https://raw.githubusercontent.com/fayland/perl6-Gravatar-URL/master/META6.json
 https://raw.githubusercontent.com/ShaneKilkelly/perl6-config-clever/master/META6.json
 https://raw.githubusercontent.com/skaji/Frinfon/master/META6.json
 https://raw.githubusercontent.com/moznion/p6-Text-LTSV/master/META6.json
@@ -442,7 +442,7 @@ https://raw.githubusercontent.com/lestrrat/p6-Crust-Middleware-Session/master/ME
 https://raw.githubusercontent.com/fayland/perl6-Cache-LRU/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/JSON-Class/master/META6.json
 https://raw.githubusercontent.com/cspencer/perl6-posix/master/META.info
-https://raw.githubusercontent.com/fayland/perl6-Business-CreditCard/master/META.info
+https://raw.githubusercontent.com/fayland/perl6-Business-CreditCard/master/META6.json
 https://raw.githubusercontent.com/cspencer/perl6-raspberry-pi/master/META.info
 https://raw.githubusercontent.com/jonathanstowe/META6/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/Test-META/master/META6.json
