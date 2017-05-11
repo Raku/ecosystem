@@ -331,6 +331,8 @@ https://raw.githubusercontent.com/cygx/p6-debug/master/META6.json
 https://raw.githubusercontent.com/cygx/p6-image-png-inflated/master/META6.json
 https://raw.githubusercontent.com/cygx/p6-image-rgba-text/master/META6.json
 https://raw.githubusercontent.com/cygx/p6-nqp-eval/master/META6.json
+https://raw.githubusercontent.com/cygx/p6-tinycc/master/META6.json
+https://raw.githubusercontent.com/cygx/p6-tinycc-resources-win64/master/META6.json
 https://raw.githubusercontent.com/cygx/p6-uni63/master/META6.json
 https://raw.githubusercontent.com/cygx/p6-unicode-gcb/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/p6-Sys-Lastlog/master/META6.json
