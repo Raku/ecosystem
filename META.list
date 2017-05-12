@@ -1,6 +1,6 @@
 https://raw.githubusercontent.com/nkh/P6-Grammar-Tracer-Compact/master/META6.json
 https://raw.githubusercontent.com/PowellDean/Locale-Codes-Country/master/META6.json
-https://raw.githubusercontent.com/tadzik/perl6-Acme-Meow/master/META.info
+https://raw.githubusercontent.com/tadzik/perl6-Acme-Meow/master/META6.json
 https://raw.githubusercontent.com/moritz/json/master/META6.json
 https://raw.githubusercontent.com/colomon/perl6-Testing/master/META.info
 https://raw.githubusercontent.com/colomon/mandelbrot/master/META6.json
@@ -12,12 +12,12 @@ https://raw.githubusercontent.com/colomon/Math-ContinuedFractions/master/META.in
 https://raw.githubusercontent.com/colomon/Math-ChebyshevPolynomial/master/META.info
 https://raw.githubusercontent.com/colomon/Math-Odd-Functions/master/META.info
 https://raw.githubusercontent.com/faraco/Mofixes/master/META6.json
-https://raw.githubusercontent.com/tadzik/perl6-Config-INI/master/META.info
-https://raw.githubusercontent.com/tadzik/perl6-Term-ANSIColor/master/META.info
-https://raw.githubusercontent.com/tadzik/Terminal-ANSIColor/master/META.info
+https://raw.githubusercontent.com/tadzik/perl6-Config-INI/master/META6.json
+https://raw.githubusercontent.com/tadzik/perl6-Term-ANSIColor/master/META6.json
+https://raw.githubusercontent.com/tadzik/Terminal-ANSIColor/master/META6.json
 https://raw.githubusercontent.com/Tux/CSV/master/META6.json
 https://raw.githubusercontent.com/gfldex/http-server-simple/master/META6.json
-https://raw.githubusercontent.com/tadzik/perl6-MPD/master/META.info
+https://raw.githubusercontent.com/tadzik/perl6-MPD/master/META6.json
 https://raw.githubusercontent.com/colomon/List-Utils/master/META6.json
 https://raw.githubusercontent.com/Takadonet/Algorithm--Diff/master/META6.json
 https://raw.githubusercontent.com/Takadonet/Text--Diff/master/META6.json
@@ -107,7 +107,7 @@ https://raw.githubusercontent.com/ingydotnet/xxx-pm6/master/META.info
 https://raw.githubusercontent.com/perl6/Pod-To-HTML/master/META6.json
 https://raw.githubusercontent.com/ufobat/Bailador/master/META6.json
 https://raw.githubusercontent.com/perl6/form/master/META6.json
-https://raw.githubusercontent.com/tadzik/Text-T9/master/META.info
+https://raw.githubusercontent.com/tadzik/Text-T9/master/META6.json
 https://raw.githubusercontent.com/jnthn/grammar-debugger/master/META6.json
 https://raw.githubusercontent.com/uasi/messagepack-pm6/master/META6.json
 https://raw.githubusercontent.com/viklund/november/master/META6.json
@@ -142,12 +142,12 @@ https://raw.githubusercontent.com/retupmoca/p6-Crust-Middleware-Syslog/master/ME
 https://raw.githubusercontent.com/retupmoca/P6-Web-RF/master/META.info
 https://raw.githubusercontent.com/retupmoca/P6-JSON-JWT/master/META.info
 https://raw.githubusercontent.com/colomon/Test-Junkie/master/META.info
-https://raw.githubusercontent.com/tadzik/Template-Mojo/master/META.info
+https://raw.githubusercontent.com/tadzik/Template-Mojo/master/META6.json
 https://raw.githubusercontent.com/perl6/DBIish/master/META6.json
 https://raw.githubusercontent.com/perl6-community-modules/Date-WorkdayCalendar/master/META6.json
 https://raw.githubusercontent.com/xfix/perl6-Acme-Addslashes/master/META.info
 https://raw.githubusercontent.com/perlpilot/p6-File-Temp/master/META6.json
-https://raw.githubusercontent.com/tadzik/Typed-Subroutines/master/META.info
+https://raw.githubusercontent.com/tadzik/Typed-Subroutines/master/META6.json
 https://raw.githubusercontent.com/szabgab/perl6-Pod-Parser/master/META.info
 https://raw.githubusercontent.com/xfix/perl6-Text-Abbrev/master/META.info
 https://raw.githubusercontent.com/masak/Adventure-Engine/master/META.info
@@ -195,9 +195,9 @@ https://raw.githubusercontent.com/azawawi/perl6-clean/master/META6.json
 https://raw.githubusercontent.com/azawawi/perl6-gtk-simpler/master/META6.json
 https://raw.githubusercontent.com/azawawi/perl6-gtk-scintilla/master/META6.json
 https://raw.githubusercontent.com/azawawi/perl6-odoo-client/master/META6.json
-https://raw.githubusercontent.com/tadzik/Test-Harness/master/META.info
+https://raw.githubusercontent.com/tadzik/Test-Harness/master/META6.json
 https://raw.githubusercontent.com/grondilu/libdigest-perl6/master/META6.json
-https://raw.githubusercontent.com/tadzik/Coroutines/master/META.info
+https://raw.githubusercontent.com/tadzik/Coroutines/master/META6.json
 https://raw.githubusercontent.com/jnthn/rakudo-debugger/master/META6.json
 https://raw.githubusercontent.com/labster/perl6-File-Find-Duplicates/master/META6.json
 https://raw.githubusercontent.com/p6-pdf/PDF-Grammar-p6/master/META6.json
@@ -230,7 +230,7 @@ https://raw.githubusercontent.com/tony-o/perl6-csv-parser/master/META6.json
 https://raw.githubusercontent.com/perlpilot/p6-Questhub/master/META.info
 https://raw.githubusercontent.com/tadzik/File-Find/master/META6.json
 https://raw.githubusercontent.com/tadzik/Shell-Command/master/META6.json
-https://raw.githubusercontent.com/tadzik/JSON-Unmarshal/master/META.info
+https://raw.githubusercontent.com/tadzik/JSON-Unmarshal/master/META6.json
 https://raw.githubusercontent.com/perlpilot/p6-sake/master/META.info
 https://raw.githubusercontent.com/bbkr/text_markov/master/META6.json
 https://raw.githubusercontent.com/jaffa4/pathutil/master/META6.json
@@ -251,7 +251,7 @@ https://raw.githubusercontent.com/avuserow/perl6-compress-snappy/master/META6.js
 https://raw.githubusercontent.com/nicqrocks/p6-Git-Wrapper/master/META6.json
 https://raw.githubusercontent.com/perl6/gtk-simple/master/META6.json
 https://raw.githubusercontent.com/timo/cairo-p6/master/META6.json
-https://raw.githubusercontent.com/tadzik/ClassX-StrictConstructor/master/META.info
+https://raw.githubusercontent.com/tadzik/ClassX-StrictConstructor/master/META6.json
 https://raw.githubusercontent.com/stmuk/p6-String-Koremutake/master/META6.json
 https://raw.githubusercontent.com/skinkade/p6-Crypt-Bcrypt/master/META6.json
 https://raw.githubusercontent.com/xfix/Acme-DSON/master/META.info
@@ -608,7 +608,7 @@ https://raw.githubusercontent.com/nkh/P6-Text-Template/master/META6.json
 https://raw.githubusercontent.com/0racle/p6-wig/master/META6.json
 https://raw.githubusercontent.com/ufobat/p6-time-crontab/master/META.info
 https://raw.githubusercontent.com/jamesalbert/JSON-WebToken/master/META6.json
-https://raw.githubusercontent.com/tadzik/Geo-Coder-OpenCage/master/META.info
+https://raw.githubusercontent.com/tadzik/Geo-Coder-OpenCage/master/META6.json
 https://gitlab.com/stmuk/p6-task-galaxy/raw/master/META6.json
 https://raw.githubusercontent.com/Emeric54/p6-text-caesar/master/META6.json
 https://raw.githubusercontent.com/zoffixznet/perl6-Twitter/master/META6.json
