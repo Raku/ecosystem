@@ -239,7 +239,7 @@ https://raw.githubusercontent.com/patch/geo-region-pm6/master/META6.json
 https://raw.githubusercontent.com/jaffa4/perl6parsing/master/META6.json
 https://raw.githubusercontent.com/jaffa4/perl6format/master/META6.json
 https://raw.githubusercontent.com/jaffa4/perl6tracer/master/META6.json
-https://raw.githubusercontent.com/raydiak/Math--ThreeD/master/META.info
+https://raw.githubusercontent.com/raydiak/Math--ThreeD/master/META6.json
 https://raw.githubusercontent.com/Mouq/HTML-Entity/master/META.info
 https://raw.githubusercontent.com/Mouq/json5/master/META.info
 https://raw.githubusercontent.com/masak/text-indented/master/META.info
@@ -284,7 +284,7 @@ https://raw.githubusercontent.com/jnthn/oo-actors/master/META6.json
 https://raw.githubusercontent.com/paultcochrane/Perl6Mongers-Hannover/master/META6.json
 https://raw.githubusercontent.com/tony-o/perl6-operator-feq/master/META6.json
 https://raw.githubusercontent.com/timo/SDL2_raw-p6/master/META6.json
-https://raw.githubusercontent.com/raydiak/Math-Symbolic/master/META.info
+https://raw.githubusercontent.com/raydiak/Math-Symbolic/master/META6.json
 https://raw.githubusercontent.com/tony-o/perl6-bench/master/META6.json
 https://raw.githubusercontent.com/dnmfarrell/URI-Encode/master/META.info
 https://raw.githubusercontent.com/dnmfarrell/System-Passwd/master/META.info
@@ -302,7 +302,7 @@ https://raw.githubusercontent.com/p6-css/CSS-Writer-p6/master/META6.json
 https://raw.githubusercontent.com/tony-o/perl6-http-server-async-plugins-router-simple/master/META6.json
 https://raw.githubusercontent.com/masak/007/master/META.info
 https://raw.githubusercontent.com/andydude/p6-c-parser/master/META.info
-https://raw.githubusercontent.com/raydiak/pray/master/META.info
+https://raw.githubusercontent.com/raydiak/pray/master/META6.json
 https://raw.githubusercontent.com/p6-css/CSS-Module-CSS3-Selectors-p6/master/META6.json
 https://raw.githubusercontent.com/raydiak/Image-PNG-Portable/master/META.info
 https://raw.githubusercontent.com/avuserow/perl6-webservice-lastfm/master/META6.json
@@ -311,11 +311,11 @@ https://raw.githubusercontent.com/niner/Inline-Python/master/META6.json
 https://raw.githubusercontent.com/niner/Grammar-Highlighter/master/META6.json
 https://raw.githubusercontent.com/niner/CompUnit-Repository-Panda/master/META6.json
 https://raw.githubusercontent.com/avuserow/perl6-datetime-format-likego/master/META6.json
-https://raw.githubusercontent.com/raydiak/Inline-Lua/master/META.info
+https://raw.githubusercontent.com/raydiak/Inline-Lua/master/META6.json
 https://raw.githubusercontent.com/teodozjan/mortage6/master/META6.json
 https://raw.githubusercontent.com/hoelzro/p6-linenoise/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/p6-Linux-Fuser/master/META6.json
-https://raw.githubusercontent.com/raydiak/Git-PurePerl/master/META.info
+https://raw.githubusercontent.com/raydiak/Git-PurePerl/master/META6.json
 https://raw.githubusercontent.com/tony-o/perl6-overwatch/master/META6.json
 https://raw.githubusercontent.com/cedric-vincent/kains/master/META.info
 https://raw.githubusercontent.com/zoffixznet/perl6-Pastebin-Shadowcat/master/META6.json
