@@ -478,7 +478,6 @@ https://raw.githubusercontent.com/cbk/WebService-GoogleDyDNS/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/Chronic/master/META6.json
 https://raw.githubusercontent.com/Skarsnik/acme-wtf/master/META6.json
 https://raw.githubusercontent.com/zoffixznet/perl6-IRC-Client/master/META6.json
-https://raw.githubusercontent.com/zoffixznet/perl6-WWW-Google-Time/master/META6.json
 https://raw.githubusercontent.com/zoffixznet/perl6-Lingua-Conjunction/master/META6.json
 https://raw.githubusercontent.com/zoffixznet/perl6-Number-Denominate/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/Audio-Silan/master/META6.json
@@ -558,7 +557,6 @@ https://raw.githubusercontent.com/MadcapJake/p6dx/master/META.info
 https://raw.githubusercontent.com/MadcapJake/Acme-Mangle/master/META.info
 https://raw.githubusercontent.com/Gnouc/p6-linux-process-signalinfo/master/META6.json
 https://raw.githubusercontent.com/peelle/LendingClub/master/META6.json
-https://raw.githubusercontent.com/zoffixznet/perl6-String-Quotemeta/master/META6.json
 https://raw.githubusercontent.com/titsuki/p6-Algorithm-Treap/master/META6.json
 https://raw.githubusercontent.com/zhouzhen1/perl6-Inline-Scheme-Gambit/master/META.info
 https://raw.githubusercontent.com/kuerbis/Term-Choose-p6/master/META6.json
@@ -661,12 +659,8 @@ https://raw.githubusercontent.com/Altai-man/p6-WWW-DuckDuckGo/master/META6.json
 https://raw.githubusercontent.com/palapitta/Bencode/master/META6.json
 https://raw.githubusercontent.com/titsuki/p6-Algorithm-NaiveBayes/master/META6.json
 https://raw.githubusercontent.com/Altai-man/perl6-Config-Netrc/master/META6.json
-https://raw.githubusercontent.com/zoffixznet/perl6-Config-From/master/META6.json
 https://raw.githubusercontent.com/melezhik/sparrowdo/master/META6.json
-https://raw.githubusercontent.com/zoffixznet/perl6-Quantum-Collapse/master/META6.json
-https://raw.githubusercontent.com/zoffixznet/perl6-Pretty-Topic/master/META6.json
 https://raw.githubusercontent.com/bduggan/mosdef/master/META6.json
-https://raw.githubusercontent.com/zoffixznet/perl6-666/master/META6.json
 https://raw.githubusercontent.com/jkramer/p6-Text-Wrap/master/META6.json
 https://raw.githubusercontent.com/Altai-man/perl6-Text-Tabs/master/META6.json
 https://raw.githubusercontent.com/bbkr/TinyID/master/META6.json
@@ -702,7 +696,6 @@ https://raw.githubusercontent.com/melezhik/remote-file/master/META6.json
 https://raw.githubusercontent.com/melezhik/sparrowdo-archive/master/META6.json
 https://raw.githubusercontent.com/ajs/perl6-Math-Sequences/master/META6.json
 https://raw.githubusercontent.com/samgwise/p6-Numeric-Pack/master/META6.json
-https://raw.githubusercontent.com/zoffixznet/perl6-SPEC-Func/master/META6.json
 https://raw.githubusercontent.com/avuserow/perl6-binary-structured/master/META6.json
 https://raw.githubusercontent.com/atweiden/txn-remarshal/master/META6.json
 https://raw.githubusercontent.com/zostay/HTTP-Request-Supply/master/META6.json
@@ -776,7 +769,6 @@ https://raw.githubusercontent.com/Altai-man/Slang-Kazu/master/META6.json
 https://raw.githubusercontent.com/ufobat/p6-XML-XPath/master/META6.json
 https://raw.githubusercontent.com/stmuk/tap-harness6-prove6/master/META.info
 https://raw.githubusercontent.com/bradclawsie/DB-Rscs/master/META6.json
-https://raw.githubusercontent.com/zoffixznet/perl6-M/master/META6.json
 https://raw.githubusercontent.com/FCO/Punnable/master/META6.json
 https://raw.githubusercontent.com/jnthn/p6-ssh-libssh/master/META6.json
 https://raw.githubusercontent.com/bradclawsie/Context/master/META6.json
@@ -799,7 +791,6 @@ https://raw.githubusercontent.com/araraloren/Net-FTPlib/7cee8a030084a9a3c03a696d
 https://raw.githubusercontent.com/gfldex/perl6-proc-async-timeout/master/META6.json
 https://raw.githubusercontent.com/melezhik/sparrowdo-cpanm-github/master/META6.json
 https://raw.githubusercontent.com/7ojo/perl6-platform/master/META6.json
-https://raw.githubusercontent.com/zoffixznet/perl6-Failer/master/META6.json
 https://raw.githubusercontent.com/melezhik/perl6-sparrowdo-rvm/master/META6.json
 https://raw.githubusercontent.com/gfldex/perl6-slippy-semilist/master/META6.json
 https://raw.githubusercontent.com/CurtTilmes/Perl6-GraphQL/master/META6.json
