@@ -30,7 +30,6 @@ for my $url (<$fh>) {
         if ($response->is_success) {
             my $module = decode_json $response->content;
             _normalize_module($module);
-            push @modules, $module;
             my $name = $module->{name};
             if ($name =~ m{[/\\]} || $name =~ m{\.\.}) {
                 die "Invalid module name '$name'";
@@ -38,6 +37,7 @@ for my $url (<$fh>) {
             open my $OUT, '>', File::Spec->catfile($OUTDIR, 'module', $name);
             print $OUT $response->content;
             close $OUT;
+            push @modules, $module;
         }
         else {
             die 'Unsuccessful HTTP response: ' . $response->code
