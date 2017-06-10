@@ -34,6 +34,7 @@ for my $url (<$fh>) {
             if ($name =~ m{[/\\]} || $name =~ m{\.\.}) {
                 die "Invalid module name '$name'";
             }
+            _check_source_url($module, $url);
             open my $OUT, '>', File::Spec->catfile($OUTDIR, 'module', $name);
             print $OUT $response->content;
             close $OUT;
@@ -66,6 +67,34 @@ File::AtomicWrite->write_file({
     input => \JSON::XS->new->pretty(1)->encode(\@errors),
     mode  => 0644,
 });
+
+sub _check_source_url {
+    my ($module, $meta_url) = @_;
+    my $url;
+    $url = $module->{support}{source}
+      if    defined $module->{support}
+        and defined $module->{support}{source};
+    $url //= $module->{'source-url'};
+    $url //= $module->{'repo-url'};
+    length $url or die 'Empty source URL';
+
+    # we only check GitHub URLs ATM
+    return 1 unless $url =~ m{^ (?:http s?|git):// github\.com }x;
+
+    my $mangled_url = $url;
+    $meta_url =~ s{^https://raw\.githubusercontent\.com/}{https://github.com/};
+    for ($mangled_url, $meta_url) {
+        s{^ (?:http s?|git):// }{}x;
+        $_ = join '/', grep length, (split '/')[0..2];
+        s{\.git$}{};
+    };
+    return 1 if $url eq $meta_url; # easy way out
+
+    $url =~ s{^git://}{https://};
+    my $res = $ua->get($url);
+    return 1 if $res->is_success;
+    die "404 on source url (mangled version: $url): " . $res->status_line;
+}
 
 sub _normalize_module {
     my $module = shift;
