@@ -58,11 +58,13 @@ for my $basename ('projects.json',  'list') {
     File::AtomicWrite->write_file({
         file  => File::Spec->catfile($OUTDIR, $basename),
         input => \encode_json(\@modules),
+        mode  => 0644,
     });
 }
 File::AtomicWrite->write_file({
     file  => File::Spec->catfile($OUTDIR, 'errors.json'),
     input => \JSON::XS->new->pretty(1)->encode(\@errors),
+    mode  => 0644,
 });
 
 sub _normalize_module {
