@@ -7,6 +7,7 @@ use LWP::UserAgent;
 use autodie;
 use File::Spec;
 use FindBin;
+use File::AtomicWrite;
 use Data::Dumper;
 
 $|++;
@@ -52,17 +53,17 @@ for my $url (<$fh>) {
     }
 }
 close $fh;
-#unlink 'metalist';
 
 for my $basename ('projects.json',  'list') {
-    open  $fh, '>', File::Spec->catfile($OUTDIR, $basename);
-    print $fh encode_json \@modules;
-    close $fh;
+    File::AtomicWrite->write_file({
+        file  => File::Spec->catfile($OUTDIR, $basename),
+        input => \encode_json(\@modules),
+    });
 }
-
-open  $fh, '>', File::Spec->catfile($OUTDIR, 'errors.json');
-print $fh JSON::XS->new->pretty(1)->encode(\@errors);
-close $fh;
+File::AtomicWrite->write_file({
+    file  => File::Spec->catfile($OUTDIR, 'errors.json'),
+    input => \JSON::XS->new->pretty(1)->encode(\@errors),
+});
 
 sub _normalize_module {
     my $module = shift;
