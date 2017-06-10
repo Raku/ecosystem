@@ -149,7 +149,7 @@ https://raw.githubusercontent.com/xfix/perl6-Acme-Addslashes/master/META.info
 https://raw.githubusercontent.com/perlpilot/p6-File-Temp/master/META6.json
 https://raw.githubusercontent.com/tadzik/Typed-Subroutines/master/META6.json
 https://raw.githubusercontent.com/szabgab/perl6-Pod-Parser/master/META.info
-https://raw.githubusercontent.com/xfix/perl6-Text-Abbrev/master/META.info
+https://raw.githubusercontent.com/xfix/perl6-Text-Abbrev/master/META6.json
 https://raw.githubusercontent.com/masak/Adventure-Engine/master/META.info
 https://raw.githubusercontent.com/masak/crypt/master/META.info
 https://raw.githubusercontent.com/perl6/doc/master/META6.json
@@ -483,7 +483,7 @@ https://raw.githubusercontent.com/zoffixznet/perl6-Number-Denominate/master/META
 https://raw.githubusercontent.com/jonathanstowe/Audio-Silan/master/META6.json
 https://raw.githubusercontent.com/pierre-vigier/Perl6-Math-Matrix/master/META6.json
 https://raw.githubusercontent.com/Skarsnik/perl6-discord/master/META6.json
-https://raw.githubusercontent.com/Juerd/p6-mqtt/master/META.info
+https://raw.githubusercontent.com/Juerd/p6-mqtt/master/META6.json
 https://raw.githubusercontent.com/perlpilot/p6-Test-Class/master/META6.json
 https://raw.githubusercontent.com/autarch/perl6-Pod-TreeWalker/master/META.info
 https://raw.githubusercontent.com/atweiden/mktxn/master/META6.json
