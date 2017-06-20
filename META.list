@@ -94,7 +94,7 @@ https://raw.githubusercontent.com/bbkr/jsonrpc/master/META6.json
 https://raw.githubusercontent.com/MARTIMM/BSON/master/META6.json
 https://raw.githubusercontent.com/bbkr/GeoIPerl6/master/META6.json
 https://raw.githubusercontent.com/perlpilot/benchmark/master/META.info
-https://raw.githubusercontent.com/perlpilot/Grammar-Profiler-Simple/master/META.info
+https://raw.githubusercontent.com/perlpilot/Grammar-Profiler-Simple/master/META6.json
 https://raw.githubusercontent.com/perl6-community-modules/uri/master/META6.json
 https://raw.githubusercontent.com/leto/perl6-Algorithm-Soundex/master/META6.json
 https://raw.githubusercontent.com/MARTIMM/mongo-perl6-driver/master/META6.json
@@ -171,7 +171,7 @@ https://raw.githubusercontent.com/FROGGS/p6-overload-constant/master/META6.json
 https://raw.githubusercontent.com/FROGGS/p6-IDNA-Punycode/master/META6.json
 https://raw.githubusercontent.com/FROGGS/p6-Foo-v1.0.0/master/META6.json
 https://raw.githubusercontent.com/FROGGS/p6-Foo-v1.2.0/master/META6.json
-https://raw.githubusercontent.com/perlpilot/p6-Locale-US/master/META.info
+https://raw.githubusercontent.com/perlpilot/p6-Locale-US/master/META6.json
 https://raw.githubusercontent.com/MattOates/Text--Emotion/master/META6.json
 https://raw.githubusercontent.com/MattOates/Text--Homoglyph/master/META6.json
 https://raw.githubusercontent.com/sirrobert/Semantic-Versioning/master/META.info
@@ -228,11 +228,11 @@ https://raw.githubusercontent.com/dagurval/perl6-gd-raw/master/META6.json
 https://raw.githubusercontent.com/dagurval/perl6-image-resize/master/META6.json
 https://raw.githubusercontent.com/colomon/Phaser-ATEXIT/master/META.info
 https://raw.githubusercontent.com/tony-o/perl6-csv-parser/master/META6.json
-https://raw.githubusercontent.com/perlpilot/p6-Questhub/master/META.info
+https://raw.githubusercontent.com/perlpilot/p6-Questhub/master/META6.json
 https://raw.githubusercontent.com/tadzik/File-Find/master/META6.json
 https://raw.githubusercontent.com/tadzik/Shell-Command/master/META6.json
 https://raw.githubusercontent.com/tadzik/JSON-Unmarshal/master/META6.json
-https://raw.githubusercontent.com/perlpilot/p6-sake/master/META.info
+https://raw.githubusercontent.com/perlpilot/p6-sake/master/META6.json
 https://raw.githubusercontent.com/bbkr/text_markov/master/META6.json
 https://raw.githubusercontent.com/jaffa4/pathutil/master/META6.json
 https://raw.githubusercontent.com/patch/cldr-list-pm6/master/META6.json
@@ -388,7 +388,7 @@ https://raw.githubusercontent.com/jonathanstowe/p6-fcgi/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/p6-fcgi-psgi/master/META6.json
 https://raw.githubusercontent.com/byterock/Acme-Flutterby/master/META.info
 https://raw.githubusercontent.com/ab5tract/Terminal-Print/master/META6.json
-https://raw.githubusercontent.com/perlpilot/p6-IO-Notification-Recursive/master/META.info
+https://raw.githubusercontent.com/perlpilot/p6-IO-Notification-Recursive/master/META6.json
 https://raw.githubusercontent.com/zostay/P6W/master/META6.json
 https://raw.githubusercontent.com/yuvipanda/perl6-Ident-Client/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/XDG-BaseDirectory/master/META6.json
@@ -437,7 +437,7 @@ https://raw.githubusercontent.com/Skarsnik/perl6-gumbo/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/Object-Permission/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/Unix-Groups/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/Object-Permission-Group/master/META6.json
-https://raw.githubusercontent.com/perlpilot/p6-HexDump-Tiny/master/META.info
+https://raw.githubusercontent.com/perlpilot/p6-HexDump-Tiny/master/META6.json
 https://raw.githubusercontent.com/tony-o/perl6-module-does/master/META6.json
 https://raw.githubusercontent.com/tony-o/perl6-html-parser/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/JSON-Marshal/master/META6.json
