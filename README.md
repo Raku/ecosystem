@@ -36,6 +36,7 @@ Some of these issues commonly occur. Be sure to check your distro:
 
 #### META File
 
+* The correct META file's name is `META6.json`
 * Check that your META file contains valid JSON. To do so, you can use an online service,
 such as [JSON Lint](http://jsonlint.com/).
 * Ensure you have a [`provides` section](http://design.perl6.org/S22.html#provides)
