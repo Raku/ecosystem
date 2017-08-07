@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/perl6/ecosystem.svg)](https://travis-ci.org/perl6/ecosystem)
-
 We, the module installer developers, hereby decree...
 
 Too official? Ok, I'll go again.
