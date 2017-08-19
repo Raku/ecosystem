@@ -2,7 +2,7 @@ BEGIN { $ENV{HTTPS_CA_FILE} = '/etc/ssl/certs/ca-certificates.crt' }
 use 5.010;
 use strict;
 use warnings;
-use JSON::XS;
+use JSON::MaybeXS;
 use LWP::UserAgent;
 use autodie;
 use File::Spec;
@@ -63,7 +63,7 @@ for my $basename ('projects.json',  'list') {
 }
 File::AtomicWrite->write_file({
     file  => File::Spec->catfile($OUTDIR, 'errors.json'),
-    input => \JSON::XS->new->pretty(1)->encode(\@errors),
+    input => \JSON::MaybeXS->new->pretty(1)->encode(\@errors),
     mode  => 0644,
 });
 
