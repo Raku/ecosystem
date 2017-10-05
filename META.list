@@ -774,10 +774,7 @@ https://raw.githubusercontent.com/ufobat/p6-XML-Rabbit/master/META6.json
 https://raw.githubusercontent.com/7ojo/perl6-git-simple/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/Pg-Notify/master/META6.json
 https://raw.githubusercontent.com/7ojo/perl6-powerline-prompt/master/META6.json
-https://raw.githubusercontent.com/tbrowder/Text-More-Perl6/23104b76134d4282389e87ffa155c8c8a7854be7/META6.json
-https://raw.githubusercontent.com/tbrowder/Text-More-Perl6/554643e30597c666f2cbe778a15f8f8bfd5d0443/META6.json
 https://raw.githubusercontent.com/spitsh/spitsh/master/META6.json
-https://raw.githubusercontent.com/tbrowder/Text-More-Perl6/6ca7b5f578c71fa41b8986278bf8635ee16acf3f/META6.json
 https://raw.githubusercontent.com/tbrowder/Linux-Proc-Time-Perl6/9d707c8b8176988ee7a1c461af3c0f46586ec2f6/META6.json
 https://raw.githubusercontent.com/scmorrison/perl6-Web-Cache/master/META6.json
 https://raw.githubusercontent.com/melezhik/sparrowdo-goss/master/META6.json
@@ -885,7 +882,6 @@ https://raw.githubusercontent.com/croservices/cro/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/FastCGI-NativeCall-Async/master/META6.json
 https://raw.githubusercontent.com/tbrowder/Net-IP-Lite-Perl6/master/META6.json
 https://raw.githubusercontent.com/gabrielash/perl6-zmq/master/META6.json
-https://raw.githubusercontent.com/tbrowder/Text-More-Perl6/release/META6.json
 https://raw.githubusercontent.com/tbrowder/Number-More-Perl6/master/META6.json
 https://raw.githubusercontent.com/scovit/NativeHelpers-CBuffer/master/META6.json
 https://raw.githubusercontent.com/scriptkitties/perl6-IRC-Client-Plugin-Github/master/META6.json
