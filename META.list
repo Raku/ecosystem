@@ -790,15 +790,11 @@ https://raw.githubusercontent.com/matiaslina/perl6-matrix-client/master/META6.js
 https://raw.githubusercontent.com/jonathanstowe/MessagePack-Class/master/META6.json
 https://raw.githubusercontent.com/IanTayler/MinG/master/META6.json
 https://raw.githubusercontent.com/PostCocoon/P6-TagLibC/master/META6.json
-https://raw.githubusercontent.com/scriptkitties/p6-Config/master/META6.json
-https://raw.githubusercontent.com/scriptkitties/p6-Config-Parser-yaml/master/META6.json
 https://raw.githubusercontent.com/PostCocoon/P6-Url/master/META6.json
-https://raw.githubusercontent.com/scriptkitties/p6-Hash-Merge/master/META6.json
 https://raw.githubusercontent.com/grondilu/trigpi/master/META6.json
 https://raw.githubusercontent.com/jnthn/p6-concurrent-progress/master/META6.json
 https://raw.githubusercontent.com/zoffixznet/perl6-Trait-IO/master/META6.json
 https://raw.githubusercontent.com/CurtTilmes/perl6-primesieve/master/META6.json
-https://raw.githubusercontent.com/scriptkitties/p6-Config-Parser-toml/master/META6.json
 https://raw.githubusercontent.com/CurtTilmes/perl6-dbi-async/master/META6.json
 https://raw.githubusercontent.com/nicqrocks/perl6-slack-webhook/master/META6.json
 https://raw.githubusercontent.com/zoffixznet/perl6-Pythonic-Str/master/META6.json
@@ -813,7 +809,6 @@ https://raw.githubusercontent.com/skaji/perl6-CPAN-Uploader-Tiny/master/META6.js
 https://raw.githubusercontent.com/cbk/API-USNavalObservatory/master/META6.json
 https://raw.githubusercontent.com/niner/Distribution-Builder-MakeFromJSON/master/META6.json
 https://raw.githubusercontent.com/araraloren/perl6-terminal-table/master/META6.json
-https://raw.githubusercontent.com/scriptkitties/p6-MPD-Client/master/META6.json
 https://raw.githubusercontent.com/zoffixznet/perl6-Die/master/META6.json
 https://raw.githubusercontent.com/yaml/yaml-libyaml-perl6/master/META6.json
 https://raw.githubusercontent.com/garu/Zef-Reporter/master/META6.json
@@ -875,7 +870,6 @@ https://raw.githubusercontent.com/croservices/cro/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/FastCGI-NativeCall-Async/master/META6.json
 https://raw.githubusercontent.com/gabrielash/perl6-zmq/master/META6.json
 https://raw.githubusercontent.com/scovit/NativeHelpers-CBuffer/master/META6.json
-https://raw.githubusercontent.com/scriptkitties/perl6-IRC-Client-Plugin-Github/master/META6.json
 https://raw.githubusercontent.com/paulohrpinheiro/Brazilian-FederalDocuments/master/META6.json
 https://raw.githubusercontent.com/gabrielash/p6-log-zmq/master/META6.json
 https://raw.githubusercontent.com/bduggan/p6-digest-sha256-native/master/META6.json
