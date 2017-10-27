@@ -439,7 +439,6 @@ https://raw.githubusercontent.com/fayland/perl6-Cache-LRU/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/JSON-Class/master/META6.json
 https://raw.githubusercontent.com/cspencer/perl6-posix/master/META.info
 https://raw.githubusercontent.com/fayland/perl6-Business-CreditCard/master/META6.json
-https://raw.githubusercontent.com/cspencer/perl6-raspberry-pi/master/META.info
 https://raw.githubusercontent.com/jonathanstowe/META6/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/Test-META/master/META6.json
 https://raw.githubusercontent.com/araraloren/Net-FTP/master/META6.json
@@ -485,7 +484,6 @@ https://raw.githubusercontent.com/nxadm/StrictNamedArguments/master/META6.json
 https://raw.githubusercontent.com/nkh/P6-Data-Dump-Tree/release/META6.json
 https://raw.githubusercontent.com/autarch/perl6-File-LibMagic/master/META6.json
 https://raw.githubusercontent.com/bradclawsie/Hash-Consistent/master/META6.json
-https://raw.githubusercontent.com/cspencer/perl6-raspberry-pi-device-ds18b20/master/META.info
 https://raw.githubusercontent.com/yowcow/p6-Algorithm-BloomFilter/master/META6.json
 https://raw.githubusercontent.com/yowcow/p6-Digest-MurmurHash3/master/META6.json
 https://raw.githubusercontent.com/yowcow/p6-String-CamelCase/master/META6.json
