@@ -96,7 +96,7 @@ https://raw.githubusercontent.com/perlpilot/Grammar-Profiler-Simple/master/META6
 https://raw.githubusercontent.com/perl6-community-modules/uri/master/META6.json
 https://raw.githubusercontent.com/leto/perl6-Algorithm-Soundex/master/META6.json
 https://raw.githubusercontent.com/MARTIMM/mongo-perl6-driver/master/META6.json
-https://raw.githubusercontent.com/PerlGameDev/SDL6/master/META.info
+https://raw.githubusercontent.com/PerlGameDev/SDL6/master/META6.json
 https://raw.githubusercontent.com/perl6-community-modules/p6-irc-utils/master/META6.json
 https://raw.githubusercontent.com/perl6-community-modules/p6-test-builder/master/META6.json
 https://raw.githubusercontent.com/perl6-community-modules/yaml-pm6/master/META6.json
@@ -286,7 +286,7 @@ https://raw.githubusercontent.com/tony-o/perl6-bench/master/META6.json
 https://raw.githubusercontent.com/perl6-community-modules/URI-Encode/master/META.info
 https://raw.githubusercontent.com/perl6-community-modules/System-Passwd/master/META.info
 https://raw.githubusercontent.com/dnmfarrell/Pod-Perl5/master/META.info
-https://raw.githubusercontent.com/dnmfarrell/Pod-PerlTricks/master/META.info
+https://raw.githubusercontent.com/dnmfarrell/Pod-PerlTricks/master/META6.json
 https://raw.githubusercontent.com/jpve/perl6-net-packet/master/META.info
 https://raw.githubusercontent.com/jpve/perl6-net-pcap/master/META.info
 https://raw.githubusercontent.com/jpve/perl6-pod-strip/master/META.info
