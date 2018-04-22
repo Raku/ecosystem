@@ -54,7 +54,7 @@ for my $url (<$fh>) {
 }
 close $fh;
 
-for my $basename ('projects.json',  'list') {
+for my $basename ('projects1.json',  'list') {
     File::AtomicWrite->write_file({
         file  => File::Spec->catfile($OUTDIR, $basename),
         input => \encode_json(\@modules),
@@ -64,6 +64,12 @@ for my $basename ('projects.json',  'list') {
 File::AtomicWrite->write_file({
     file  => File::Spec->catfile($OUTDIR, 'errors.json'),
     input => \JSON::MaybeXS->new->pretty(1)->encode(\@errors),
+    mode  => 0644,
+});
+downgrade(\@modules);
+File::AtomicWrite->write_file({
+    file  => File::Spec->catfile($OUTDIR, 'projects.json'),
+    input => \encode_json(\@modules),
     mode  => 0644,
 });
 
@@ -85,5 +91,40 @@ sub _normalize_source_url {
         s{git\@github\.com:}{git://github.com/};
         $_ .= '.git' if m{^git://} and not m{\.git$};
         s{/$}{.git}  if m{^https?://};
+    }
+}
+
+sub downgrade {
+    my ($modules) = @_;
+
+    foreach my $meta (grep { exists $_->{'meta-version'} and 0 < $_->{'meta-version'} } @$modules) {
+        if (exists $meta->{depends} and ref $meta->{depends} eq 'HASH') {
+            my $depends = $meta->{depends};
+            delete $meta->{depends};
+            $meta->{depends} = $depends->{runtime}{requires}
+                if exists $depends->{runtime} and exists $depends->{runtime}{requires};
+            $meta->{'build-depends'} = $depends->{build}{requires}
+                if exists $depends->{build} and exists $depends->{build}{requires};
+            $meta->{'test-depends'} = $depends->{test}{requires}
+                if exists $depends->{test} and exists $depends->{test}{requires};
+        }
+        foreach (qw(depends build-depends test-depends)) {
+            $meta->{$_} = grep {
+                    $_ !~ /:from/
+                }
+                map {
+                    (ref $_ and ref $_ eq 'HASH') ? $_->{name} : $_
+                }
+                grep {
+                    defined $_
+                }
+                $meta->{$_}
+                if exists $meta->{$_};
+        }
+
+        if (exists $meta->{builder}) {
+            $meta->{'build-depends'} //= [];
+            push @{ $meta->{'build-depends'} }, "Distribution::Builder::$meta->{builder}";
+        }
     }
 }
