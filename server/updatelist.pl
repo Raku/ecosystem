@@ -109,16 +109,18 @@ sub downgrade {
                 if exists $depends->{test} and exists $depends->{test}{requires};
         }
         foreach (qw(depends build-depends test-depends)) {
-            $meta->{$_} = grep {
-                    $_ !~ /:from/
-                }
-                map {
-                    (ref $_ and ref $_ eq 'HASH') ? $_->{name} : $_
-                }
-                grep {
-                    defined $_
-                }
-                $meta->{$_}
+            $meta->{$_} = [
+                    grep {
+                        $_ !~ /:from/
+                    }
+                    map {
+                        (ref $_ and ref $_ eq 'HASH') ? $_->{name} : $_
+                    }
+                    grep {
+                        defined $_
+                    }
+                    @{ $meta->{$_} }
+                ]
                 if exists $meta->{$_};
         }
 
