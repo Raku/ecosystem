@@ -330,7 +330,6 @@ https://raw.githubusercontent.com/cygx/p6-unicode-gcb/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/p6-Sys-Lastlog/master/META6.json
 https://raw.githubusercontent.com/stmuk/p6-Text-VimColour/master/META6.json
 https://raw.githubusercontent.com/tony-o/perl6-http-server-threaded/master/META6.json
-https://raw.githubusercontent.com/zostay/Template-Anti/master/META6.json
 https://raw.githubusercontent.com/drforr/perl6-Perl6-Parser/master/META6.json
 https://raw.githubusercontent.com/drforr/perl6-readline/master/META6.json
 https://raw.githubusercontent.com/drforr/perl6-slang-roman/master/META6.json
@@ -342,8 +341,6 @@ https://raw.githubusercontent.com/skids/perl6-Proc-Screen/master/META6.json
 https://raw.githubusercontent.com/skids/perl6-Control-Bail/master/META6.json
 https://raw.githubusercontent.com/perl6/perl6-http-server/master/META6.json
 https://raw.githubusercontent.com/tony-o/perl6-http-server-logger/master/META6.json
-https://raw.githubusercontent.com/zostay/p6-HTTP-Headers/master/META6.json
-https://raw.githubusercontent.com/zostay/p6-Hash-MultiValue/master/META6.json
 https://raw.githubusercontent.com/Uladox/Editscr-Uggedit/master/META.info
 https://raw.githubusercontent.com/wentam/P6-Graffiks/master/META6.json
 https://raw.githubusercontent.com/hoelzro/p6-priorityqueue/master/META6.json
@@ -357,7 +354,6 @@ https://raw.githubusercontent.com/tony-o/perl6-data-dump/master/META6.json
 https://raw.githubusercontent.com/stmuk/p6-app-p6tags/master/META6.json
 https://raw.githubusercontent.com/tony-o/perl6-hiker/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/CheckSocket/master/META6.json
-https://raw.githubusercontent.com/zostay/perl6-ArrayHash/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/Audio-Libshout/master/META6.json
 https://raw.githubusercontent.com/hoelzro/p6-algorithm-elo/master/META6.json
 https://raw.githubusercontent.com/jaffa4/Dependency-Sort/master/META6.json
@@ -368,7 +364,6 @@ https://raw.githubusercontent.com/jaffa4/logd/master/META6.json
 https://raw.githubusercontent.com/jaffa4/string-stream/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/NativeHelpers-Array/master/META6.json
 https://raw.githubusercontent.com/jdv/p6-data-selector/master/META6.json
-https://raw.githubusercontent.com/zostay/perl6-IO-Glob/master/META6.json
 https://raw.githubusercontent.com/stmuk/p6-html-restrict/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/Audio-Convert-Samplerate/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/Staticish/master/META6.json
@@ -664,7 +659,6 @@ https://raw.githubusercontent.com/shantanubhadoria/p6-CompUnit-Search/master/MET
 https://raw.githubusercontent.com/MARTIMM/PKCS5/master/META6.json
 https://raw.githubusercontent.com/pierre-vigier/Perl6-Acme-Sudoku/master/META6.json
 https://raw.githubusercontent.com/melezhik/sparrowdo-cpm/master/META6.json
-https://raw.githubusercontent.com/zostay/p6-DOM-Tiny/master/META6.json
 https://raw.githubusercontent.com/ahalbert/perl6-itertools/master/META6.json
 https://raw.githubusercontent.com/MARTIMM/Auth-SCRAM/master/META6.json
 https://raw.githubusercontent.com/melezhik/sparrowdo-archive/master/META6.json
