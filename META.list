@@ -538,7 +538,6 @@ https://raw.githubusercontent.com/Gnouc/p6-linux-process-signalinfo/master/META6
 https://raw.githubusercontent.com/peelle/LendingClub/master/META6.json
 https://raw.githubusercontent.com/titsuki/p6-Algorithm-Treap/master/META6.json
 https://raw.githubusercontent.com/zhouzhen1/perl6-Inline-Scheme-Gambit/master/META.info
-https://raw.githubusercontent.com/kuerbis/Term-Choose-p6/master/META6.json
 https://raw.githubusercontent.com/hankache/Acme-Cow/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/Oyatul/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/Test-Util-ServerPort/master/META6.json
@@ -563,8 +562,6 @@ https://raw.githubusercontent.com/titsuki/p6-Algorithm-KdTree/master/META6.json
 https://raw.githubusercontent.com/donaldh/Perl6-RPi-GpioDirect/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/Audio-Hydrogen/master/META6.json
 https://raw.githubusercontent.com/Perl6-Noise-Gang/Audio-PortAudio/master/META6.json
-https://raw.githubusercontent.com/kuerbis/Term-Choose-Util-p6/master/META6.json
-https://raw.githubusercontent.com/kuerbis/Term-TablePrint-p6/master/META6.json
 https://raw.githubusercontent.com/salortiz/DBDish-ODBC/master/META6.json
 https://raw.githubusercontent.com/kmwallio/Acme-Skynet/master/META6.json
 https://raw.githubusercontent.com/Perl6-Noise-Gang/Audio-PortMIDI/master/META6.json
