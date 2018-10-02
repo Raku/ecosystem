@@ -44,6 +44,11 @@ You will need to add a GitHub hook to your repository.
    
 ![Adding a webhook to your project](webhook.png)
 
+If you're hanging out already in the #perl6 IRC channel, you'll see
+something like this:
+
+![Active!](active.png)
+
 ## Hang around in the #perl6 IRC channel
 
 This webhook will be active during the Squashathon, roughly 11 AM
@@ -53,3 +58,10 @@ to
 [the #perl6 IRC channel](https://webchat.freenode.net/?channels=#perl6). Hang
 around as much (or little) as you want, ask/answer questions, help
 others or ask for help. 
+
+## Get prizes!
+
+The person with the most
+PRs
+[will get a Camelia](https://github.com/perl6/ecosystem/wiki/SQUASHathon)!
+A real, physical one!
