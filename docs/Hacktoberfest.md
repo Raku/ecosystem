@@ -40,7 +40,7 @@ You will need to add a GitHub hook to your repository.
    repository. Enter password if it's needed.
 2. Use http://whateverable.6lang.org:4243/ as Payload URL, set
    `Content-type` to `application/json`, and mark on *Send me
-   **everything*** like this. Click on *Add webhook* to make it work.
+   **everything*** like this, adding secret `squashathon`. Click on *Add webhook* to make it work.
    
 ![Adding a webhook to your project](webhook.png)
 
