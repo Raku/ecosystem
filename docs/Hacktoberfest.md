@@ -65,3 +65,11 @@ The person with the most
 PRs
 [will get a Camelia](https://github.com/perl6/ecosystem/wiki/SQUASHathon)!
 A real, physical one!
+
+## Frequently asked questions
+
+### Can I participate only in the Squashathon or in the Hacktoberfest?
+
+Yes. You *only* need to create the webhook to participate in the
+Squashathon, you *only* need to tag `hacktoberfest` your issues to
+participate in Hacktoberfest. Do both only if you want, or like.
