@@ -2,7 +2,7 @@
 
 The Perl 6 community celebrates a [monthly bug squash (long)
 day](https://github.com/rakudo/rakudo/wiki/Monthly-Bug-Squash-Day),
-and we make the one in Octobre coincide
+and we make the one in October coincide
 with [the Hacktoberfest](https://hacktoberfest.digitalocean.com/).
 
 We want all the community to benefit from this, so we have created a
