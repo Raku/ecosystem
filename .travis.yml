@@ -8,6 +8,6 @@ install:
   - rakudobrew build zef
 
 script:
-  - zen install IO::Socket::SSL
+  - zef install IO::Socket::SSL
   - zef install Test::META LWP::Simple
   - perl6 ./.travis/testpackagemeta.pl
