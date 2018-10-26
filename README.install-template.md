@@ -38,6 +38,5 @@ Perl 6.)
 
 ```Perl6
 git clone https://github.com/jhancock/Example-Module-Perl6.git
-cd /path/to/cloned/repository/directory
-zef install .
+zef install /path/to/cloned/repository/directory
 ```
