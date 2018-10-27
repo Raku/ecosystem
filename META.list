@@ -49,7 +49,7 @@ https://raw.githubusercontent.com/supernovus/perl6-web-template/master/META6.jso
 https://raw.githubusercontent.com/supernovus/perl6-web-app-mvc/master/META6.json
 https://raw.githubusercontent.com/supernovus/perl6-web-app-ballet/master/META.info
 https://raw.githubusercontent.com/supernovus/perl6-http-easy/master/META6.json
-https://raw.githubusercontent.com/supernovus/perl6-http-status/master/META.info
+https://raw.githubusercontent.com/supernovus/perl6-http-status/master/META6.json
 https://raw.githubusercontent.com/supernovus/perl6-http-client/master/META6.json
 https://raw.githubusercontent.com/supernovus/flower/master/META6.json
 https://raw.githubusercontent.com/supernovus/perl6-netstring/master/META.info
@@ -69,6 +69,7 @@ https://raw.githubusercontent.com/thundergnat/Text-Levenshtein/master/META6.json
 https://raw.githubusercontent.com/thundergnat/Acme-Scrub/master/META6.json
 https://raw.githubusercontent.com/thundergnat/Lingua-EN-Numbers-Cardinal/master/META6.json
 https://raw.githubusercontent.com/thundergnat/Timer/master/META6.json
+https://raw.githubusercontent.com/thundergnat/Rat-Precise/master/META6.json
 https://raw.githubusercontent.com/Miniconf/App-jsonv/master/META.info
 https://raw.githubusercontent.com/masak/ufo/master/META.info
 https://raw.githubusercontent.com/masak/yapsi/master/META.info
@@ -177,7 +178,6 @@ https://raw.githubusercontent.com/sirrobert/Semantic-Versioning/master/META6.jso
 https://raw.githubusercontent.com/grondilu/openssl/master/META6.json
 https://raw.githubusercontent.com/azawawi/farabi6/master/META6.json
 https://raw.githubusercontent.com/azawawi/perl6-browser-open/master/META6.json
-https://raw.githubusercontent.com/jnthn/json-path/master/META6.json
 https://raw.githubusercontent.com/azawawi/perl6-ncurses/master/META6.json
 https://raw.githubusercontent.com/azawawi/perl6-terminal-caca/master/META6.json
 https://raw.githubusercontent.com/azawawi/perl6-net-curl/master/META6.json
@@ -367,7 +367,7 @@ https://raw.githubusercontent.com/stmuk/p6-html-restrict/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/Audio-Convert-Samplerate/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/Staticish/master/META6.json
 https://raw.githubusercontent.com/Leont/yamlish/master/META6.json
-https://raw.githubusercontent.com/Leont/path-iterator/master/META.info
+https://raw.githubusercontent.com/Leont/path-iterator/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/p6-fcgi/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/p6-fcgi-psgi/master/META6.json
 https://raw.githubusercontent.com/byterock/Acme-Flutterby/master/META.info
@@ -492,6 +492,7 @@ https://raw.githubusercontent.com/jonathanstowe/IO-Path-Mode/master/META6.json
 https://raw.githubusercontent.com/goneri/p6-Email-Notmuch/master/META6.json
 https://raw.githubusercontent.com/jnthn/p6-concurrent-iterator/master/META6.json
 https://raw.githubusercontent.com/ugexe/P6TCI/master/META6.json
+https://raw.githubusercontent.com/ugexe/Perl6-CompUnit--Repository--Github/master/META6.json
 https://raw.githubusercontent.com/ugexe/Perl6-App--ecogen/master/META6.json
 https://raw.githubusercontent.com/ugexe/Perl6-Base64/master/META6.json
 https://raw.githubusercontent.com/ugexe/Perl6-CompUnit--Repository--Tar/master/META6.json
@@ -538,7 +539,6 @@ https://raw.githubusercontent.com/Gnouc/p6-linux-process-signalinfo/master/META6
 https://raw.githubusercontent.com/peelle/LendingClub/master/META6.json
 https://raw.githubusercontent.com/titsuki/p6-Algorithm-Treap/master/META6.json
 https://raw.githubusercontent.com/zhouzhen1/perl6-Inline-Scheme-Gambit/master/META.info
-https://raw.githubusercontent.com/kuerbis/Term-Choose-p6/master/META6.json
 https://raw.githubusercontent.com/hankache/Acme-Cow/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/Oyatul/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/Test-Util-ServerPort/master/META6.json
@@ -563,8 +563,6 @@ https://raw.githubusercontent.com/titsuki/p6-Algorithm-KdTree/master/META6.json
 https://raw.githubusercontent.com/donaldh/Perl6-RPi-GpioDirect/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/Audio-Hydrogen/master/META6.json
 https://raw.githubusercontent.com/Perl6-Noise-Gang/Audio-PortAudio/master/META6.json
-https://raw.githubusercontent.com/kuerbis/Term-Choose-Util-p6/master/META6.json
-https://raw.githubusercontent.com/kuerbis/Term-TablePrint-p6/master/META6.json
 https://raw.githubusercontent.com/salortiz/DBDish-ODBC/master/META6.json
 https://raw.githubusercontent.com/kmwallio/Acme-Skynet/master/META6.json
 https://raw.githubusercontent.com/Perl6-Noise-Gang/Audio-PortMIDI/master/META6.json
@@ -585,7 +583,6 @@ https://raw.githubusercontent.com/tadzik/Geo-Coder-OpenCage/master/META6.json
 https://gitlab.com/stmuk/p6-task-galaxy/raw/master/META6.json
 https://raw.githubusercontent.com/Emeric54/p6-text-caesar/master/META6.json
 https://raw.githubusercontent.com/zoffixznet/perl6-Twitter/master/META6.json
-https://raw.githubusercontent.com/zoffixznet/perl6-NASA/master/META6.json
 https://raw.githubusercontent.com/MadcapJake/rabble/master/META6.json
 https://raw.githubusercontent.com/skinkade/crypt-random/master/META6.json
 https://raw.githubusercontent.com/zoffixznet/perl6-GlotIO/master/META6.json
@@ -855,10 +852,9 @@ https://raw.githubusercontent.com/edumentab/p6-moarvm-remote/master/META6.json
 https://raw.githubusercontent.com/edumentab/p6-app-moarvm-debug/master/META6.json
 https://raw.githubusercontent.com/Altai-man/perl6-Java-Generate/master/META6.json
 https://raw.githubusercontent.com/araraloren/perl6-app-findsource/master/META6.json
-https://raw.githubusercontent.com/AlexDaniel/orgsleep/master/META6.json
 https://raw.githubusercontent.com/FCO/SupplyTimeWindow/master/META6.json
 https://raw.githubusercontent.com/marcoonroad/perl6-cuid/master/META6.json
-https://raw.githubusercontent.com/tony-o/perl6-koos/master/META6.json
+https://raw.githubusercontent.com/tony-o/perl6-xoo/master/META6.json
 https://raw.githubusercontent.com/FCO/test-time/master/META6.json
 https://raw.githubusercontent.com/mryan/perl6-Slang-AltTernary/master/META6.json
 https://raw.githubusercontent.com/zoffixznet/perl6-Games-TauStation-DateTime/master/META6.json
@@ -877,3 +873,16 @@ https://raw.githubusercontent.com/FCO/SeqSplitter/master/META6.json
 https://raw.githubusercontent.com/ijneb/telegram-bot/master/META6.json
 https://raw.githubusercontent.com/FCO/Injector/master/META6.json
 https://raw.githubusercontent.com/shuppet/p6-api-discord/master/META6.json
+https://raw.githubusercontent.com/samcv/perl6-Git-Log/master/META6.json
+https://raw.githubusercontent.com/AlexDaniel/orgsleep/master/META6.json
+https://raw.githubusercontent.com/AlexDaniel/foo-dependencies-a-on-b/master/META6.json
+https://raw.githubusercontent.com/AlexDaniel/foo-dependencies-b-on-a/master/META6.json
+https://raw.githubusercontent.com/AlexDaniel/foo-dependencies-self/master/META6.json
+https://raw.githubusercontent.com/AlexDaniel/foo-regressed-very/master/META6.json
+https://raw.githubusercontent.com/AlexDaniel/foo-regressed/master/META6.json
+https://raw.githubusercontent.com/perl6/Blin/master/META6.json
+https://raw.githubusercontent.com/perl6/whateverable/master/META6.json
+https://gitlab.com/pheix/router-right-perl6/raw/master/META6.json
+https://raw.githubusercontent.com/tony-o/perl6-event-emitter-interprocess/master/META6.json
+https://raw.githubusercontent.com/edumentab/p6-ecma262regex/master/META6.json
+https://raw.githubusercontent.com/tmtvl/Zodiac-Chinese/master/META6.json
