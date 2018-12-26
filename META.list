@@ -901,3 +901,6 @@ https://raw.githubusercontent.com/Kaiepi/p6-Net-LibIDN2/master/META6.json
 https://raw.githubusercontent.com/Kaiepi/p6-Digest-BubbleBabble/master/META6.json
 https://raw.githubusercontent.com/Kaiepi/p6-Crypt-CAST5/master/META6.json
 https://raw.githubusercontent.com/taboege/p6-SAT/master/META6.json
+https://raw.githubusercontent.com/taboege/p6-SAT-Solver-MiniSAT/master/META6.json
+https://raw.githubusercontent.com/taboege/p6-SAT-Counter-DSHARP/master/META6.json
+https://raw.githubusercontent.com/taboege/p6-SAT-Enumerator-Toda/master/META6.json
