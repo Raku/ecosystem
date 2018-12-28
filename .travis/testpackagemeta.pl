@@ -71,7 +71,10 @@ for @urls -> $url {
         my $*TEST-DIR //= Any;
         my $*META-FILE //= Any;
         meta-ok();
-
+        if ( "Build.pm".IO.e or "Build.pm6".IO.e ) {
+            my $build = run "zef", "build", ".";
+            ok $build.exitcode eq 0, "Build done";
+        }
         my $zef = run "zef", "install", "--depsonly", "--/build", ".";
         ok $zef.exitcode eq 0, "Able to install deps";
         $zef = run "zef", "test", ".";
