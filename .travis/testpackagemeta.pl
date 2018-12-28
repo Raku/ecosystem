@@ -4,6 +4,8 @@ use JSON::Fast;
 use Test;
 use Test::META;
 
+# If you want to debug locally, change a line in META.list, do a commit and then
+# export TRAVIS_COMMIT_RANGE="HEAD^1...HEAD"
 if ! defined %*ENV<TRAVIS_COMMIT_RANGE> {
     say "TRAVIS_COMMIT_RANGE wasn't set, don't know what to do.";
     exit 1;
