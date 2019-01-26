@@ -270,7 +270,6 @@ https://raw.githubusercontent.com/hoelzro/p6-algorithm-lcs/master/META6.json
 https://raw.githubusercontent.com/vendethiel/Sprockets.pl/master/META6.json
 https://raw.githubusercontent.com/vendethiel/Serialize-Tiny.pm6/master/META6.json
 https://raw.githubusercontent.com/grondilu/clifford/master/META6.json
-https://raw.githubusercontent.com/Leont/tap-harness6/master/META6.json
 https://raw.githubusercontent.com/niner/Inline-Perl5/aa06e66e937f49f9061de4aed6a43cc4d796948d/META6.json
 https://raw.githubusercontent.com/krunen/term-termios/master/META6.json
 https://raw.githubusercontent.com/krunen/unicode-utf8-parser/master/META6.json
@@ -359,7 +358,6 @@ https://raw.githubusercontent.com/jdv/p6-data-selector/master/META6.json
 https://raw.githubusercontent.com/stmuk/p6-html-restrict/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/Staticish/master/META6.json
 https://raw.githubusercontent.com/Leont/yamlish/master/META6.json
-https://raw.githubusercontent.com/Leont/path-iterator/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/p6-fcgi/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/p6-fcgi-psgi/master/META6.json
 https://raw.githubusercontent.com/byterock/Acme-Flutterby/master/META.info
@@ -539,7 +537,6 @@ https://raw.githubusercontent.com/garyaj/perl6-raspberry-pi-device-piface/master
 https://raw.githubusercontent.com/dbrunton/Automata-Cellular/master/META6.json
 https://raw.githubusercontent.com/Sufrostico/perl6-wiringpi/master/META6.json
 https://raw.githubusercontent.com/titsuki/p6-Algorithm-ZobristHashing/master/META6.json
-https://raw.githubusercontent.com/Leont/getopt-long6/master/META6.json
 https://raw.githubusercontent.com/titsuki/p6-Algorithm-TernarySearchTree/master/META6.json
 https://raw.githubusercontent.com/jonathanstowe/XML-Class/master/META6.json
 https://raw.githubusercontent.com/lancew/ScientistP6/master/META6.json
