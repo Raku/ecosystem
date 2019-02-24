@@ -8,4 +8,4 @@ install:
   - docker pull jjmerelo/perl6-test-ecosystem
   - docker images
 
-script: docker run -t -v  $TRAVIS_BUILD_DIR:/test jjmerelo/perl6-test-ecosystem
+script: docker run -e TRAVIS_COMMIT_RANGE="HEAD^1...HEAD" -t -v  $TRAVIS_BUILD_DIR:/test jjmerelo/perl6-test-ecosystem
