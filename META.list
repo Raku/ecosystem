@@ -13,7 +13,6 @@ https://raw.githubusercontent.com/colomon/Math-Vector/master/META6.json
 https://raw.githubusercontent.com/colomon/Math-ContinuedFractions/master/META.info
 https://raw.githubusercontent.com/colomon/Math-ChebyshevPolynomial/master/META.info
 https://raw.githubusercontent.com/colomon/Math-Odd-Functions/master/META.info
-https://raw.githubusercontent.com/tadzik/perl6-Config-INI/master/META6.json
 https://raw.githubusercontent.com/tadzik/perl6-Term-ANSIColor/master/META6.json
 https://raw.githubusercontent.com/tadzik/Terminal-ANSIColor/master/META6.json
 https://raw.githubusercontent.com/Tux/CSV/master/META6.json
@@ -450,6 +449,7 @@ https://raw.githubusercontent.com/LLFourn/p6-CompUnit-Util/master/META6.json
 https://raw.githubusercontent.com/perl6-community-modules/perl6-IRC-Client-Plugin-Factoid/master/META6.json
 https://raw.githubusercontent.com/jnthn/p6-test-io-socket-async/master/META6.json
 https://raw.githubusercontent.com/scmorrison/perl6-aws-pricing/master/META6.json
+https://raw.githubusercontent.com/perl6-community-modules/perl6-Test-Output/v1.001001/META6.json
 https://raw.githubusercontent.com/perl6-community-modules/perl6-Test-Output/master/META6.json
 https://raw.githubusercontent.com/goneri/p6-Email-Notmuch/master/META6.json
 https://raw.githubusercontent.com/jnthn/p6-concurrent-iterator/master/META6.json
