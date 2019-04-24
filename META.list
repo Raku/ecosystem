@@ -642,7 +642,6 @@ https://raw.githubusercontent.com/melezhik/sparrowdo-chef-client/master/META6.js
 https://raw.githubusercontent.com/jnthn/p6-test-scheduler/master/META6.json
 https://raw.githubusercontent.com/dugword/Number-Bytes-Human/master/META6.json
 https://raw.githubusercontent.com/JJ/p6-math-constants/master/META6.json
-https://raw.githubusercontent.com/JJ/perl6-unicode-security/master/META6.json
 https://raw.githubusercontent.com/melezhik/sparrowdo-ruby-bundler/master/META6.json
 https://raw.githubusercontent.com/MARTIMM/tinky-hash/master/META6.json
 https://raw.githubusercontent.com/bradclawsie/Net-IP-Parse/master/META6.json
@@ -860,3 +859,5 @@ https://raw.githubusercontent.com/alabamenhu/Intl-CLDR/master/META6.json
 https://raw.githubusercontent.com/slunski/perl6-text-ldif/master/META6.json
 https://raw.githubusercontent.com/petrkol72/vCard-Parser/master/META6.json
 https://raw.githubusercontent.com/shuppet/p6-command-despatch/master/META6.json
+https://raw.githubusercontent.com/JJ/perl6-unicode-security/master/META6.json
+
