@@ -655,6 +655,7 @@ https://raw.githubusercontent.com/kalkin/Ddt/v0.3.2/META6.json
 https://raw.githubusercontent.com/kalkin/Ddt/v0.4.0/META6.json
 https://raw.githubusercontent.com/kalkin/Ddt/v0.4.3/META6.json
 https://raw.githubusercontent.com/kalkin/Ddt/v0.5.3/META6.json
+https://raw.githubusercontent.com/kalkin/Ddt/v0.5.5/META6.json
 https://raw.githubusercontent.com/jnthn/p6-data-textorbinary/master/META6.json
 https://raw.githubusercontent.com/gfldex/perl6-git-config/master/META6.json
 https://raw.githubusercontent.com/ramiroencinas/perl6-Package-Updates/master/META6.json
@@ -832,6 +833,7 @@ https://raw.githubusercontent.com/Altai-man/ASN-BER/master/META6.json
 https://raw.githubusercontent.com/Altai-man/ASN-Grammar/master/META6.json
 https://raw.githubusercontent.com/Altai-man/ASN-META/master/META6.json
 https://raw.githubusercontent.com/Kaiepi/p6-Net-LibIDN/master/META6.json
+https://raw.githubusercontent.com/Altai-man/cro-ldap-asn-plugin/master/META6.json
 https://raw.githubusercontent.com/Kaiepi/p6-Net-LibIDN2/master/META6.json
 https://raw.githubusercontent.com/Kaiepi/p6-Digest-BubbleBabble/master/META6.json
 https://raw.githubusercontent.com/Kaiepi/p6-Crypt-CAST5/master/META6.json
@@ -853,5 +855,14 @@ https://raw.githubusercontent.com/tony-o/perl6-libcsv/master/META6.json
 https://raw.githubusercontent.com/alabamenhu/Fluent/master/META6.json
 https://raw.githubusercontent.com/bduggan/p6-Grammar-PrettyErrors/master/META6.json
 https://raw.githubusercontent.com/ALANVF/P6TK/master/META6.json
+https://raw.githubusercontent.com/antoniogamiz/Math-ConvergenceMethods/master/META6.json
+https://raw.githubusercontent.com/alabamenhu/Intl-CLDR/master/META6.json
+https://raw.githubusercontent.com/slunski/perl6-text-ldif/master/META6.json
+https://raw.githubusercontent.com/petrkol72/vCard-Parser/master/META6.json
+https://raw.githubusercontent.com/shuppet/p6-command-despatch/master/META6.json
+https://raw.githubusercontent.com/JJ/perl6-unicode-security/master/META6.json
+https://raw.githubusercontent.com/tony-o/perl6-json-path/master/META6.json
+https://raw.githubusercontent.com/0racle/p6-File-Stat/master/META6.json
+https://raw.githubusercontent.com/Kaiepi/p6-Net-Telnet/master/META6.json
 https://gitlab.com/lembark/Perl6-FindBin/raw/master/META6.json
 https://gitlab.com/lembark/perl6-filesystem-parent/raw/master/META6.json
