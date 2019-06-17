@@ -21,8 +21,8 @@ if $metadiff ~~ /^\s*$/ {
   exit;
 }
 
-# Skip first 5 lines of `gif diff` header
-my @urls = $metadiff.lines[5..*].grep(/^\+/)».substr(1) or do {
+# Skip first 5 lines of `gif diff` header, grep off empty lines
+my @urls = $metadiff.lines[5..*].grep(/^\+/)».substr(1).grep(*.trim.chars != 0) or do {
     say "No packages have been added";
     exit;
 };
