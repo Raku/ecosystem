@@ -832,14 +832,9 @@ https://raw.githubusercontent.com/ufobat/p6-StrictClass/master/META6.json
 https://raw.githubusercontent.com/Altai-man/ASN-BER/master/META6.json
 https://raw.githubusercontent.com/Altai-man/ASN-Grammar/master/META6.json
 https://raw.githubusercontent.com/Altai-man/ASN-META/master/META6.json
-https://raw.githubusercontent.com/Kaiepi/p6-Net-LibIDN/master/META6.json
-https://raw.githubusercontent.com/Kaiepi/p6-Net-LibIDN2/master/META6.json
-https://raw.githubusercontent.com/Kaiepi/p6-Digest-BubbleBabble/master/META6.json
-https://raw.githubusercontent.com/Kaiepi/p6-Crypt-CAST5/master/META6.json
 https://raw.githubusercontent.com/taboege/p6-SAT/master/META6.json
 https://raw.githubusercontent.com/taboege/p6-SAT-Solver-MiniSAT/master/META6.json
 https://raw.githubusercontent.com/finanalyst/pod-render/master/META6.json
-https://raw.githubusercontent.com/Kaiepi/p6-Hastebin/master/META6.json
 https://raw.githubusercontent.com/JJ/p6-app-squashathons/master/META6.json
 https://raw.githubusercontent.com/mtw/Perl6-Bio-ViennaNGS/master/META6.json
 https://raw.githubusercontent.com/XiKuuKy/Avolution-Emoji/master/META6.json
@@ -862,8 +857,6 @@ https://raw.githubusercontent.com/shuppet/p6-command-despatch/master/META6.json
 https://raw.githubusercontent.com/JJ/perl6-unicode-security/master/META6.json
 https://raw.githubusercontent.com/tony-o/perl6-json-path/master/META6.json
 https://raw.githubusercontent.com/0racle/p6-File-Stat/master/META6.json
-https://raw.githubusercontent.com/Kaiepi/p6-Net-Telnet/master/META6.json
-https://raw.githubusercontent.com/Kaiepi/p6-Type-EnumHOW/master/META6.json
 https://raw.githubusercontent.com/dmaestro/Seq-Bounded/master/META6.json
 https://raw.githubusercontent.com/allsopp/p6-Operator-dB/master/META6.json
 https://raw.githubusercontent.com/Demayl/perl6-Sys-IP/master/META6.json
