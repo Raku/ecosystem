@@ -31,8 +31,6 @@ https://raw.githubusercontent.com/jnthn/test-mock/master/META6.json
 https://raw.githubusercontent.com/cjfields/bioperl6/master/META6.json
 https://raw.githubusercontent.com/MattOates/BioInfo/master/META6.json
 https://raw.githubusercontent.com/sergot/Term--ProgressBar/master/META.info
-https://raw.githubusercontent.com/MARTIMM/semaphore-readerswriters/master/META6.json
-https://raw.githubusercontent.com/MARTIMM/config-datalang-refine/master/META6.json
 https://raw.githubusercontent.com/sergot/IO-Capture-Simple/master/META6.json
 https://raw.githubusercontent.com/FCO/Math-PascalTriangle/master/META6.json
 https://raw.githubusercontent.com/GildedHonour/TelegramBot/master/META6.json
@@ -102,12 +100,10 @@ https://raw.githubusercontent.com/TiMBuS/Net--IRC/master/META6.json
 https://raw.githubusercontent.com/jasonmay/perl6-ioc/master/META6.json
 https://raw.githubusercontent.com/arnsholt/Algorithm-Viterbi/master/META.info
 https://raw.githubusercontent.com/bbkr/jsonrpc/master/META6.json
-https://raw.githubusercontent.com/MARTIMM/BSON/master/META6.json
 https://raw.githubusercontent.com/perlpilot/benchmark/master/META.info
 https://raw.githubusercontent.com/perlpilot/Grammar-Profiler-Simple/master/META6.json
 https://raw.githubusercontent.com/perl6-community-modules/uri/master/META6.json
 https://raw.githubusercontent.com/leto/perl6-Algorithm-Soundex/master/META6.json
-https://raw.githubusercontent.com/MARTIMM/mongo-perl6-driver/master/META6.json
 https://raw.githubusercontent.com/PerlGameDev/SDL6/master/META6.json
 https://raw.githubusercontent.com/perl6-community-modules/p6-irc-utils/master/META6.json
 https://raw.githubusercontent.com/perl6-community-modules/p6-test-builder/master/META6.json
@@ -602,11 +598,9 @@ https://raw.githubusercontent.com/melezhik/sparrowdo-nginx/master/META6.json
 https://raw.githubusercontent.com/melezhik/sparrowdo-sparrow-update/master/META6.json
 https://raw.githubusercontent.com/shantanubhadoria/p6-Printer-ESCPOS/master/META6.json
 https://raw.githubusercontent.com/shantanubhadoria/p6-CompUnit-Search/master/META6.json
-https://raw.githubusercontent.com/MARTIMM/PKCS5/master/META6.json
 https://raw.githubusercontent.com/pierre-vigier/Perl6-Acme-Sudoku/master/META6.json
 https://raw.githubusercontent.com/melezhik/sparrowdo-cpm/master/META6.json
 https://raw.githubusercontent.com/ahalbert/perl6-itertools/master/META6.json
-https://raw.githubusercontent.com/MARTIMM/Auth-SCRAM/master/META6.json
 https://raw.githubusercontent.com/melezhik/sparrowdo-archive/master/META6.json
 https://raw.githubusercontent.com/ajs/perl6-Math-Sequences/master/META6.json
 https://raw.githubusercontent.com/samgwise/p6-Numeric-Pack/master/META6.json
@@ -622,7 +616,6 @@ https://raw.githubusercontent.com/pierre-vigier/Perl6-Data-MessagePack/master/ME
 https://raw.githubusercontent.com/leejo/geo-ip2location-lite-p6/master/META6.json
 https://raw.githubusercontent.com/zostay/p6-Getopt-ForClass/master/META6.json
 https://raw.githubusercontent.com/FCO/ProblemSolver/master/META6.json
-https://raw.githubusercontent.com/MARTIMM/unicode-precis/master/META6.json
 https://raw.githubusercontent.com/scmorrison/JS-Minify/master/META6.json
 https://raw.githubusercontent.com/gfldex/perl6-concurrent-file-find/master/META6.json
 https://raw.githubusercontent.com/bduggan/p6-digest-sha1-native/master/META6.json
@@ -631,7 +624,6 @@ https://raw.githubusercontent.com/bduggan/p6-log-async/master/META6.json
 https://raw.githubusercontent.com/zostay/p6-CompUnit-DynamicLib/master/META6.json
 https://raw.githubusercontent.com/gfldex/perl6-concurrent-channelify/master/META6.json
 https://raw.githubusercontent.com/jsimonet/dns-zone/master/META6.json
-https://raw.githubusercontent.com/MARTIMM/pod-render/master/META6.json
 https://raw.githubusercontent.com/jnthn/p6-file-ignore/master/META6.json
 https://raw.githubusercontent.com/adaptiveoptics/Crust-Middleware-Session-Store-DBIish/master/META6.json
 https://raw.githubusercontent.com/hipek8/p6-Statistics-LinearRegression/master/META6.json
@@ -651,7 +643,6 @@ https://raw.githubusercontent.com/jnthn/p6-test-scheduler/master/META6.json
 https://raw.githubusercontent.com/dugword/Number-Bytes-Human/master/META6.json
 https://raw.githubusercontent.com/JJ/p6-math-constants/master/META6.json
 https://raw.githubusercontent.com/melezhik/sparrowdo-ruby-bundler/master/META6.json
-https://raw.githubusercontent.com/MARTIMM/tinky-hash/master/META6.json
 https://raw.githubusercontent.com/bradclawsie/Net-IP-Parse/master/META6.json
 https://raw.githubusercontent.com/FCO/Test-Fuzz/master/META6.json
 https://raw.githubusercontent.com/finanalyst/p6-inform/master/META6.json
