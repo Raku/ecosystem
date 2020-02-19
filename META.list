@@ -517,10 +517,10 @@ https://raw.githubusercontent.com/lancew/ScientistP6/master/META6.json
 https://raw.githubusercontent.com/atweiden/crane/master/META6.json
 https://raw.githubusercontent.com/titsuki/p6-Algorithm-KdTree/master/META6.json
 https://raw.githubusercontent.com/donaldh/Perl6-RPi-GpioDirect/master/META6.json
-https://raw.githubusercontent.com/Perl6-Noise-Gang/Audio-PortAudio/master/META6.json
+https://raw.githubusercontent.com/Raku-Noise-Gang/Audio-PortAudio/master/META6.json
 https://raw.githubusercontent.com/salortiz/DBDish-ODBC/master/META6.json
 https://raw.githubusercontent.com/kmwallio/Acme-Skynet/master/META6.json
-https://raw.githubusercontent.com/Perl6-Noise-Gang/Audio-PortMIDI/master/META6.json
+https://raw.githubusercontent.com/Raku-Noise-Gang/Audio-PortMIDI/master/META6.json
 https://raw.githubusercontent.com/titsuki/p6-Algorithm-Kruskal/master/META6.json
 https://raw.githubusercontent.com/Sufrostico/perl6-snowball/master/META6.json
 https://raw.githubusercontent.com/tony-o/perl6-flow/master/META6.json
@@ -540,7 +540,7 @@ https://raw.githubusercontent.com/skinkade/crypt-random/master/META6.json
 https://raw.githubusercontent.com/perl6-community-modules/perl6-GlotIO/master/META6.json
 https://raw.githubusercontent.com/Altai-man/deredere/master/META6.json
 https://raw.githubusercontent.com/scovit/perl6-IRC-Async/master/META6.json
-https://raw.githubusercontent.com/Perl6-Noise-Gang/p6-Music-Helpers/master/META6.json
+https://raw.githubusercontent.com/Raku-Noise-Gang/p6-Music-Helpers/master/META6.json
 https://raw.githubusercontent.com/perl6-community-modules/perl6-Subset-Helper/master/META6.json
 https://raw.githubusercontent.com/skinkade/p6-crypt-argon2/master/META6.json
 https://raw.githubusercontent.com/Altai-man/perl6-app-whiff/master/META6.json
@@ -549,7 +549,7 @@ https://raw.githubusercontent.com/tadzik/Module-Toolkit/master/META6.json
 https://raw.githubusercontent.com/JJ/Getopt-Type/master/META6.json
 https://raw.githubusercontent.com/tadzik/Getopt-Type/master/META6.json
 https://raw.githubusercontent.com/tadzik/App-redpanda/master/META6.json
-https://raw.githubusercontent.com/Perl6-Noise-Gang/perl6-Audio-MIDI-Note/master/META6.json
+https://raw.githubusercontent.com/Raku-Noise-Gang/perl6-Audio-MIDI-Note/master/META6.json
 https://raw.githubusercontent.com/jnthn/p6-app-moarvm-heapanalyzer/master/META6.json
 https://raw.githubusercontent.com/atweiden/txn-parser/master/META6.json
 https://raw.githubusercontent.com/Xliff/p6-audio-oggvorbis/master/META6.json
