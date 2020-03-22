@@ -9,6 +9,7 @@ use File::Spec;
 use FindBin;
 use File::AtomicWrite;
 use Data::Dumper;
+use Scalar::Util 'blessed';
 
 $|++;
 
@@ -31,7 +32,7 @@ for my $url (<$fh>) {
             my $module = decode_json $response->content;
             _normalize_module($module);
             my $name = $module->{name};
-            if ($name =~ m{[/\\]} || $name =~ m{\.\.}) {
+            if ($name =~ m{[/\\]} || $name =~ m{\.\.} || $name =~ m{^$}) {
                 die "Invalid module name '$name'";
             }
             open my $OUT, '>', File::Spec->catfile($OUTDIR, 'module', $name);
@@ -48,7 +49,7 @@ for my $url (<$fh>) {
         warn $@;
         push @errors, {
             url => $url,
-            message => $@,
+            message => (blessed $@ eq 'autodie::exception') ? $@->stringify : $@,
         };
     }
 }
