@@ -212,8 +212,8 @@ https://raw.githubusercontent.com/dagurval/HTML-Strip/master/META6.json
 https://raw.githubusercontent.com/grondilu/p6-modular/master/META.info
 https://raw.githubusercontent.com/labster/p6-Lingua-Number/master/META6.json
 https://raw.githubusercontent.com/dagurval/p6-Time-Duration/master/META.info
-https://raw.githubusercontent.com/p6-css/CSS-Grammar-p6/master/META6.json
-https://raw.githubusercontent.com/p6-css/CSS-Module-p6/master/META6.json
+https://raw.githubusercontent.com/css-raku/CSS-Grammar-raku/master/META6.json
+https://raw.githubusercontent.com/css-raku/CSS-Module-raku/master/META6.json
 https://raw.githubusercontent.com/hankache/perl6-Imlib2/master/META6.json
 https://raw.githubusercontent.com/dginev/perl6-Lingua-EN-Sentence/master/META6.json
 https://raw.githubusercontent.com/Heather/ignore/master/META6.json
@@ -263,7 +263,7 @@ https://raw.githubusercontent.com/mj41/SP6/master/META6.json
 https://raw.githubusercontent.com/perl6-community-modules/perl6-http-server-async/master/META6.json
 https://raw.githubusercontent.com/softmoth/p6-Template-Mustache/master/META6.json
 https://raw.githubusercontent.com/teodozjan/perl-store/master/META6.json
-https://raw.githubusercontent.com/p6-css/CSS-Specification-p6/master/META6.json
+https://raw.githubusercontent.com/css-raku/CSS-Specification-raku/master/META6.json
 https://raw.githubusercontent.com/grondilu/chess/master/META6.json
 https://raw.githubusercontent.com/zengargoyle/Text-Fortune/master/META6.json
 https://raw.githubusercontent.com/masak/data-pretty/master/META.info
@@ -295,12 +295,12 @@ https://raw.githubusercontent.com/jpve/perl6-pod-strip/master/META.info
 https://raw.githubusercontent.com/tony-o/perl6-slang-sql/master/META6.json
 https://raw.githubusercontent.com/softmoth/perl6-pod-to-markdown/master/META6.json
 https://raw.githubusercontent.com/marcoonroad/Coro-Simple/master/META6.json
-https://raw.githubusercontent.com/p6-css/CSS-Writer-p6/master/META6.json
+https://raw.githubusercontent.com/css-raku/CSS-Writer-raku/master/META6.json
 https://raw.githubusercontent.com/tony-o/perl6-http-server-async-plugins-router-simple/master/META6.json
 https://raw.githubusercontent.com/masak/007/master/META6.json
 https://raw.githubusercontent.com/andydude/p6-c-parser/master/META.info
 https://raw.githubusercontent.com/raydiak/pray/master/META6.json
-https://raw.githubusercontent.com/p6-css/CSS-Module-CSS3-Selectors-p6/master/META6.json
+https://raw.githubusercontent.com/css-raku/CSS-Module-CSS3-Selectors-raku/master/META6.json
 https://raw.githubusercontent.com/raydiak/Image-PNG-Portable/master/META6.json
 https://raw.githubusercontent.com/avuserow/perl6-webservice-lastfm/master/META6.json
 https://raw.githubusercontent.com/Mouq/toml-pm6/master/META.info
@@ -632,7 +632,7 @@ https://raw.githubusercontent.com/samcv/URL-Find/master/META6.json
 https://raw.githubusercontent.com/0racle/p6-Net-Netmask/master/META6.json
 https://raw.githubusercontent.com/spebern/Parser-FreeXL-Native/master/META6.json
 https://raw.githubusercontent.com/adaptiveoptics/HTML-Tag/master/META6.json
-https://raw.githubusercontent.com/p6-css/CSS-Declarations-p6/master/META6.json
+https://raw.githubusercontent.com/css-raku/CSS-Properties-raku/master/META6.json
 https://raw.githubusercontent.com/skaji/perl6-WaitGroup/master/META6.json
 https://raw.githubusercontent.com/astj/p6-SQL-NamedPlaceholder/master/META6.json
 https://raw.githubusercontent.com/samgwise/p6-algorithm-genetic/master/META6.json
