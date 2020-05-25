@@ -845,7 +845,7 @@ https://raw.githubusercontent.com/mtw/Perl6-Bio-ViennaNGS/master/META6.json
 https://raw.githubusercontent.com/XiKuuKy/Avolution-Emoji/master/META6.json
 https://raw.githubusercontent.com/manwar/p6-Calculator/master/META6.json
 https://raw.githubusercontent.com/alabamenhu/BCP47/master/META6.json
-https://raw.githubusercontent.com/JJ/perl6-test-script-output/master/META6.json 
+https://raw.githubusercontent.com/JJ/perl6-test-script-output/master/META6.json
 https://raw.githubusercontent.com/salortiz/NativeLibs/master/META6.json
 https://raw.githubusercontent.com/alabamenhu/UserLanguage/master/META6.json
 https://raw.githubusercontent.com/shuppet/p6-net-RCON/master/META6.json
@@ -877,7 +877,7 @@ https://raw.githubusercontent.com/tony-o/perl6-mux/master/META6.json
 https://raw.githubusercontent.com/alabamenhu/RegexFuzzyToken/master/META6.json
 https://raw.githubusercontent.com/bbkr/HomoGlypher/master/META6.json
 https://raw.githubusercontent.com/JJ/raku-array-shaped-console/master/META6.json
-https://raw.githubusercontent.com/JJ/raku-test-script/master/META6.json
+https://raw.githubusercontent.com/JJ/raku-test-script/master/META6.json 
 https://raw.githubusercontent.com/alabamenhu/Carp/master/META6.json
 https://raw.githubusercontent.com/ALANVF/Raku-LLVM/master/META6.json
 https://raw.githubusercontent.com/tinmarino/nogil/master/META6.json
