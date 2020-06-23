@@ -143,7 +143,7 @@ https://raw.githubusercontent.com/retupmoca/P6-Find-Bundled/master/META6.json
 https://raw.githubusercontent.com/retupmoca/P6-Net-SMTP/master/META6.json
 https://raw.githubusercontent.com/retupmoca/P6-Net-POP3/master/META6.json
 https://raw.githubusercontent.com/retupmoca/P6-Net-IMAP/master/META6.json
-https://raw.githubusercontent.com/retupmoca/P6-Digest-HMAC/master/META6.json
+https://raw.githubusercontent.com/JJ/Raku-Digest-HMAC/master/META6.json
 https://raw.githubusercontent.com/retupmoca/P6-Net-SOCKS/master/META6.json
 https://raw.githubusercontent.com/kalkin/Net-XMPP/master/META6.json
 https://raw.githubusercontent.com/retupmoca/P6-Net-AMQP/master/META6.json
