@@ -11,4 +11,5 @@ If adding a new module please review the following check boxes and check the app
 - [X] I have a license field listed in my META file that is one of https://spdx.org/licenses
   - [ ] My license is not one of those found on spdx.org but I **do** have a license field.
         In this case make sure you have a license URL listed under support. [See this example](https://github.com/samcv/URL-Find/blob/master/META6.json).
-   - [ ] I **don't** have a license field. Yes, I understand this is **not recommended**.
+  - [ ] I **don't** have a license field. Yes, I understand this is **not recommended**.
+- [ ] I **did not** put a volatile target in the `source-url` of the META file. Linking to a branch instead of a fixed revision or tag _will_ lead to breakage as soon as you commit to that branch.
