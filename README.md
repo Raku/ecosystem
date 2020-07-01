@@ -14,11 +14,11 @@ to have that in a central place, apart from any specific module installer
 
 * The list of projects in the ecosystem is really an orthogonal to the
   installer, or even *an* installer. It might be used for other things,
-  such as rendering the list at http://modules.perl6.org
+  such as rendering the list at http://modules.raku.org
 
 To add a new module to the ecosystem, add the URL of the module's raw META.info
 file to the META.list file here in the ecosystem. Since the updates to
-the ecosystem are announced in the #perl6 IRC channel, it is helpful
+the ecosystem are announced in the #raku IRC channel, it is helpful
 if you include the HTTP URL to your repo in your commit message so others
 could easily view your new module, e.g.:
 
@@ -39,7 +39,7 @@ Some of these issues commonly occur. Be sure to check your distro:
 * The correct META file's name is `META6.json`
 * Check that your META file contains valid JSON. To do so, you can use an online service,
 such as [JSON Lint](http://jsonlint.com/).
-* Ensure you have a [`provides` section](http://design.perl6.org/S22.html#provides)
+* Ensure you have a [`provides` section](http://design.raku.org/S22.html#provides)
 that lists all the modules in your distribution, with correct filenames,
 otherwise your module will not be installable.
 
