@@ -1,5 +1,5 @@
 use WWW;
-constant REPO = 'https://github.com/perl6/ecosystem/';
+constant REPO = 'https://github.com/Raku/ecosystem/';
 constant REPO-DIR = 'repo'.IO;
 constant META-FILE = REPO-DIR.add: 'META.list';
 

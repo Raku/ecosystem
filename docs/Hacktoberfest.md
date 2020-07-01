@@ -1,3 +1,3 @@
 # SQUASHaton
 
-## Page moved, see https://github.com/perl6/ecosystem/wiki/SQUASHathon
+## Page moved, see https://github.com/Raku/ecosystem/wiki/SQUASHathon
