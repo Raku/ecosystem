@@ -527,7 +527,6 @@ https://raw.githubusercontent.com/pdf-raku/PDF-Lite-raku/master/META6.json
 https://raw.githubusercontent.com/pdf-raku/PDF-raku/master/META6.json
 https://raw.githubusercontent.com/peelle/Finance-CompoundInterest/master/META6.json
 https://raw.githubusercontent.com/peelle/LendingClub/master/META6.json
-https://raw.githubusercontent.com/Raku/Blin/master/META6.json
 https://raw.githubusercontent.com/perl6/DBIish/master/META6.json
 https://raw.githubusercontent.com/perl6/Perl6-MIME-Base64/master/META6.json
 https://raw.githubusercontent.com/perl6/Pod-To-Cached/master/META6.json
@@ -538,6 +537,7 @@ https://raw.githubusercontent.com/perl6/gtk-simple/master/META6.json
 https://raw.githubusercontent.com/perl6/perl6-lwp-simple/master/META6.json
 https://raw.githubusercontent.com/perl6/perl6-pod-to-bigpage/master/META6.json
 https://raw.githubusercontent.com/Raku/whateverable/master/META6.json
+https://raw.githubusercontent.com/Raku/Blin/master/META6.json
 https://raw.githubusercontent.com/perlpilot/Grammar-Profiler-Simple/master/META6.json
 https://raw.githubusercontent.com/perlpilot/benchmark/master/META.info
 https://raw.githubusercontent.com/perlpilot/p6-AI-FANN/master/META6.json
