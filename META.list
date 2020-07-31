@@ -348,6 +348,7 @@ https://raw.githubusercontent.com/gfldex/perl6-concurrent-channelify/master/META
 https://raw.githubusercontent.com/gfldex/perl6-concurrent-file-find/master/META6.json
 https://raw.githubusercontent.com/gfldex/perl6-git-config/master/META6.json
 https://raw.githubusercontent.com/gfldex/raku-meta6-bin/master/META6.json
+https://raw.githubusercontent.com/gfldex/raku-shell-piping/master/META6.json
 https://raw.githubusercontent.com/gfldex/perl6-operator-defined-alternation/master/META6.json
 https://raw.githubusercontent.com/gfldex/perl6-proc-async-timeout/master/META6.json
 https://raw.githubusercontent.com/gfldex/perl6-rakudo-slippy-semilists/master/META6.json
