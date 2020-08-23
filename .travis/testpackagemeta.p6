@@ -49,8 +49,9 @@ for @urls -> $url {
       }
 
       my $meta = from-json($resp);
+      my $source-url = $meta<source-url> // $meta<support><source>;
 
-      if ! $meta<source-url> {
+      if ! $source-url {
           fail "no source-url defined in META file";
           return;
       }
@@ -58,7 +59,6 @@ for @urls -> $url {
       $_ = $meta<name>;
       s:g/\:\:/__/;
       $sourcedir = $*TMPDIR ~ "/" ~ $_;
-      my $sourceurl = $meta<source-url>;
       my $git = run "git", "clone", $sourceurl, $sourcedir;
       if $git.exitcode ne 0 {
         fail "Couldn't clone repo " ~ $sourceurl;
