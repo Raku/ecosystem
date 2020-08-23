@@ -40,7 +40,7 @@ my @failed = ();
 
 for @urls -> $url {
   my $subres = subtest {
-    my $sourcedir;
+    my $source-dir;
     my $res = lives-ok {
       my $resp = $lwp.get($url);
       if ! defined $resp {
@@ -58,18 +58,18 @@ for @urls -> $url {
 
       $_ = $meta<name>;
       s:g/\:\:/__/;
-      $sourcedir = $*TMPDIR ~ "/" ~ $_;
-      my $git = run "git", "clone", $sourceurl, $sourcedir;
+      $source-dir = $*TMPDIR ~ "/" ~ $_;
+      my $git = run "git", "clone", $source-url, $source-dir;
       if $git.exitcode ne 0 {
-        fail "Couldn't clone repo " ~ $sourceurl;
+        fail "Couldn't clone repo " ~ $source-url;
         return;
       }
     }, "Downloading $url";
 
     if $res {
-        chdir($sourcedir);
+        chdir($source-dir);
 
-        my $*DIST-DIR = $sourcedir.IO;
+        my $*DIST-DIR = $source-dir.IO;
         my $*TEST-DIR //= Any;
         my $*META-FILE //= Any;
 	if ( "Build.pm".IO.e or "Build.pm6".IO.e ) {
@@ -82,7 +82,7 @@ for @urls -> $url {
         $zef = run "zef", "test", ".";
         ok $zef.exitcode eq 0, "Package tests pass";
 
-        rm-all($sourcedir.IO);
+        rm-all($source-dir.IO);
         chdir($oldpwd);
     }
   }, "Checking correctness of $url";
