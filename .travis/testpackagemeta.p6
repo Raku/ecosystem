@@ -1,3 +1,5 @@
+#!/usr/bin/env raku
+
 use v6;
 use LWP::Simple;
 use JSON::Fast;
