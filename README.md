@@ -54,6 +54,9 @@ errors encountered during processing at
 [http://ecosystem-api.p6c.org/errors.json](http://ecosystem-api.p6c.org/errors.json). If your
 module is missing after about an hour since its addition, there may be issues with your META6.json file.
 
+The generated file contains invalid META6.json fragments. This is intentional and any software using it is
+expected to handle errors gracefully.
+
 # Module Take Over
 
 It's a fact of life that some modules end up being abandoned, either due to authors losing interest,
