@@ -631,6 +631,10 @@ https://raw.githubusercontent.com/raku-community-modules/yaml-pm6/master/META6.j
 https://raw.githubusercontent.com/ramiroencinas/perl6-FileSystem-Capacity/master/META6.json
 https://raw.githubusercontent.com/ramiroencinas/perl6-Package-Updates/master/META6.json
 https://raw.githubusercontent.com/ramiroencinas/perl6-System-DiskAndUpdatesAlerts/master/META6.json
+https://raw.githubusercontent.com/ramiroencinas/System-Stats-CPUsage/master/META6.json
+https://raw.githubusercontent.com/ramiroencinas/System-Stats-MEMUsage/master/META6.json
+https://raw.githubusercontent.com/ramiroencinas/Win32-DrivesAndTypes/master/META6.json
+https://raw.githubusercontent.com/ramiroencinas/System-Stats-NETUsage/master/META6.json
 https://raw.githubusercontent.com/raydiak/Git-PurePerl/master/META6.json
 https://raw.githubusercontent.com/raydiak/Image-PNG-Portable/master/META6.json
 https://raw.githubusercontent.com/raydiak/Inline-Lua/master/META6.json
@@ -906,6 +910,3 @@ https://raw.githubusercontent.com/zostay/P6W/master/META6.json
 https://raw.githubusercontent.com/zostay/p6-CompUnit-DynamicLib/master/META6.json
 https://raw.githubusercontent.com/zostay/p6-Getopt-ForClass/master/META6.json
 https://raw.githubusercontent.com/zostay/p6-Path-Router/master/META6.json
-https://raw.githubusercontent.com/ramiroencinas/System-Stats-CPUsage/master/META6.json
-https://raw.githubusercontent.com/ramiroencinas/System-Stats-MEMUsage/master/META6.json
-https://raw.githubusercontent.com/ramiroencinas/Win32-DrivesAndTypes/master/META6.json
