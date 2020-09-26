@@ -746,7 +746,7 @@ https://raw.githubusercontent.com/supernovus/perl6-http-easy/master/META6.json
 https://raw.githubusercontent.com/supernovus/perl6-http-status/master/META6.json
 https://raw.githubusercontent.com/supernovus/perl6-method-modifiers/master/META.info
 https://raw.githubusercontent.com/supernovus/perl6-mime-types/master/META.info
-https://raw.githubusercontent.com/supernovus/perl6-netstring/master/META.info
+https://raw.githubusercontent.com/raku-community-modules/raku-netstring/master/META6.json
 https://raw.githubusercontent.com/supernovus/perl6-psgi/master/META6.json
 https://raw.githubusercontent.com/supernovus/perl6-text-table-list/master/META6.json
 https://raw.githubusercontent.com/supernovus/perl6-timezone/master/META6.json
