@@ -63,11 +63,7 @@ for @urls -> $url {
       $source-dir = $*TMPDIR ~ "/" ~ $_;
       my $git = run "git", "clone", $source-url, $source-dir;
       if $git.exitcode ne 0 {
-<<<<<<< HEAD:.travis/testpackagemeta.pl
         fail "Couldn't clone repo $sourceurl to $sourcedir" ;
-=======
-        fail "Couldn't clone repo " ~ $source-url;
->>>>>>> 52444e3e7e0e638339694af62c43dea669d5c763:.travis/testpackagemeta.p6
         return;
       }
     }, "Downloading $url";
