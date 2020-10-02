@@ -58,6 +58,11 @@ for @urls -> $url {
           return;
       }
 
+      if ! $meta<name> {
+          fail "no name defined in META file";
+          return;
+      }
+      
       $_ = $meta<name>;
       s:g/\:\:/__/;
       $source-dir = $*TMPDIR ~ "/" ~ $_;
