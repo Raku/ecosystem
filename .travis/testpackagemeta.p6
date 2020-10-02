@@ -54,21 +54,21 @@ for @urls -> $url {
       my $source-url = $meta<source-url> // $meta<support><source>;
 
       if ! $source-url {
-          fail "no source-url defined in META file";
+          fail "No source-url defined in META file";
           return;
       }
 
       if ! $meta<name> {
-          fail "no name defined in META file";
+          fail "No name defined in META file";
           return;
       }
-      
+
       $_ = $meta<name>;
       s:g/\:\:/__/;
       $source-dir = $*TMPDIR ~ "/" ~ $_;
       my $git = run "git", "clone", $source-url, $source-dir;
       if $git.exitcode ne 0 {
-        fail "Couldn't clone repo $sourceurl to $sourcedir" ;
+        fail "Couldn't clone repo $source-url to $source-dir" ;
         return;
       }
     }, "Downloading $url";
