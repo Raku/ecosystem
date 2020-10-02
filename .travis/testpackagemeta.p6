@@ -1,3 +1,5 @@
+#!/usr/bin/env raku
+
 use v6;
 use LWP::Simple;
 use JSON::Fast;
@@ -21,8 +23,8 @@ if $metadiff ~~ /^\s*$/ {
   exit;
 }
 
-# Skip first 5 lines of `gif diff` header
-my @urls = $metadiff.lines[5..*].grep(/^\+/)».substr(1) or do {
+# Skip first 5 lines of `gif diff` header, grep off empty lines
+my @urls = $metadiff.lines[5..*].grep(/^\+/)».substr(1).grep(*.trim.chars != 0) or do {
     say "No packages have been added";
     exit;
 };
@@ -40,7 +42,7 @@ my @failed = ();
 
 for @urls -> $url {
   my $subres = subtest {
-    my $sourcedir;
+    my $source-dir;
     my $res = lives-ok {
       my $resp = $lwp.get($url);
       if ! defined $resp {
@@ -49,40 +51,44 @@ for @urls -> $url {
       }
 
       my $meta = from-json($resp);
+      my $source-url = $meta<source-url> // $meta<support><source>;
 
-      if ! $meta<source-url> {
+      if ! $source-url {
           fail "no source-url defined in META file";
           return;
       }
 
       $_ = $meta<name>;
       s:g/\:\:/__/;
-      $sourcedir = $*TMPDIR ~ "/" ~ $_;
-      my $sourceurl = $meta<source-url>;
-      my $git = run "git", "clone", $sourceurl, $sourcedir;
+      $source-dir = $*TMPDIR ~ "/" ~ $_;
+      my $git = run "git", "clone", $source-url, $source-dir;
       if $git.exitcode ne 0 {
+<<<<<<< HEAD:.travis/testpackagemeta.pl
         fail "Couldn't clone repo $sourceurl to $sourcedir" ;
+=======
+        fail "Couldn't clone repo " ~ $source-url;
+>>>>>>> 52444e3e7e0e638339694af62c43dea669d5c763:.travis/testpackagemeta.p6
         return;
       }
     }, "Downloading $url";
 
     if $res {
-        chdir($sourcedir);
+        chdir($source-dir);
 
-        my $*DIST-DIR = $sourcedir.IO;
+        my $*DIST-DIR = $source-dir.IO;
         my $*TEST-DIR //= Any;
         my $*META-FILE //= Any;
-        meta-ok();
-        if ( "Build.pm".IO.e or "Build.pm6".IO.e ) {
+	if ( "Build.pm".IO.e or "Build.pm6".IO.e ) {
             my $build = run "zef", "build", ".";
             ok $build.exitcode eq 0, "Build done";
         }
+        meta-ok();
         my $zef = run "zef", "install", "--depsonly", "--/build", ".";
         ok $zef.exitcode eq 0, "Able to install deps";
         $zef = run "zef", "test", ".";
         ok $zef.exitcode eq 0, "Package tests pass";
 
-        rm-all($sourcedir.IO);
+        rm-all($source-dir.IO);
         chdir($oldpwd);
     }
   }, "Checking correctness of $url";
