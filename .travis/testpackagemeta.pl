@@ -61,7 +61,7 @@ for @urls -> $url {
       my $sourceurl = $meta<source-url>;
       my $git = run "git", "clone", $sourceurl, $sourcedir;
       if $git.exitcode ne 0 {
-        fail "Couldn't clone repo " ~ $sourceurl;
+        fail "Couldn't clone repo $sourceurl to $sourcedir" ;
         return;
       }
     }, "Downloading $url";
