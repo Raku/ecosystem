@@ -638,6 +638,8 @@ https://raw.githubusercontent.com/raku-community-modules/raku-GD/master/META6.js
 https://raw.githubusercontent.com/raku-community-modules/raku-datetime-math/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/raku-grammar-common/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/raku-linenoise/master/META6.json
+https://raw.githubusercontent.com/raku-community-modules/raku-netstring/master/META6.json
+https://raw.githubusercontent.com/raku-community-modules/raku-psgi/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/testml-pm6/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/uri/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/yaml-pm6/master/META6.json
@@ -754,8 +756,6 @@ https://raw.githubusercontent.com/supernovus/perl6-http-easy/master/META6.json
 https://raw.githubusercontent.com/supernovus/perl6-http-status/master/META6.json
 https://raw.githubusercontent.com/supernovus/perl6-method-modifiers/master/META.info
 https://raw.githubusercontent.com/supernovus/perl6-mime-types/master/META.info
-https://raw.githubusercontent.com/raku-community-modules/raku-netstring/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/raku-psgi/master/META6.json
 https://raw.githubusercontent.com/supernovus/perl6-text-table-list/master/META6.json
 https://raw.githubusercontent.com/supernovus/perl6-timezone/master/META6.json
 https://raw.githubusercontent.com/supernovus/perl6-web-app-ballet/master/META.info
