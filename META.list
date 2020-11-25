@@ -56,7 +56,7 @@ https://raw.githubusercontent.com/Altai-man/perl6-Test-NoTabs/master/META6.json
 https://raw.githubusercontent.com/Altai-man/perl6-text-ldif/master/META6.json
 https://raw.githubusercontent.com/Altai-man/perl6-Text-Tabs/master/META6.json
 https://raw.githubusercontent.com/Altai-man/Slang-Kazu/master/META6.json
-https://raw.githubusercontent.com/andydude/p6-c-parser/master/META.info
+https://raw.githubusercontent.com/andydude/p6-c-parser/master/META6.json
 https://raw.githubusercontent.com/antoniogamiz/Math-ConvergenceMethods/master/META6.json
 https://raw.githubusercontent.com/antoniogamiz/Perl6-TypeGraph/master/META6.json
 https://raw.githubusercontent.com/antoniogamiz/Pod-Utilities/master/META6.json
@@ -345,6 +345,7 @@ https://raw.githubusercontent.com/JJ/raku-service-portmapping/master/META6.json
 https://raw.githubusercontent.com/JJ/raku-sys-chown/master/META6.json
 https://raw.githubusercontent.com/JJ/raku-test-script/master/META6.json
 https://raw.githubusercontent.com/JJ/raku-toi/master/META6.json
+https://raw.githubusercontent.com/jjatria/perl6-Pod-Parser/master/META6.json
 https://raw.githubusercontent.com/jkramer/p6-Text-Wrap/master/META6.json
 https://raw.githubusercontent.com/jnthn/grammar-debugger/master/META6.json
 https://raw.githubusercontent.com/jnthn/oo-actors/master/META6.json
@@ -622,7 +623,7 @@ https://raw.githubusercontent.com/raku-community-modules/Twitter/master/META6.js
 https://raw.githubusercontent.com/raku-community-modules/URI/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/URI-Encode/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Web-App/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/Web-App-Ballet/master/META.info
+https://raw.githubusercontent.com/raku-community-modules/Web-App-Ballet/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Web-App-MVC/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Web-Template/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/WhereList/master/META6.json
@@ -764,7 +765,6 @@ https://raw.githubusercontent.com/svekenfur/Swedish-TextDates_sv/master/META6.js
 https://raw.githubusercontent.com/sylvarant/Avro/master/META6.json
 https://raw.githubusercontent.com/sylvarant/Compress-Brotli/master/META6.json
 https://raw.githubusercontent.com/szabgab/Perl6-Maven/main/META6.json
-https://raw.githubusercontent.com/szabgab/perl6-Pod-Parser/master/META.info
 https://raw.githubusercontent.com/taboege/p6-SAT/master/META6.json
 https://raw.githubusercontent.com/taboege/p6-SAT-Solver-MiniSAT/master/META6.json
 https://raw.githubusercontent.com/tadzik/App-redpanda/master/META6.json
@@ -922,7 +922,7 @@ https://raw.githubusercontent.com/zag/plosurin/master/META6.json
 https://raw.githubusercontent.com/zengargoyle/p6-Algorithm-Trie-libdatrie/master/META6.json
 https://raw.githubusercontent.com/zengargoyle/p6-Search-Dict/master/META6.json
 https://raw.githubusercontent.com/zengargoyle/Text-Fortune/master/META6.json
-https://raw.githubusercontent.com/zhouzhen1/perl6-Inline-Scheme-Gambit/master/META.info
+https://raw.githubusercontent.com/zhouzhen1/perl6-Inline-Scheme-Gambit/master/META6.json
 https://raw.githubusercontent.com/zostay/DateTime-DST/master/META6.json
 https://raw.githubusercontent.com/zostay/HTTP-Request-Supply/master/META6.json
 https://raw.githubusercontent.com/zostay/p6-CompUnit-DynamicLib/master/META6.json
