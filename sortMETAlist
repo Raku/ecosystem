@@ -1,0 +1,3 @@
+"META.list".IO.spurt: "META.list".IO.slurp.lines.sort( {
+    .match( / "//" <[\w\.]>* "/" <( .* / ).lc
+} ).join("\n") ~ "\n"
