@@ -79,8 +79,6 @@ https://raw.githubusercontent.com/atweiden/mktxn/master/META6.json
 https://raw.githubusercontent.com/atweiden/sustenance/master/META6.json
 https://raw.githubusercontent.com/atweiden/txn-parser/master/META6.json
 https://raw.githubusercontent.com/atweiden/txn-remarshal/master/META6.json
-https://raw.githubusercontent.com/autarch/perl6-File-LibMagic/master/META6.json
-https://raw.githubusercontent.com/autarch/perl6-Pod-TreeWalker/master/META6.json
 https://raw.githubusercontent.com/avuserow/perl6-audio-taglib-simple/master/META6.json
 https://raw.githubusercontent.com/avuserow/perl6-binary-structured/master/META6.json
 https://raw.githubusercontent.com/avuserow/perl6-compress-snappy/master/META6.json
@@ -544,6 +542,7 @@ https://raw.githubusercontent.com/raku-community-modules/DateTime-Utils/master/M
 https://raw.githubusercontent.com/raku-community-modules/DB-Model-Easy/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/DBIish/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/FastCGI/master/META6.json
+https://raw.githubusercontent.com/raku-community-modules/File-LibMagic/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Form/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Format-Lisp/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Grammar-Profiler-Simple/master/META6.json
@@ -606,6 +605,7 @@ https://raw.githubusercontent.com/raku-community-modules/perl6-WhereList/master/
 https://raw.githubusercontent.com/raku-community-modules/perl6-WWW-P6lert/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/perl6-WWW-vlc-Remote/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/perl6-WWW/master/META6.json
+https://raw.githubusercontent.com/raku-community-modules/Pod-TreeWalker/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/PSpec/master/META.info
 https://raw.githubusercontent.com/raku-community-modules/q/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Questhub/master/META6.json
