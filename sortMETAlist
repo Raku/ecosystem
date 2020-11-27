@@ -1,3 +1,8 @@
+# A helper script to be executed after any changes to META.list
+# have been made.  It will sort the contents of the file on the
+# name of the contributor / owner of the repository (lower case),
+# and write the updated META.list back.
+
 "META.list".IO.spurt: "META.list".IO.slurp.lines(:!chomp).sort(
   *.match( / "//" <[\w\.]>* "/" <( .* / ).lc
 ).join
