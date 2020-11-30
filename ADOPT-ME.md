@@ -111,3 +111,5 @@ These are the modules currently awaiting your support:
 - [YAML](https://github.com/raku-community-modules/YAML)
 
 Thank you for your attention.
+
+This list will be adapted when a module gets adopted, or when another module needs adoption.
