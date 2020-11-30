@@ -1,0 +1,31 @@
+# A helper script to be executed after any changes to META.list
+# have been made.  It will filter out the raku-community-modules
+# and update the ADOPT-ME.md file.
+
+my @modules = "META.list".IO.slurp
+  .lines
+  .grep(*.contains('/raku-community-modules/'))
+  .map: {
+    my $path   = .match( / "//" <[\w\.]>* "/" .*? "/" <( .*? )> "/" / ).Str;
+    my $module = $path.subst("-","::",:g);
+    "- [$module](https://github.com/raku-community-modules/$path)\n";
+}
+
+my @lines;
+my $seen-list;
+for "ADOPT-ME.md".IO.slurp.lines(:!chomp) {
+    if .starts-with("- ") {
+        $seen-list = True;
+        next;
+    }
+    elsif $seen-list {
+        @lines.append(@modules);
+        @lines.append($_);
+        $seen-list = False
+    }
+    else {
+        @lines.push($_);
+    }
+}
+
+"ADOPT-ME.md".IO.spurt(@lines.join);
