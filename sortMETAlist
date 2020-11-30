@@ -4,5 +4,5 @@
 # and write the updated META.list back.
 
 "META.list".IO.spurt: "META.list".IO.slurp.lines(:!chomp).sort(
-  *.match( / "//" <[\w\.]>* "/" <( .* / ).lc
+  *.match( / "//" <[\w\.]>* "/" <( .*? "/" .*? )> "/" / ).lc
 ).join
