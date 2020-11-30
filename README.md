@@ -4,7 +4,7 @@ Too official? Ok, I'll go again.
 
 In this repository you'll find metadata for projects and modules. It's nice
 to have that in a central place, apart from any specific module installer
-(*cough* proto neutro pls *cough*), for at least these three reasons:
+for at least these three reasons:
 
 * The set of people who want access to a module installer and the set of
   people who want access to module metadata are two different sets.
@@ -87,6 +87,6 @@ do not inadvertently produce unintended results.
 By submitting your module to the ecosystem, you agree that all entities involved in the operation of the ecosystem,
 including its testing, mirroring, or archiving, as well as any package installers and auxiliary tools,
 are allowed to copy, distribute, and modify your META file without limitation for the
-purposes of making your module available to the Perl 6 community&mdash;regardless of what license you choose for the
+purposes of making your module available to the Raku community&mdash;regardless of what license you choose for the
 rest of your distribution. You also agree not to hold these entities liable for any damage or inconvenience caused
 by the operation of the ecosystem or the failure to do so.
