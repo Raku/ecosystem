@@ -1,6 +1,4 @@
-We, the module installer developers, hereby decree...
-
-Too official? Ok, I'll go again.
+# Overview
 
 In this repository you'll find metadata for projects and modules. It's nice
 to have that in a central place, apart from any specific module installer
@@ -16,39 +14,37 @@ for at least these three reasons:
   installer, or even *an* installer. It might be used for other things,
   such as rendering the list at http://modules.raku.org
 
-To add a new module to the ecosystem, add the URL of the module's raw META.info
-file to the META.list file here in the ecosystem. Since the updates to
+# Adding a module
+
+To add a new module to the ecosystem, add the URL of the module's raw `META6.json`
+file to the `META.list` file here in the ecosystem. Since the updates to
 the ecosystem are announced in the #raku IRC channel, it is helpful
 if you include the HTTP URL to your repo in your commit message so others
 could easily view your new module, e.g.:
 
     git commit -m 'Add FooBar to ecosystem' -m 'See https://github.com/foobar/FooBar'
 
-So there you go. It probably bears repeating that all of this is quite
-temporary; something to sustain us until we can hook up with CPAN goodness
-in some more long-term way.
-
-Have a nice day.
-
 ### Common Errors
 
-Some of these issues commonly occur. Be sure to check your distro:
+Be sure to check your distro to avoid these common issues:
 
-#### META File
+#### META6.json
 
-* The correct META file's name is `META6.json`
+* The correct filename is `META6.json`.
 * Check that your META file contains valid JSON. To do so, you can use an online service,
 such as [JSON Lint](http://jsonlint.com/).
-* Ensure you have a [`provides` section](http://design.raku.org/S22.html#provides)
+* Ensure you have a `provides` section
 that lists all the modules in your distribution, with correct filenames,
 otherwise your module will not be installable.
 
+For more information on the `META6.json` specification, see https://docs.raku.org/language/modules
+
 There is a module [Test::META](https://github.com/jonathanstowe/Test-META) that can
-help you detect some, but not all, of the common problems people have with the META files.
+help you detect some, but not all, of the common problems people have with `META6.json` files.
 
 # Generated File
 
-After the META.list file is processed, the list of modules is available at 
+After the META.list file is processed, the list of modules is available at
 [http://ecosystem-api.p6c.org/projects.json](http://ecosystem-api.p6c.org/projects.json) and any
 errors encountered during processing at
 [http://ecosystem-api.p6c.org/errors.json](http://ecosystem-api.p6c.org/errors.json). If your
@@ -72,7 +68,7 @@ take overs of modules that *aren't* abandoned, we try to follow this process bef
   the module entirely. The email address is usually visible on user's GitHub profile.
 * Try to contact the user by other means, as their GitHub notifications/emails may be disabled. Perhaps,
   there's a Twitter account with similar username.
-* If attempts to contact the author fail, after 4-weeks the module can be taken over.
+* If attempts to contact the author fail, after four weeks the module can be taken over.
 
 In short, try to contact the user by more ways than simply opening a PR in their repo and give them
 enough time to have a chance to respond.
