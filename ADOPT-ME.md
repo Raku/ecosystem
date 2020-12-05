@@ -12,7 +12,6 @@ These are the modules currently awaiting your support:
 - [AI::FANN](https://github.com/raku-community-modules/AI-FANN)
 - [ANTLR4::Grammar](https://github.com/raku-community-modules/ANTLR4-Grammar)
 - [App::Nopaste](https://github.com/raku-community-modules/App-Nopaste)
-- [Astro::Sunrise](https://github.com/raku-community-modules/Astro-Sunrise)
 - [Benchmark](https://github.com/raku-community-modules/Benchmark)
 - [Benchy](https://github.com/raku-community-modules/Benchy)
 - [Color](https://github.com/raku-community-modules/Color)
