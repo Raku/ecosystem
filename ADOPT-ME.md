@@ -35,7 +35,6 @@ These are the modules currently awaiting your support:
 - [GlotIO](https://github.com/raku-community-modules/GlotIO)
 - [Grammar::Common](https://github.com/raku-community-modules/Grammar-Common)
 - [Grammar::Profiler::Simple](https://github.com/raku-community-modules/Grammar-Profiler-Simple)
-- [GTK::Simple](https://github.com/raku-community-modules/GTK-Simple)
 - [HexDump::Tiny](https://github.com/raku-community-modules/HexDump-Tiny)
 - [HTTP::Easy](https://github.com/raku-community-modules/HTTP-Easy)
 - [HTTP::Server](https://github.com/raku-community-modules/HTTP-Server)

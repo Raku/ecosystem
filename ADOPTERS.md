@@ -5,6 +5,10 @@ When you adopt a module, you are making sure that the investment of the original
 
 The following modules have been adopted from raku-community-modules (in chronological order):
 
+GTK::Simple
+-----------
+Richard Hainsworth (https://github.com/finanalyst/GTK-Simple), originally by Jonathan Worthington.
+
 Astro::Sunrise
 --------------
 Tom Browder (https://github.com/tbrowder/Astro-Sunrise), originally by Jonathan Scott Duff.
