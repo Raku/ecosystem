@@ -239,7 +239,6 @@ https://raw.githubusercontent.com/FCO/SupplyTimeWindow/master/META6.json
 https://raw.githubusercontent.com/FCO/Test-Fuzz/master/META6.json
 https://raw.githubusercontent.com/FCO/test-time/master/META6.json
 https://raw.githubusercontent.com/FCO/Trie/master/META6.json
-https://raw.githubusercontent.com/finanalyst/GTK-Simple/master/META6.json
 https://raw.githubusercontent.com/finanalyst/p6-Algorithm-Tarjan/master/META6.json
 https://raw.githubusercontent.com/finanalyst/p6-inform/master/META6.json
 https://raw.githubusercontent.com/finanalyst/p6-task-popular/master/META6.json
@@ -410,6 +409,7 @@ https://raw.githubusercontent.com/leto/perl6-Algorithm-Soundex/master/META6.json
 https://raw.githubusercontent.com/littlebenlittle/meta6-query/dev/META6.json
 https://raw.githubusercontent.com/littlebenlittle/raku-filesystem-helpers/dev/META6.json
 https://raw.githubusercontent.com/littlebenlittle/stache/dev/META6.json
+https://raw.githubusercontent.com/lizmat/GTK-Simple/master/META6.json
 https://raw.githubusercontent.com/LLFourn/p6-AttrX-InitArg/master/META6.json
 https://raw.githubusercontent.com/LLFourn/p6-CompUnit-Util/master/META6.json
 https://raw.githubusercontent.com/LLFourn/p6-DispatchMap/master/META6.json
