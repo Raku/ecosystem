@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/alabamenhu/IntlLanguageTaggish/main/META6.json
 https://raw.githubusercontent.com/alabamenhu/IntlLanguageTagSimple/main/META6.json
 https://raw.githubusercontent.com/alabamenhu/IntlNumberPlural/main/META6.json
 https://raw.githubusercontent.com/alabamenhu/IntlPromptYesNo/main/META6.json
-https://raw.githubusercontent.com/alabamenhu/IntlTokenNumber/master/META6.json
+https://raw.githubusercontent.com/alabamenhu/IntlTokenNumber/main/META6.json
 https://raw.githubusercontent.com/alabamenhu/RegexFuzzyToken/master/META6.json
 https://raw.githubusercontent.com/alabamenhu/TestInline/master/META6.json
 https://raw.githubusercontent.com/alabamenhu/UserLanguage/master/META6.json
@@ -231,13 +231,13 @@ https://raw.githubusercontent.com/FCO/SupplyTimeWindow/master/META6.json
 https://raw.githubusercontent.com/FCO/Test-Fuzz/master/META6.json
 https://raw.githubusercontent.com/FCO/test-time/master/META6.json
 https://raw.githubusercontent.com/FCO/Trie/master/META6.json
-https://raw.githubusercontent.com/finanalyst/collection/master/META6.json
+https://raw.githubusercontent.com/finanalyst/collection/main/META6.json
 https://raw.githubusercontent.com/finanalyst/collection-raku-documentation/master/META6.json
 https://raw.githubusercontent.com/finanalyst/p6-Algorithm-Tarjan/master/META6.json
 https://raw.githubusercontent.com/finanalyst/p6-inform/master/META6.json
 https://raw.githubusercontent.com/finanalyst/p6-task-popular/master/META6.json
 https://raw.githubusercontent.com/finanalyst/raku-config/master/META6.json
-https://raw.githubusercontent.com/finanalyst/raku-pod-extraction/master/META6.json
+https://raw.githubusercontent.com/finanalyst/raku-pod-extraction/main/META6.json
 https://raw.githubusercontent.com/finanalyst/raku-pod-from-cache/master/META6.json
 https://raw.githubusercontent.com/finanalyst/raku-pod-render/master/META6.json
 https://raw.githubusercontent.com/fjwhittle/p6-Path-Map/master/META6.json
@@ -416,7 +416,7 @@ https://raw.githubusercontent.com/MadcapJake/p6-MyHTML/master/META6.json
 https://raw.githubusercontent.com/MadcapJake/p6dx/master/META.info
 https://raw.githubusercontent.com/MadcapJake/rabble/master/META6.json
 https://raw.githubusercontent.com/MadcapJake/Test-Lab/master/META6.json
-https://raw.githubusercontent.com/manchicken/perl6-Fcntl/master/META6.json
+https://raw.githubusercontent.com/manchicken/perl6-Fcntl/main/META6.json
 https://raw.githubusercontent.com/manwar/p6-Calculator/master/META6.json
 https://raw.githubusercontent.com/marcoonroad/Coro-Simple/master/META6.json
 https://raw.githubusercontent.com/marcoonroad/perl6-cuid/master/META6.json
