@@ -1,4 +1,3 @@
-https://raw.githubusercontent.com/khalidelboray/Pastebin-Pasteee/main/META6.json
 https://raw.githubusercontent.com/0racle/p6-Exportable/master/META6.json
 https://raw.githubusercontent.com/0racle/p6-Net-Netmask/master/META6.json
 https://raw.githubusercontent.com/0racle/p6-wig/master/META6.json
@@ -56,7 +55,6 @@ https://raw.githubusercontent.com/Altai-man/p6-WWW-DuckDuckGo/master/META6.json
 https://raw.githubusercontent.com/Altai-man/perl6-text-ldif/master/META6.json
 https://raw.githubusercontent.com/andydude/p6-c-parser/master/META6.json
 https://raw.githubusercontent.com/antoniogamiz/Math-ConvergenceMethods/master/META6.json
-https://raw.githubusercontent.com/JJ/Raku-Doc-TypeGraph/master/META6.json
 https://raw.githubusercontent.com/antoniogamiz/Pod-Utilities/master/META6.json
 https://raw.githubusercontent.com/araraloren/Getopt-Kinoko/master/META6.json
 https://raw.githubusercontent.com/araraloren/Net-FTP/master/META6.json
@@ -333,6 +331,7 @@ https://raw.githubusercontent.com/JJ/raku-array-shaped-console/master/META6.json
 https://raw.githubusercontent.com/JJ/raku-cmark/master/META6.json
 https://raw.githubusercontent.com/JJ/Raku-Digest-HMAC/master/META6.json
 https://raw.githubusercontent.com/JJ/raku-dist-meta/master/META6.json
+https://raw.githubusercontent.com/JJ/Raku-Doc-TypeGraph/master/META6.json
 https://raw.githubusercontent.com/JJ/raku-grammar-message/master/META6.json
 https://raw.githubusercontent.com/JJ/raku-io-capture-simple/master/META6.json
 https://raw.githubusercontent.com/JJ/raku-kazmath/master/META6.json
@@ -340,6 +339,7 @@ https://raw.githubusercontent.com/JJ/raku-service-portmapping/master/META6.json
 https://raw.githubusercontent.com/JJ/raku-sys-chown/master/META6.json
 https://raw.githubusercontent.com/JJ/raku-test-script/master/META6.json
 https://raw.githubusercontent.com/JJ/raku-toi/master/META6.json
+https://raw.githubusercontent.com/jjatria/perl6-Pod-Parser/master/META6.json
 https://raw.githubusercontent.com/jkramer/p6-Text-Wrap/master/META6.json
 https://raw.githubusercontent.com/jnthn/grammar-debugger/master/META6.json
 https://raw.githubusercontent.com/jnthn/oo-actors/master/META6.json
@@ -376,6 +376,7 @@ https://raw.githubusercontent.com/kalkin/Net-XMPP/master/META6.json
 https://raw.githubusercontent.com/kalkin/perl6-hashids/master/META6.json
 https://raw.githubusercontent.com/kalkin/Pod-To-Latex/master/META6.json
 https://raw.githubusercontent.com/kawaii/raku-acme-owo/master/META6.json
+https://raw.githubusercontent.com/khalidelboray/Pastebin-Pasteee/main/META6.json
 https://raw.githubusercontent.com/khalidelboray/raku-cmark/master/META6.json
 https://raw.githubusercontent.com/khalidelboray/raku-text-slugify/master/META6.json
 https://raw.githubusercontent.com/khalidelboray/zap-api-raku/master/META6.json
@@ -699,9 +700,9 @@ https://raw.githubusercontent.com/shantanubhadoria/p6-CompUnit-Search/master/MET
 https://raw.githubusercontent.com/shantanubhadoria/p6-Printer-ESCPOS/master/META6.json
 https://raw.githubusercontent.com/shinobi/Data-StaticTable/master/META6.json
 https://raw.githubusercontent.com/shintakezou/Xmav-JSON/master/META6.json
-https://raw.githubusercontent.com/shuppet/raku-api-perspective/master/META6.json
 https://raw.githubusercontent.com/shuppet/p6-net-RCON/master/META6.json
 https://raw.githubusercontent.com/shuppet/raku-api-discord/master/META6.json
+https://raw.githubusercontent.com/shuppet/raku-api-perspective/master/META6.json
 https://raw.githubusercontent.com/shuppet/raku-command-despatch/master/META6.json
 https://raw.githubusercontent.com/sirrobert/Class-Utils/master/META6.json
 https://raw.githubusercontent.com/sirrobert/Masquerade/master/META6.json
@@ -748,7 +749,6 @@ https://raw.githubusercontent.com/svekenfur/Swedish-TextDates_sv/master/META6.js
 https://raw.githubusercontent.com/sylvarant/Avro/master/META6.json
 https://raw.githubusercontent.com/sylvarant/Compress-Brotli/master/META6.json
 https://raw.githubusercontent.com/szabgab/Perl6-Maven/main/META6.json
-https://raw.githubusercontent.com/jjatria/perl6-Pod-Parser/master/META6.json
 https://raw.githubusercontent.com/taboege/p6-SAT/master/META6.json
 https://raw.githubusercontent.com/taboege/p6-SAT-Solver-MiniSAT/master/META6.json
 https://raw.githubusercontent.com/tadzik/App-redpanda/master/META6.json
