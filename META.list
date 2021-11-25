@@ -337,6 +337,7 @@ https://raw.githubusercontent.com/JJ/raku-service-portmapping/master/META6.json
 https://raw.githubusercontent.com/JJ/raku-sys-chown/master/META6.json
 https://raw.githubusercontent.com/JJ/raku-test-script/master/META6.json
 https://raw.githubusercontent.com/JJ/raku-toi/master/META6.json
+https://raw.githubusercontent.com/jjatria/AI-FANN/master/META6.json
 https://raw.githubusercontent.com/jjatria/perl6-Pod-Parser/master/META6.json
 https://raw.githubusercontent.com/jkramer/p6-Text-Wrap/master/META6.json
 https://raw.githubusercontent.com/jnthn/grammar-debugger/master/META6.json
@@ -519,7 +520,6 @@ https://raw.githubusercontent.com/ppentchev/Shell-Capture/master/META6.json
 https://raw.githubusercontent.com/prodotiscus/perl6-Dictionary-Create/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Acme-Advent-Highlighter/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Acme-Anguish/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/AI-FANN/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/ANTLR4-Grammar/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/App-Nopaste/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Benchmark/master/META6.json
