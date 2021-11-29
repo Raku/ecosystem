@@ -12,3 +12,15 @@ Richard Hainsworth (https://github.com/finanalyst/GTK-Simple), originally by Jon
 Astro::Sunrise
 --------------
 Tom Browder (https://github.com/tbrowder/Astro-Sunrise), originally by Jonathan Scott Duff.
+
+IRC::Client
+-----------
+Elizabeth Mattijsen (https://github.com/lizmat/IRC-Client), originally by Zoffix Znet.
+
+AI::FANN
+--------
+José Joaquín Atria (https://github.com/jjatria/AI-FANN), originally by Jonathan Scott Duff.
+
+HTTP::Status
+------------
+Elizabeth Mattijsen (https://github.com/lizmat/HTTP-Status), originally by Timothy Totten.

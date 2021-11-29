@@ -9,7 +9,6 @@ These are the modules currently awaiting your support:
  
 - [Acme::Advent::Highlighter](https://github.com/raku-community-modules/Acme-Advent-Highlighter)
 - [Acme::Anguish](https://github.com/raku-community-modules/Acme-Anguish)
-- [AI::FANN](https://github.com/raku-community-modules/AI-FANN)
 - [ANTLR4::Grammar](https://github.com/raku-community-modules/ANTLR4-Grammar)
 - [App::Nopaste](https://github.com/raku-community-modules/App-Nopaste)
 - [Benchmark](https://github.com/raku-community-modules/Benchmark)
@@ -39,7 +38,6 @@ These are the modules currently awaiting your support:
 - [HTTP::Easy](https://github.com/raku-community-modules/HTTP-Easy)
 - [HTTP::Server](https://github.com/raku-community-modules/HTTP-Server)
 - [HTTP::Server::Async](https://github.com/raku-community-modules/HTTP-Server-Async)
-- [HTTP::Status](https://github.com/raku-community-modules/HTTP-Status)
 - [Inline::Brainfuck](https://github.com/raku-community-modules/Inline-Brainfuck)
 - [Inline::Scheme::Guile](https://github.com/raku-community-modules/Inline-Scheme-Guile)
 - [IO::CatHandle::AutoLines](https://github.com/raku-community-modules/IO-CatHandle-AutoLines)
@@ -47,7 +45,6 @@ These are the modules currently awaiting your support:
 - [IO::MiddleMan](https://github.com/raku-community-modules/IO-MiddleMan)
 - [IO::Notification::Recursive](https://github.com/raku-community-modules/IO-Notification-Recursive)
 - [IO::Path::ChildSecure](https://github.com/raku-community-modules/IO-Path-ChildSecure)
-- [IRC::Client](https://github.com/raku-community-modules/IRC-Client)
 - [IRC::Client::Plugin::Factoid](https://github.com/raku-community-modules/IRC-Client-Plugin-Factoid)
 - [IRC::Utils](https://github.com/raku-community-modules/IRC-Utils)
 - [Linenoise](https://github.com/raku-community-modules/Linenoise)
