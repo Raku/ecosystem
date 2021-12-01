@@ -23,7 +23,6 @@ These are the modules currently awaiting your support:
 - [DateTime::TimeZone](https://github.com/raku-community-modules/DateTime-TimeZone)
 - [DateTime::Utils](https://github.com/raku-community-modules/DateTime-Utils)
 - [DB::Model::Easy](https://github.com/raku-community-modules/DB-Model-Easy)
-- [DBIish](https://github.com/raku-community-modules/DBIish)
 - [Die](https://github.com/raku-community-modules/Die)
 - [FastCGI](https://github.com/raku-community-modules/FastCGI)
 - [File::LibMagic](https://github.com/raku-community-modules/File-LibMagic)
