@@ -560,7 +560,7 @@ https://raw.githubusercontent.com/raku-community-modules/Locale-US/master/META6.
 https://raw.githubusercontent.com/raku-community-modules/LWP-Simple/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Marpa/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Math-Trig/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/MIME-Base64/master/META6.json
+https://raw.githubusercontent.com/raku-community-modules/MIME-Base64/1d6c1c6613bcc61315a68209e5698facd34df0d5/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Mime-Types/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Netstring/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Number-Denominate/master/META6.json
