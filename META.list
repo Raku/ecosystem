@@ -546,7 +546,7 @@ https://raw.githubusercontent.com/raku-community-modules/Inline-Scheme-Guile/mas
 https://raw.githubusercontent.com/raku-community-modules/IO-CatHandle-AutoLines/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/IO-Dir/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/IO-MiddleMan/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/IO-Notification-Recursive/master/META6.json
+https://raw.githubusercontent.com/raku-community-modules/IO-Notification-Recursive/29a736f322cc273be3b5c910b1251749ceb8ba5f/META6.json
 https://raw.githubusercontent.com/raku-community-modules/IO-Path-ChildSecure/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/IRC-Client-Plugin-Factoid/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/IRC-Utils/master/META6.json
