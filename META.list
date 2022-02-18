@@ -585,7 +585,7 @@ https://raw.githubusercontent.com/raku-community-modules/Test-Output/master/META
 https://raw.githubusercontent.com/raku-community-modules/Test-When/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/TestML/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Testo/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/Time-Duration-Parser/master/META6.json
+https://raw.githubusercontent.com/raku-community-modules/Time-Duration-Parser/b15c6f310c0d8f9bc174c672384ca340b1d2ad5a/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Toaster/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Trait-IO/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Twitter/master/META6.json
