@@ -546,7 +546,6 @@ https://raw.githubusercontent.com/raku-community-modules/Inline-Scheme-Guile/mas
 https://raw.githubusercontent.com/raku-community-modules/IO-CatHandle-AutoLines/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/IO-Dir/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/IO-MiddleMan/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/IO-Notification-Recursive/29a736f322cc273be3b5c910b1251749ceb8ba5f/META6.json
 https://raw.githubusercontent.com/raku-community-modules/IO-Path-ChildSecure/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/IRC-Client-Plugin-Factoid/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/IRC-Utils/master/META6.json
@@ -556,7 +555,6 @@ https://raw.githubusercontent.com/raku-community-modules/lingua-en-stem-porter/m
 https://raw.githubusercontent.com/raku-community-modules/LN/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Locale-US/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/LWP-Simple/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/Marpa/58cb4ce99a4883899111a43c82c977cff0a537dc/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Math-Trig/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Mime-Types/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Netstring/master/META6.json
@@ -600,7 +598,6 @@ https://raw.githubusercontent.com/raku-community-modules/WWW-P6lert/master/META6
 https://raw.githubusercontent.com/raku-community-modules/WWW-vlc-Remote/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/XML/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/XML-Entity-HTML/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/XML-Query/02301501a20a0457d6cd8f95ef239e1b57f7cb74/META6.json
 https://raw.githubusercontent.com/raku-community-modules/YAML/master/META6.json
 https://raw.githubusercontent.com/Raku-Noise-Gang/p6-Music-Helpers/master/META6.json
 https://raw.githubusercontent.com/Raku-Noise-Gang/perl6-Audio-MIDI-Note/master/META6.json
@@ -645,7 +642,6 @@ https://raw.githubusercontent.com/retupmoca/P6-SOAP/master/META6.json
 https://raw.githubusercontent.com/retupmoca/p6-syndication/master/META6.json
 https://raw.githubusercontent.com/retupmoca/P6-UUID/master/META6.json
 https://raw.githubusercontent.com/retupmoca/P6-Web-RF/master/META6.json
-https://raw.githubusercontent.com/retupmoca/P6-XML-Canonical/8e334997c82880b59e914118a71363fe25c5ce61/META6.json
 https://raw.githubusercontent.com/retupmoca/P6-XML-Signature/master/META6.json
 https://raw.githubusercontent.com/salortiz/DBDish-ODBC/master/META6.json
 https://raw.githubusercontent.com/salortiz/JsonC/master/META6.json
