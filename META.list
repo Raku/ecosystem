@@ -528,7 +528,7 @@ https://raw.githubusercontent.com/raku-community-modules/DateTime-TimeZone/maste
 https://raw.githubusercontent.com/raku-community-modules/DateTime-Utils/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/DB-Model-Easy/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/DBIish/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/Email-Simple/master/META6.json
+https://raw.githubusercontent.com/raku-community-modules/Email-Simple/d120f0ae8a998f416cffa8d3bfc5fa52c6ac8583/META6.json
 https://raw.githubusercontent.com/raku-community-modules/FastCGI/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/File-LibMagic/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Find-Bundled/master/META6.json
