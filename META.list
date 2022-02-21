@@ -558,7 +558,7 @@ https://raw.githubusercontent.com/raku-community-modules/Locale-US/master/META6.
 https://raw.githubusercontent.com/raku-community-modules/LWP-Simple/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Mime-Types/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Net-IMAP/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/Net-SMTP/master/META6.json
+https://raw.githubusercontent.com/raku-community-modules/Net-SMTP/8c2ad0d3857ae54a3472d6f45cb28ed96d174f4a/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Netstring/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Number-Denominate/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/p6lert/master/META6.json
