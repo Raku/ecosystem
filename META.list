@@ -528,8 +528,10 @@ https://raw.githubusercontent.com/raku-community-modules/DateTime-TimeZone/maste
 https://raw.githubusercontent.com/raku-community-modules/DateTime-Utils/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/DB-Model-Easy/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/DBIish/master/META6.json
+https://raw.githubusercontent.com/raku-community-modules/Email-Simple/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/FastCGI/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/File-LibMagic/master/META6.json
+https://raw.githubusercontent.com/raku-community-modules/Find-Bundled/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Format-Lisp/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Games-TauStation-DateTime/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/GD/master/META6.json
@@ -547,6 +549,7 @@ https://raw.githubusercontent.com/raku-community-modules/IO-MiddleMan/master/MET
 https://raw.githubusercontent.com/raku-community-modules/IO-Path-ChildSecure/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/IRC-Client-Plugin-Factoid/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/IRC-Utils/master/META6.json
+https://raw.githubusercontent.com/raku-community-modules/JSON-JWT/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Linenoise/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Lingua-Conjunction/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/lingua-en-stem-porter/master/META6.json
@@ -554,6 +557,8 @@ https://raw.githubusercontent.com/raku-community-modules/LN/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Locale-US/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/LWP-Simple/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Mime-Types/master/META6.json
+https://raw.githubusercontent.com/raku-community-modules/Net-IMAP/master/META6.json
+https://raw.githubusercontent.com/raku-community-modules/Net-SMTP/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Netstring/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Number-Denominate/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/p6lert/master/META6.json
@@ -569,6 +574,7 @@ https://raw.githubusercontent.com/raku-community-modules/Raku-Parser/master/META
 https://raw.githubusercontent.com/raku-community-modules/RakudoPrereq/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Reminders/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/SCGI/master/META6.json
+https://raw.githubusercontent.com/raku-community-modules/SOAP/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Subsets-IO/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/System-Passwd/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Template6/master/META6.json
@@ -620,20 +626,14 @@ https://raw.githubusercontent.com/retupmoca/P6-Compress-Zlib/master/META6.json
 https://raw.githubusercontent.com/retupmoca/P6-Compress-Zlib-Raw/master/META6.json
 https://raw.githubusercontent.com/retupmoca/p6-Crust-Handler-SCGI/master/META6.json
 https://raw.githubusercontent.com/retupmoca/p6-Crust-Middleware-Syslog/master/META6.json
-https://raw.githubusercontent.com/retupmoca/p6-Email-Simple/master/META6.json
-https://raw.githubusercontent.com/retupmoca/P6-Find-Bundled/master/META6.json
 https://raw.githubusercontent.com/retupmoca/P6-HTTP-ParseParams/master/META6.json
 https://raw.githubusercontent.com/retupmoca/P6-iCal/master/META6.json
-https://raw.githubusercontent.com/retupmoca/P6-JSON-JWT/master/META6.json
 https://raw.githubusercontent.com/retupmoca/P6-LibraryMake/master/META6.json
 https://raw.githubusercontent.com/retupmoca/p6-MIME-QuotedPrint/master/META6.json
 https://raw.githubusercontent.com/retupmoca/P6-Net-AMQP/master/META6.json
-https://raw.githubusercontent.com/retupmoca/P6-Net-IMAP/master/META6.json
 https://raw.githubusercontent.com/retupmoca/P6-Net-POP3/master/META6.json
-https://raw.githubusercontent.com/retupmoca/P6-Net-SMTP/master/META6.json
 https://raw.githubusercontent.com/retupmoca/P6-Net-SOCKS/master/META6.json
 https://raw.githubusercontent.com/retupmoca/P6-SAML/master/META6.json
-https://raw.githubusercontent.com/retupmoca/P6-SOAP/master/META6.json
 https://raw.githubusercontent.com/retupmoca/p6-syndication/master/META6.json
 https://raw.githubusercontent.com/retupmoca/P6-UUID/master/META6.json
 https://raw.githubusercontent.com/retupmoca/P6-Web-RF/master/META6.json
