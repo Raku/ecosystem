@@ -557,8 +557,8 @@ https://raw.githubusercontent.com/raku-community-modules/Mime-Types/master/META6
 https://raw.githubusercontent.com/raku-community-modules/Netstring/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Number-Denominate/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/p6lert/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/Pastebin-Gist/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/Pastebin-Shadowcat/master/META6.json
+https://raw.githubusercontent.com/raku-community-modules/Pastebin-Gist/ac3ecb54fa11af06030e11348c5ee1517bdc90dd/META6.json
+https://raw.githubusercontent.com/raku-community-modules/Pastebin-Shadowcat/b1a3bfb8d8e29a54835ce934c3b42df1342627a3/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Pod-TreeWalker/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Proc-Q/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Proxee/master/META6.json
