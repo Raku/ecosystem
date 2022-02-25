@@ -522,7 +522,7 @@ https://raw.githubusercontent.com/raku-community-modules/Config-JSON/master/META
 https://raw.githubusercontent.com/raku-community-modules/CoreHackers-Q/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/CoreHackers-Sourcery/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Date-WorkdayCalendar/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/DateTime-Format/master/META6.json
+https://raw.githubusercontent.com/raku-community-modules/DateTime-Format/b39882242f7e219d793325bfb58b2a035a413ec1/META6.json
 https://raw.githubusercontent.com/raku-community-modules/DateTime-Math/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/DateTime-TimeZone/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/DateTime-Utils/master/META6.json
