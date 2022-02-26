@@ -516,13 +516,11 @@ https://raw.githubusercontent.com/prodotiscus/perl6-Dictionary-Create/master/MET
 https://raw.githubusercontent.com/raku-community-modules/Acme-Advent-Highlighter/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Acme-Anguish/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/ANTLR4-Grammar/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/App-Nopaste/09833561fe4cc3db00957c68fb284a0c0c8f632e/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Benchy/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Config-JSON/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/CoreHackers-Q/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/CoreHackers-Sourcery/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Date-WorkdayCalendar/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/DateTime-Format/b39882242f7e219d793325bfb58b2a035a413ec1/META6.json
 https://raw.githubusercontent.com/raku-community-modules/DateTime-Math/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/DateTime-TimeZone/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/DateTime-Utils/master/META6.json
@@ -557,8 +555,6 @@ https://raw.githubusercontent.com/raku-community-modules/Mime-Types/master/META6
 https://raw.githubusercontent.com/raku-community-modules/Netstring/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Number-Denominate/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/p6lert/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/Pastebin-Gist/ac3ecb54fa11af06030e11348c5ee1517bdc90dd/META6.json
-https://raw.githubusercontent.com/raku-community-modules/Pastebin-Shadowcat/b1a3bfb8d8e29a54835ce934c3b42df1342627a3/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Pod-TreeWalker/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Proc-Q/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Proxee/master/META6.json
