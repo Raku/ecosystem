@@ -521,8 +521,6 @@ https://raw.githubusercontent.com/raku-community-modules/Config-JSON/master/META
 https://raw.githubusercontent.com/raku-community-modules/CoreHackers-Q/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/CoreHackers-Sourcery/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Date-WorkdayCalendar/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/DateTime-Math/5d7e49715ff714e892bbd968214395c5034ed416/META6.json
-https://raw.githubusercontent.com/raku-community-modules/DateTime-TimeZone/8f72abde4489bad0671598fa5d3293c8e235096d/META6.json
 https://raw.githubusercontent.com/raku-community-modules/DateTime-Utils/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/DB-Model-Easy/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/DBIish/master/META6.json
@@ -585,7 +583,6 @@ https://raw.githubusercontent.com/raku-community-modules/WhereList/master/META6.
 https://raw.githubusercontent.com/raku-community-modules/WWW/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/WWW-P6lert/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/WWW-vlc-Remote/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/XML/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/XML-Entity-HTML/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/YAML/master/META6.json
 https://raw.githubusercontent.com/Raku-Noise-Gang/p6-Music-Helpers/master/META6.json
