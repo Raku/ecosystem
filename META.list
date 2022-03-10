@@ -561,7 +561,7 @@ https://raw.githubusercontent.com/raku-community-modules/SCGI/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Subsets-IO/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/System-Passwd/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Template6/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/Terminal-Width/master/META6.json
+https://raw.githubusercontent.com/raku-community-modules/Terminal-Width/8f849a970d128cfa2dda5a348d7080566a2fb08e/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Test-Builder/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Test-Notice/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Test-Output/master/META6.json
