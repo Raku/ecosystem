@@ -534,8 +534,6 @@ https://raw.githubusercontent.com/raku-community-modules/HTTP-Server-Async/maste
 https://raw.githubusercontent.com/raku-community-modules/Inline-Brainfuck/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Inline-Scheme-Guile/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/IO-CatHandle-AutoLines/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/IO-Dir/6b1ddd9333cb5048ae187b0db7f3dac525cfed44/META6.json
-https://raw.githubusercontent.com/raku-community-modules/IO-MiddleMan/4b99673992d1d25a9cb85b4ebfdbcfadc0f5755f/META6.json
 https://raw.githubusercontent.com/raku-community-modules/IO-Path-ChildSecure/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/IRC-Client-Plugin-Factoid/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/IRC-Utils/master/META6.json
@@ -546,7 +544,6 @@ https://raw.githubusercontent.com/raku-community-modules/LN/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Locale-US/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Mime-Types/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Netstring/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/Number-Denominate/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/p6lert/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Pod-TreeWalker/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Proc-Q/master/META6.json
@@ -560,12 +557,8 @@ https://raw.githubusercontent.com/raku-community-modules/SCGI/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Subsets-IO/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/System-Passwd/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Template6/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/Terminal-Width/8f849a970d128cfa2dda5a348d7080566a2fb08e/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Test-Builder/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/Test-Notice/de349b4ff3ec7087e72b89eeebe21dd91d8224f3/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Test-Output/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/Test-When/ab658efc4b8664ddaf31a2770d6cad7e037ac7d7/META6.json
-https://raw.githubusercontent.com/raku-community-modules/Test-When/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/TestML/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Testo/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Toaster/master/META6.json
