@@ -537,7 +537,7 @@ https://raw.githubusercontent.com/raku-community-modules/IO-CatHandle-AutoLines/
 https://raw.githubusercontent.com/raku-community-modules/IO-Path-ChildSecure/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/IRC-Client-Plugin-Factoid/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/IRC-Utils/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/Linenoise/master/META6.json
+https://raw.githubusercontent.com/raku-community-modules/Linenoise/89a86b2718c431a1af73e0b375bce709f4080f81/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Lingua-Conjunction/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/lingua-en-stem-porter/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/LN/master/META6.json
