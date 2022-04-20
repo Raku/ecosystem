@@ -537,7 +537,7 @@ https://raw.githubusercontent.com/raku-community-modules/HTTP-Server-Async/maste
 https://raw.githubusercontent.com/raku-community-modules/Inline-Brainfuck/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Inline-Scheme-Guile/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/IO-CatHandle-AutoLines/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/IO-Path-ChildSecure/master/META6.json
+https://raw.githubusercontent.com/raku-community-modules/IO-Path-ChildSecure/40271d5a0d8f3538a109b960554d64186a0a3fad/META6.json
 https://raw.githubusercontent.com/raku-community-modules/IRC-Client-Plugin-Factoid/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/IRC-Utils/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Linenoise/89a86b2718c431a1af73e0b375bce709f4080f81/META6.json
