@@ -548,7 +548,7 @@ https://raw.githubusercontent.com/raku-community-modules/p6lert/master/META6.jso
 https://raw.githubusercontent.com/raku-community-modules/Pod-TreeWalker/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Proc-Q/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Proxee/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/PSGI/master/META6.json
+https://raw.githubusercontent.com/raku-community-modules/PSGI/b2c6426a8426309f280d72af680827656257e3e3/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Questhub/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Raku-Parser/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/RakudoPrereq/master/META6.json
