@@ -541,7 +541,7 @@ https://raw.githubusercontent.com/raku-community-modules/Linenoise/89a86b2718c43
 https://raw.githubusercontent.com/raku-community-modules/Lingua-Conjunction/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/lingua-en-stem-porter/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/LN/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/Locale-US/master/META6.json
+https://raw.githubusercontent.com/raku-community-modules/Locale-US/bdf35ffde88df0734101b389dbc315c7d2fac972/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Mime-Types/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/p6lert/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Pod-TreeWalker/master/META6.json
