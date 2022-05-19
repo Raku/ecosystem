@@ -532,7 +532,7 @@ https://raw.githubusercontent.com/raku-community-modules/Grammar-Profiler-Simple
 https://raw.githubusercontent.com/raku-community-modules/HTTP-Easy/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/HTTP-Server/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/HTTP-Server-Async/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/Inline-Brainfuck/master/META6.json
+https://raw.githubusercontent.com/raku-community-modules/Inline-Brainfuck/90e6c25987ae3ff0a4d3434326a81fe021fa5f63/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Inline-Scheme-Guile/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/IO-CatHandle-AutoLines/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/IRC-Client-Plugin-Factoid/master/META6.json
