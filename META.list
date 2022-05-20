@@ -523,7 +523,7 @@ https://raw.githubusercontent.com/raku-community-modules/Date-WorkdayCalendar/ma
 https://raw.githubusercontent.com/raku-community-modules/DBIish/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/FastCGI/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/File-LibMagic/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/Games-TauStation-DateTime/master/META6.json
+https://raw.githubusercontent.com/raku-community-modules/Games-TauStation-DateTime/0ecf2a3c30d526625b58296761cdaff0fd7ddff2/META6.json
 https://raw.githubusercontent.com/raku-community-modules/GD/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/GlotIO/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Grammar-Common/master/META6.json
