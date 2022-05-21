@@ -515,7 +515,6 @@ https://raw.githubusercontent.com/ppentchev/Serialize-Naive/master/META6.json
 https://raw.githubusercontent.com/ppentchev/Shell-Capture/master/META6.json
 https://raw.githubusercontent.com/prodotiscus/perl6-Dictionary-Create/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Acme-Advent-Highlighter/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/Acme-Anguish/f34a1603be2c1255669a7b3c6fcd61dfb911207c/META6.json
 https://raw.githubusercontent.com/raku-community-modules/ANTLR4-Grammar/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Config-JSON/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/CoreHackers-Sourcery/master/META6.json
@@ -523,7 +522,6 @@ https://raw.githubusercontent.com/raku-community-modules/Date-WorkdayCalendar/ma
 https://raw.githubusercontent.com/raku-community-modules/DBIish/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/FastCGI/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/File-LibMagic/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/Games-TauStation-DateTime/0ecf2a3c30d526625b58296761cdaff0fd7ddff2/META6.json
 https://raw.githubusercontent.com/raku-community-modules/GD/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/GlotIO/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Grammar-Common/master/META6.json
@@ -540,8 +538,6 @@ https://raw.githubusercontent.com/raku-community-modules/LN/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Mime-Types/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/p6lert/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Pod-TreeWalker/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/Proc-Q/2d2bbbbb0abe781deae4a82475d7c2ccc33e4ba3/META6.json
-https://raw.githubusercontent.com/raku-community-modules/Proxee/7abaa9a9d7cfee368bebb58e59fcd95cee9d8d7e/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Raku-Parser/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/RakudoPrereq/07b21e3e62e975d9e9e05643eec0beba89076eed/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Reminders/master/META6.json
@@ -552,7 +548,6 @@ https://raw.githubusercontent.com/raku-community-modules/Test-Builder/master/MET
 https://raw.githubusercontent.com/raku-community-modules/Test-Output/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/TestML/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Testo/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/Trait-IO/535e1ac8642fbe46d8e353d14ca9ac04c4fc74c4/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Twitter/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/URI/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Web-App-Ballet/master/META6.json
