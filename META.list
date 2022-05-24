@@ -518,7 +518,7 @@ https://raw.githubusercontent.com/raku-community-modules/Acme-Advent-Highlighter
 https://raw.githubusercontent.com/raku-community-modules/ANTLR4-Grammar/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Config-JSON/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/CoreHackers-Sourcery/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/Date-WorkdayCalendar/master/META6.json
+https://raw.githubusercontent.com/raku-community-modules/Date-WorkdayCalendar/9820ea8b6a724c70d02e176c96a1113d3981753f/META6.json
 https://raw.githubusercontent.com/raku-community-modules/DBIish/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/FastCGI/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/File-LibMagic/master/META6.json
