@@ -518,7 +518,6 @@ https://raw.githubusercontent.com/raku-community-modules/Acme-Advent-Highlighter
 https://raw.githubusercontent.com/raku-community-modules/ANTLR4-Grammar/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Config-JSON/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/CoreHackers-Sourcery/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/Date-WorkdayCalendar/9820ea8b6a724c70d02e176c96a1113d3981753f/META6.json
 https://raw.githubusercontent.com/raku-community-modules/DBIish/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/FastCGI/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/File-LibMagic/master/META6.json
@@ -537,13 +536,11 @@ https://raw.githubusercontent.com/raku-community-modules/lingua-en-stem-porter/m
 https://raw.githubusercontent.com/raku-community-modules/LN/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Mime-Types/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/p6lert/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/Pod-TreeWalker/a13b119bb63aa603fbdbb13a116b0c0b9614dfb4/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Raku-Parser/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/RakudoPrereq/07b21e3e62e975d9e9e05643eec0beba89076eed/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Reminders/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/System-Passwd/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Template6/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/Test-Builder/531e5d67f1028a8bcfe84917075ca36a23a6e147/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Test-Output/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/TestML/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Testo/master/META6.json
