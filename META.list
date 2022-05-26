@@ -532,7 +532,7 @@ https://raw.githubusercontent.com/raku-community-modules/Inline-Brainfuck/90e6c2
 https://raw.githubusercontent.com/raku-community-modules/Inline-Scheme-Guile/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/IRC-Client-Plugin-Factoid/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/lingua-en-stem-porter/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/Mime-Types/master/META6.json
+https://raw.githubusercontent.com/raku-community-modules/MIME-Types/259349a4084d49393467bcb713555df3d6daabe7/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Raku-Parser/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/RakudoPrereq/07b21e3e62e975d9e9e05643eec0beba89076eed/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Reminders/master/META6.json
