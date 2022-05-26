@@ -523,7 +523,7 @@ https://raw.githubusercontent.com/raku-community-modules/FastCGI/master/META6.js
 https://raw.githubusercontent.com/raku-community-modules/File-LibMagic/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/GD/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/GlotIO/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/Grammar-Common/master/META6.json
+https://raw.githubusercontent.com/raku-community-modules/Grammar-Common/3dd1730caa61dfea9a7d4b60790d85bca276ed45/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Grammar-Profiler-Simple/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/HTTP-Easy/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/HTTP-Server/master/META6.json
