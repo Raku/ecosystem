@@ -517,7 +517,7 @@ https://raw.githubusercontent.com/prodotiscus/perl6-Dictionary-Create/master/MET
 https://raw.githubusercontent.com/raku-community-modules/Acme-Advent-Highlighter/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/ANTLR4-Grammar/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Config-JSON/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/CoreHackers-Sourcery/master/META6.json
+https://raw.githubusercontent.com/raku-community-modules/CoreHackers-Sourcery/d933be8c7128f5e7bf3d603848f6359519cc0fa2/META6.json
 https://raw.githubusercontent.com/raku-community-modules/DBIish/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/FastCGI/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/File-LibMagic/master/META6.json
