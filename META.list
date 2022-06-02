@@ -522,9 +522,6 @@ https://raw.githubusercontent.com/raku-community-modules/FastCGI/master/META6.js
 https://raw.githubusercontent.com/raku-community-modules/File-LibMagic/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/GD/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/GlotIO/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/Grammar-Profiler-Simple/e06e64b081de33a2047e797ae7a07ccbc19a36f2/META6.json
-https://raw.githubusercontent.com/raku-community-modules/HTTP-Easy/6fe94a83d2ac0f8b36928df1f2e1ad07909d0463/META6.json
-https://raw.githubusercontent.com/raku-community-modules/HTTP-Server-Async/11c04cfcb5c526ddddc57b52d0846317c74d2205/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Inline-Scheme-Guile/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/IRC-Client-Plugin-Factoid/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Reminders/master/META6.json
