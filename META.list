@@ -226,7 +226,7 @@ https://raw.githubusercontent.com/FCO/SupplyTimeWindow/master/META6.json
 https://raw.githubusercontent.com/FCO/Test-Fuzz/master/META6.json
 https://raw.githubusercontent.com/FCO/test-time/master/META6.json
 https://raw.githubusercontent.com/FCO/Trie/master/META6.json
-https://raw.githubusercontent.com/finanalyst/collection-plugins/master/META6.json
+https://raw.githubusercontent.com/finanalyst/collection-plugins/main/META6.json
 https://raw.githubusercontent.com/finanalyst/collection-raku-documentation/master/META6.json
 https://raw.githubusercontent.com/finanalyst/p6-Algorithm-Tarjan/master/META6.json
 https://raw.githubusercontent.com/finanalyst/p6-inform/master/META6.json
@@ -267,14 +267,14 @@ https://raw.githubusercontent.com/GildedHonour/TelegramBot/master/META6.json
 https://raw.githubusercontent.com/Gnouc/p6-linux-process-signalinfo/master/META6.json
 https://raw.githubusercontent.com/goneri/p6-Email-Notmuch/master/META6.json
 https://raw.githubusercontent.com/gotoexit/Concurrent-BoundedChannel/master/META6.json
-https://raw.githubusercontent.com/grondilu/base58-raku/master/META6.json
+https://raw.githubusercontent.com/grondilu/base58-raku/main/META6.json
 https://raw.githubusercontent.com/grondilu/chess/master/META6.json
 https://raw.githubusercontent.com/grondilu/clifford/master/META6.json
 https://raw.githubusercontent.com/grondilu/Ed25519/master/META6.json
 https://raw.githubusercontent.com/grondilu/libdigest-raku/master/META6.json
 https://raw.githubusercontent.com/grondilu/openssl/master/META6.json
 https://raw.githubusercontent.com/grondilu/p6-modular/master/META.info
-https://raw.githubusercontent.com/grondilu/pbkdf2-raku/master/META6.json
+https://raw.githubusercontent.com/grondilu/pbkdf2-raku/main/META6.json
 https://raw.githubusercontent.com/grondilu/symbol/master/META6.json
 https://raw.githubusercontent.com/grondilu/trigpi/master/META6.json
 https://raw.githubusercontent.com/hankache/Acme-Cow/master/META6.json
@@ -510,7 +510,7 @@ https://raw.githubusercontent.com/prodotiscus/perl6-Dictionary-Create/master/MET
 https://raw.githubusercontent.com/raku-community-modules/Acme-Advent-Highlighter/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/ANTLR4-Grammar/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/Config-JSON/master/META6.json
-https://raw.githubusercontent.com/raku-community-modules/DBIish/master/META6.json
+https://raw.githubusercontent.com/raku-community-modules/DBIish/main/META6.json
 https://raw.githubusercontent.com/raku-community-modules/FastCGI/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/File-LibMagic/master/META6.json
 https://raw.githubusercontent.com/raku-community-modules/GD/master/META6.json
@@ -587,7 +587,7 @@ https://raw.githubusercontent.com/sergot/BreakDancer/master/META.info
 https://raw.githubusercontent.com/sergot/datetime-parse/master/META6.json
 https://raw.githubusercontent.com/sergot/http-useragent/master/META6.json
 https://raw.githubusercontent.com/sergot/io-socket-ssl/master/META6.json
-https://raw.githubusercontent.com/sergot/openssl/master/META6.json
+https://raw.githubusercontent.com/sergot/openssl/main/META6.json
 https://raw.githubusercontent.com/sergot/perl6-encode/master/META6.json
 https://raw.githubusercontent.com/sergot/Term--ProgressBar/master/META.info
 https://raw.githubusercontent.com/ShaneKilkelly/perl6-config-clever/master/META6.json
