@@ -270,7 +270,7 @@ https://raw.githubusercontent.com/gotoexit/Concurrent-BoundedChannel/master/META
 https://raw.githubusercontent.com/grondilu/base58-raku/main/META6.json
 https://raw.githubusercontent.com/grondilu/chess/master/META6.json
 https://raw.githubusercontent.com/grondilu/clifford/master/META6.json
-https://raw.githubusercontent.com/grondilu/Ed25519/master/META6.json
+https://raw.githubusercontent.com/grondilu/ed25519-raku/main/META6.json
 https://raw.githubusercontent.com/grondilu/libdigest-raku/master/META6.json
 https://raw.githubusercontent.com/grondilu/openssl/master/META6.json
 https://raw.githubusercontent.com/grondilu/p6-modular/master/META.info
