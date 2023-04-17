@@ -117,7 +117,6 @@ https://raw.githubusercontent.com/codesections/pod-literate/main/META6.json
 https://raw.githubusercontent.com/codesections/pod-tangle/main/META6.json
 https://raw.githubusercontent.com/codesections/pod-weave/main/META6.json
 https://raw.githubusercontent.com/Cofyc/perl6-redis/master/META6.json
-https://raw.githubusercontent.com/coke/raku-uni/master/META6.json
 https://raw.githubusercontent.com/colomon/Benchmark-Plot/master/META6.json
 https://raw.githubusercontent.com/colomon/IO-Prompter/master/META6.json
 https://raw.githubusercontent.com/colomon/List-Utils/master/META6.json
@@ -299,7 +298,6 @@ https://raw.githubusercontent.com/jnthn/p6-concurrent-progress/master/META6.json
 https://raw.githubusercontent.com/jnthn/p6-data-textorbinary/master/META6.json
 https://raw.githubusercontent.com/jnthn/p6-docker-file/master/META6.json
 https://raw.githubusercontent.com/jnthn/p6-file-ignore/master/META6.json
-https://raw.githubusercontent.com/jnthn/p6-http-hpack/master/META6.json
 https://raw.githubusercontent.com/jnthn/p6-ssh-libssh/master/META6.json
 https://raw.githubusercontent.com/jnthn/p6-test-io-socket-async/master/META6.json
 https://raw.githubusercontent.com/jnthn/p6-test-scheduler/master/META6.json
