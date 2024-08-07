@@ -540,7 +540,6 @@ https://raw.githubusercontent.com/tokuhirom/p6-HTTP-Parser/master/META6.json
 https://raw.githubusercontent.com/tokuhirom/p6-HTTP-Server-Tiny/master/META6.json
 https://raw.githubusercontent.com/tokuhirom/p6-Test-Base/master/META6.json
 https://raw.githubusercontent.com/tokuhirom/p6-WebSocket/master/META6.json
-https://raw.githubusercontent.com/uasi/messagepack-pm6/master/META6.json
 https://raw.githubusercontent.com/ufobat/HTTP-Server-Ogre/master/META6.json
 https://raw.githubusercontent.com/ufobat/p6-StrictClass/master/META6.json
 https://raw.githubusercontent.com/ufobat/p6-time-crontab/master/META6.json
