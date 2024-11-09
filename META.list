@@ -214,7 +214,6 @@ https://raw.githubusercontent.com/jnthn/p6-concurrent-progress/master/META6.json
 https://raw.githubusercontent.com/jnthn/p6-data-textorbinary/master/META6.json
 https://raw.githubusercontent.com/jnthn/p6-docker-file/master/META6.json
 https://raw.githubusercontent.com/jnthn/p6-file-ignore/master/META6.json
-https://raw.githubusercontent.com/jnthn/p6-ssh-libssh/master/META6.json
 https://raw.githubusercontent.com/jnthn/p6-test-io-socket-async/master/META6.json
 https://raw.githubusercontent.com/jnthn/p6-test-scheduler/master/META6.json
 https://raw.githubusercontent.com/jnthn/rakudo-debugger/master/META6.json
