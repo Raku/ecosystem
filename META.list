@@ -30,11 +30,6 @@ https://raw.githubusercontent.com/Atrox/haikunatorperl/master/META6.json
 https://raw.githubusercontent.com/atweiden/config-toml/master/META6.json
 https://raw.githubusercontent.com/atweiden/crane/master/META6.json
 https://raw.githubusercontent.com/atweiden/digest-xxhash/master/META6.json
-https://raw.githubusercontent.com/atweiden/file-path-resolve/master/META6.json
-https://raw.githubusercontent.com/atweiden/file-presence/master/META6.json
-https://raw.githubusercontent.com/atweiden/mktxn/master/META6.json
-https://raw.githubusercontent.com/atweiden/txn-parser/master/META6.json
-https://raw.githubusercontent.com/atweiden/txn-remarshal/master/META6.json
 https://raw.githubusercontent.com/avuserow/perl6-audio-taglib-simple/master/META6.json
 https://raw.githubusercontent.com/avuserow/perl6-binary-structured/master/META6.json
 https://raw.githubusercontent.com/avuserow/perl6-compress-snappy/master/META6.json
