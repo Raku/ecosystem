@@ -198,9 +198,6 @@ https://raw.githubusercontent.com/jdv/p6-data-selector/master/META6.json
 https://raw.githubusercontent.com/JJ/raku-toi/master/META6.json
 https://raw.githubusercontent.com/jjatria/perl6-Pod-Parser/master/META6.json
 https://raw.githubusercontent.com/jnthn/grammar-debugger/master/META6.json
-https://raw.githubusercontent.com/jnthn/p6-app-moarvm-heapanalyzer/master/META6.json
-https://raw.githubusercontent.com/jnthn/p6-concurrent-iterator/master/META6.json
-https://raw.githubusercontent.com/jnthn/p6-concurrent-progress/master/META6.json
 https://raw.githubusercontent.com/jnthn/p6-docker-file/master/META6.json
 https://raw.githubusercontent.com/jnthn/p6-file-ignore/master/META6.json
 https://raw.githubusercontent.com/jnthn/p6-test-io-socket-async/master/META6.json
