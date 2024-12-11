@@ -192,12 +192,6 @@ https://raw.githubusercontent.com/jasonmay/perl6-ioc/master/META6.json
 https://raw.githubusercontent.com/jdv/p6-data-selector/master/META6.json
 https://raw.githubusercontent.com/JJ/raku-toi/master/META6.json
 https://raw.githubusercontent.com/jjatria/perl6-Pod-Parser/master/META6.json
-https://raw.githubusercontent.com/jnthn/grammar-debugger/master/META6.json
-https://raw.githubusercontent.com/jnthn/p6-docker-file/master/META6.json
-https://raw.githubusercontent.com/jnthn/p6-file-ignore/master/META6.json
-https://raw.githubusercontent.com/jnthn/p6-test-io-socket-async/master/META6.json
-https://raw.githubusercontent.com/jnthn/p6-test-scheduler/master/META6.json
-https://raw.githubusercontent.com/jnthn/rakudo-debugger/master/META6.json
 https://raw.githubusercontent.com/jpve/perl6-net-packet/master/META.info
 https://raw.githubusercontent.com/jpve/perl6-net-pcap/master/META.info
 https://raw.githubusercontent.com/jpve/perl6-pod-strip/master/META.info
